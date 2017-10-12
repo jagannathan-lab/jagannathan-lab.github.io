@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Jagannathan Lab
+title: Jagannathan Laboratory
 
 # Short description of your site
 description: Jagannathan lab at UC Denver, RNA Bioscience Inititative
@@ -43,7 +43,7 @@ navbar-links:
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 # navbar-col: "orange"
-# navbar-img: "/img/bgimage.png"
+navbar-img: "/img/if-fish.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
