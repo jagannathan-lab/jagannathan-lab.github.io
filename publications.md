@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Publications
 * Install at least version 3.4.0 of R on your laptop. Directions for a first install are [here for Windows](http://derekogle.com/IFAR/supplements/installations/InstallRWin.html){:target="_blank"} or [here for MacOS](http://derekogle.com/IFAR/supplements/installations/InstallRMac.html){:target="_blank"}. If you are using Windows and already have R installed, then [here is an easy method to upgrade](http://www.r-statistics.com/2015/06/a-step-by-step-screenshots-tutorial-for-upgrading-r-on-windows/){:target="_blank"}. [*Directions for the Mac installation may be dated. Note that simply following the installation defaults should be fine.*]
 * I prefer to use [RStudio](https://www.rstudio.com/products/RStudio/){:target="_blank"} to interact with R (but RStudio is not required for this course). Directions to install and prepare RStudio (along with a quick introduction to the RStudio interface) are [here for Windows](http://derekogle.com/IFAR/supplements/installations/InstallRStudioWin.html){:target="_blank"} and [here for MacOS](http://derekogle.com/IFAR/supplements/installations/InstallRStudioMac.html){:target="_blank"}. [*Directions for the Mac installation may be dated. Note that simply following the installation defaults should be fine.*]
