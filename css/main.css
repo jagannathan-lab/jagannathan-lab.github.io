@@ -146,7 +146,7 @@ img {
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 50px;
+  height: 20px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
@@ -155,19 +155,19 @@ img {
   padding-top: 20px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 50px;
+  height: 20px;
 }
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 50px 0;
+    padding: 20px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
   }
 
   .navbar-custom.top-nav-short {
-    padding: 50px;
+    padding: 20px;
   }
 }
 
@@ -177,12 +177,12 @@ img {
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
-  left: 100%;
+  left: 50%;
   width: 50px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
-  width: 100%;
+  width: 50%;
   border-radius: 50%;
   margin-left: -50%;
   display: inline-block;
@@ -191,7 +191,7 @@ img {
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 .navbar-custom .avatar-container  .avatar-img {
-  width: 100%;
+  width: 50%;
   border-radius: -50%;
   display: block;
 }
@@ -206,8 +206,8 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 50px;
-    margin-top: 50px;
+    width: 150px;
+    margin-top: 150px;
   }
 
   .navbar-custom .avatar-container  .avatar-img-border {
@@ -218,7 +218,7 @@ img {
   }
 
   .navbar-custom .avatar-container  .avatar-img {
-    width: 50%;
+    width: 100%;
   }
 }
 
