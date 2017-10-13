@@ -23,7 +23,7 @@ description: Jagannathan lab at UC Denver, RNA Bioscience Inititative
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "/index.html"
+  Research: "index.html"
   Publications: "publications"
   Contact: "contact"
   Join us!: "joinus"
