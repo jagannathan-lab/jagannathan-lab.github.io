@@ -105,6 +105,21 @@ img {
   }
 }
 
+/* --- Site title --- */
+.site-title {
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+
+    &,
+    &:visited {
+        color: #FFFFFF;
+    }
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {
