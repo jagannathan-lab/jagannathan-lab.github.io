@@ -1,5 +1,6 @@
 ---
-layout: no-title-page
+layout: page
+title: ""
 ---
 
 ## Publications
