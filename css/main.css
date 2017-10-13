@@ -146,7 +146,7 @@ img {
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 50px;
+  height: 150px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
@@ -155,7 +155,7 @@ img {
   padding-top: 50px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 50px;
+  height: 140px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -183,8 +183,8 @@ img {
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
-  border-radius: 100%;
-  margin-left: 50%;
+  border-radius: 50%;
+  margin-left: -50%;
   display: inline-block;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
@@ -192,7 +192,7 @@ img {
 }
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
-  border-radius: 50%;
+  border-radius: -50%;
   display: block;
 }
 
