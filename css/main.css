@@ -59,7 +59,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .main-content {
-    padding-top: 130px;
+    padding-top: 30px;
   }
 }
 
@@ -146,28 +146,28 @@ img {
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 150px;
+  height: 50px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo {
-  padding-top: 50px;
+  padding-top: 20px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 140px;
+  height: 50px;
 }
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 150px 0;
+    padding: 50px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
   }
 
   .navbar-custom.top-nav-short {
-    padding: 150px;
+    padding: 50px;
   }
 }
 
