@@ -25,7 +25,7 @@ description: Jagannathan lab at UC Denver, RNA Bioscience Inititative
 navbar-links:
   Research: "research"
   Publications: "publications"
-  Contact: "aboutme"
+  Contact: "contact"
   Join us!: "joinus"
   #Resources:
   #  - Research: "http://deanattali.com/beautiful-jekyll/"
