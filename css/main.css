@@ -146,7 +146,7 @@ img {
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 250px;
+  height: 50px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
@@ -155,19 +155,19 @@ img {
   padding-top: 50px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 250px;
+  height: 50px;
 }
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 50px 0;
+    padding: 150px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
   }
 
   .navbar-custom.top-nav-short {
-    padding: 20px;
+    padding: 150px;
   }
 }
 
@@ -178,7 +178,7 @@ img {
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   left: 100%;
-  width: 150px;
+  width: 50px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
@@ -206,7 +206,7 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 100px;
+    width: 50px;
     margin-top: 50px;
   }
 
@@ -218,7 +218,7 @@ img {
   }
 
   .navbar-custom .avatar-container  .avatar-img {
-    width: 100%;
+    width: 50%;
   }
 }
 
