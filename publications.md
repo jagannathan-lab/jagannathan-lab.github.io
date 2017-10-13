@@ -1,5 +1,6 @@
 ---
 layout: page
+title: none
 ---
 
 ## Publications
@@ -12,7 +13,7 @@ layout: page
 
 ----
 
-## pre-2017
+## Pre-2017
 **Lines will be live by 6-Nov-17**
 * Lecture Slides (PowerPoint)[](Slides.pptx)
 * Pygmy Whitefish R Script[](PWF2016_Student.R) and [data](PWF2016.csv)
