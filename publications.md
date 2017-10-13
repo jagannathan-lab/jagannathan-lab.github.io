@@ -1,9 +1,4 @@
-## Course Description
-This one-day course is for students interested in expanding their R skills to estimating basic population dynamic rate parameters. Through a sequence of short lectures, code demonstrations, and hands-on application exercises, participants will use R to construct and apply an age-length key to estimate ages of individual fish from their lengths, estimate mortality rates and compare rates among groups, fit a von Bertalanffy growth function (VBGF) and compare function parameters among groups, and fit several stock-recruitment functions. Depending on time, students may also fit weight-length relationships and compare parameters among groups. Participants should be familiar with the fundamentals of R, including basic applications. [See the workshop announcement](https://afs-calneva.org/wp-content/uploads/sites/8/2017/07/Save-the-date_WD_Student_Colloquium.pdf).
-
-----
-
-## Pre-Course Preparation
+## Publications
 * Install at least version 3.4.0 of R on your laptop. Directions for a first install are [here for Windows](http://derekogle.com/IFAR/supplements/installations/InstallRWin.html){:target="_blank"} or [here for MacOS](http://derekogle.com/IFAR/supplements/installations/InstallRMac.html){:target="_blank"}. If you are using Windows and already have R installed, then [here is an easy method to upgrade](http://www.r-statistics.com/2015/06/a-step-by-step-screenshots-tutorial-for-upgrading-r-on-windows/){:target="_blank"}. [*Directions for the Mac installation may be dated. Note that simply following the installation defaults should be fine.*]
 * I prefer to use [RStudio](https://www.rstudio.com/products/RStudio/){:target="_blank"} to interact with R (but RStudio is not required for this course). Directions to install and prepare RStudio (along with a quick introduction to the RStudio interface) are [here for Windows](http://derekogle.com/IFAR/supplements/installations/InstallRStudioWin.html){:target="_blank"} and [here for MacOS](http://derekogle.com/IFAR/supplements/installations/InstallRStudioMac.html){:target="_blank"}. [*Directions for the Mac installation may be dated. Note that simply following the installation defaults should be fine.*]
 * Install the `FSA`, `FSAdata`, `AICcmodavg`, `dplyr`, `magrittr`, `minpack.lm`, and  `nlstools` packages for use in this course. Directions for installing packages are [here if you plan to use RStudio](http://derekogle.com/IFAR/supplements/installations/InstallPackagesRStudio.html){:target="_blank"} and [here for Windows](http://derekogle.com/IFAR/supplements/installations/InstallPackagesRWin.html) and [here for MacOS](http://derekogle.com/IFAR/supplements/installations/InstallPackagesRMac.html){:target="_blank"} if you plan to use R directly. Test your package installations by seeing if you can [run this script](InstallationTester.R) without error.
@@ -13,15 +8,8 @@ This one-day course is for students interested in expanding their R skills to es
 
 ----
 
-## Course Materials
+## pre-2017
 **Lines will be live by 6-Nov-17**
 * Lecture Slides (PowerPoint)[](Slides.pptx)
 * Pygmy Whitefish R Script[](PWF2016_Student.R) and [data](PWF2016.csv)
 * Walleye R Script[](WAERecruitment_Student.R)
-
-----
-
-## Post-Course Follow-up
-* Please complete this survey regarding this short course.
-* If you have any questions please feel free to [contact me](mailto:derek@derekogle.com).
-
