@@ -2,6 +2,5 @@
 layout: page
 ---
 
-Sujatha Jagannathan
-
+Contact us!
 Under construction
