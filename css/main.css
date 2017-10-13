@@ -140,34 +140,34 @@ img {
 }
 
 .navbar-custom .navbar-brand-logo {
-  padding-top: 0;
+  padding-top: 20px;
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 150px;
+  height: 250px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo {
-  padding-top: 5px;
+  padding-top: 50px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 140px;
+  height: 250px;
 }
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    padding: 50px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
   }
 
   .navbar-custom.top-nav-short {
-    padding: 0;
+    padding: 20px;
   }
 }
 
@@ -177,14 +177,14 @@ img {
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
-  left: 50%;
-  width: 50px;
+  left: 100%;
+  width: 150px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
-  border-radius: 50%;
-  margin-left: -50%;
+  border-radius: 100%;
+  margin-left: 50%;
   display: inline-block;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
@@ -207,7 +207,7 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
     width: 100px;
-    margin-top: -50px;
+    margin-top: 50px;
   }
 
   .navbar-custom .avatar-container  .avatar-img-border {
@@ -236,7 +236,7 @@ img {
 }
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
-  padding: 10px;
+  padding: 20px;
   padding-left: 30px;
   background: #f5f5f5;
   text-decoration: none !important;
@@ -265,7 +265,7 @@ img {
     position: absolute;
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
-    padding-left: 10px;
+    padding-left: 20px;
     border: 1px solid #eaeaea;
     border-width: 0 1px 1px;
   }
