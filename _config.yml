@@ -40,14 +40,14 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: "/img/jagannathan-laboratory.png"
+title-img: "/img/jagannathan-laboratory.png"
 
 # --- Background colour/image options --- #
 
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-# navbar-col: "orange"
+navbar-col: "black"
 navbar-img: "/img/if-fish.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
