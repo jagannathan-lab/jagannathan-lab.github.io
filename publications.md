@@ -4,8 +4,9 @@ layout: page
 
 |
 
-## Publications
-<strong><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/sujatha.jagannathan.1/bibliography/46492045/public/?sort=date&direction=ascending" target="_blank" rel="noopener">PUBMED</a></strong>
+## Publications: <strong><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/sujatha.jagannathan.1/bibliography/46492045/public/?sort=date&direction=ascending" target="_blank" rel="noopener">PUBMED</a></strong>
+
+* Feng Q, <strong>Jagannathan S</strong>, Bradley RK. The RNA Surveillance Factor UPF1 Represses Myogenesis via Its E3 Ubiquitin Ligase Activity. <em>Molecular cell. </em> 2017; 67(2):239-251.e6. <a href="https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(17)30398-2" target="_blank" rel="noopener">Link</a>
 
 * <strong>Jagannathan S</strong> and Bradley RK. Congenital myotonic dystrophy-an RNA-mediated disease across a developmental continuum. <em>Genes & development.</em> 2017; 31(11):1067-1068. <a href="http://genesdev.cshlp.org/content/31/11/1067.long" target="_blank" rel="noopener">Link</a>
 
