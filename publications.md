@@ -9,7 +9,7 @@ layout: page
 
 * <strong>Jagannathan S</strong> and Bradley R. Translational plasticity facilitates the accumulation of nonsense genetic variants in the human population. <em>Genome Research</em>. <span class="slug-ahead-of-print-date">2016 Sep 19.</span> doi:<span class="slug-doi" title="10.1101/gr.205070.116">10.1101/gr.205070.116</span><em>.</em> <em>In press </em><a href="http://genome.cshlp.org/content/early/2016/09/19/gr.205070.116.abstract">Link</a><em> </em><a href="http://biorxiv.org/content/early/2016/02/04/038687" target="_blank" rel="noopener">bioRxiv</a>
 
-* <strong>Jagannathan S*</strong>, Shadle SS*, Resnick R, Snider L, Tawil RN, van der Maarel SM, Bradley RK and Tapscott SJ. Model systems of DUX4 expression recapitulate the transcriptional profile of FSHD cells. <em>Hum Mol Genet.</em> 2016 Aug 15. (<strong>*</strong>Equal Contribution) <a href="http://hmg.oxfordjournals.org/content/early/2016/08/15/hmg.ddw271.abstract" target="_blank" rel="noopener">Link</a>
+* <strong>Jagannathan S#</strong>, Shadle SS#, Resnick R, Snider L, Tawil RN, van der Maarel SM, Bradley RK and Tapscott SJ. Model systems of DUX4 expression recapitulate the transcriptional profile of FSHD cells. <em>Hum Mol Genet.</em> 2016 Aug 15. (<strong>*</strong>Equal Contribution) <a href="http://hmg.oxfordjournals.org/content/early/2016/08/15/hmg.ddw271.abstract" target="_blank" rel="noopener">Link</a>
 
 * Feng Q, Snider L, <strong>Jagannathan S</strong>, Tawil R, van der Maarel SM, Tapscott SJ, Bradley RK. A feedback loop between nonsense-mediated decay and the retrogene DUX4 in facioscapulohumeral muscular dystrophy. <em>Elife.</em> 2015 Jan 7;4. <a href="https://elifesciences.org/content/4/e04996" target="_blank" rel="noopener">Link</a>
 
