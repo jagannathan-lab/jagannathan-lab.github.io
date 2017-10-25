@@ -7,9 +7,13 @@ layout: page
 ## Publications
 <strong><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/sujatha.jagannathan.1/bibliography/46492045/public/?sort=date&direction=ascending" target="_blank" rel="noopener">PUBMED</a></strong>
 
+* <strong>Jagannathan S</strong> and Bradley RK. Congenital myotonic dystrophy-an RNA-mediated disease across a developmental continuum. <em>Genes & development.</em> 2017; 31(11):1067-1068. <a href="http://genesdev.cshlp.org/content/31/11/1067.long" target="_blank" rel="noopener">Link</a>
+
+* Shadle SC, Zhong JW, Campbell AE, Conerly ML, <strong>Jagannathan S</strong>, Wong CJ, Morello TD, van der Maarel SM, Tapscott SJ. DUX4-induced dsRNA and MYC mRNA stabilization activate apoptotic pathways in human cell models of facioscapulohumeral dystrophy. <em>PLoS genetics.</em> 2017; 13(3):e1006658. <a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006658" target="_blank" rel="noopener">Link</a>
+
 * <strong>Jagannathan S</strong> and Bradley R. Translational plasticity facilitates the accumulation of nonsense genetic variants in the human population. <em>Genome Research</em>. <span class="slug-ahead-of-print-date">2016 Sep 19.</span> doi:<span class="slug-doi" title="10.1101/gr.205070.116">10.1101/gr.205070.116</span><em>.</em> <em>In press </em><a href="http://genome.cshlp.org/content/early/2016/09/19/gr.205070.116.abstract">Link</a><em> </em><a href="http://biorxiv.org/content/early/2016/02/04/038687" target="_blank" rel="noopener">bioRxiv</a>
 
-* <strong>Jagannathan S* </strong>, Shadle SS*, Resnick R, Snider L, Tawil RN, van der Maarel SM, Bradley RK and Tapscott SJ. Model systems of DUX4 expression recapitulate the transcriptional profile of FSHD cells. <em>Hum Mol Genet.</em> 2016 Aug 15. (<strong>*</strong>Equal Contribution) <a href="http://hmg.oxfordjournals.org/content/early/2016/08/15/hmg.ddw271.abstract" target="_blank" rel="noopener">Link</a>
+* <strong>Jagannathan S* </strong>, Shadle SC*, Resnick R, Snider L, Tawil RN, van der Maarel SM, Bradley RK and Tapscott SJ. Model systems of DUX4 expression recapitulate the transcriptional profile of FSHD cells. <em>Hum Mol Genet.</em> 2016 Aug 15. (<strong>*</strong>Equal Contribution) <a href="http://hmg.oxfordjournals.org/content/early/2016/08/15/hmg.ddw271.abstract" target="_blank" rel="noopener">Link</a>
 
 * Feng Q, Snider L, <strong>Jagannathan S</strong>, Tawil R, van der Maarel SM, Tapscott SJ, Bradley RK. A feedback loop between nonsense-mediated decay and the retrogene DUX4 in facioscapulohumeral muscular dystrophy. <em>Elife.</em> 2015 Jan 7;4. <a href="https://elifesciences.org/content/4/e04996" target="_blank" rel="noopener">Link</a>
 
