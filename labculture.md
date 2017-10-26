@@ -1,6 +1,8 @@
 ---
 layout: page
 ---
+|
+
 ### Lab Culture
 Below are some of the core values that we strive to promote within our group. 
 
