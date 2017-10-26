@@ -6,6 +6,8 @@ layout: page
 
 **Sujatha Jagannathan**
 
+<img align="right" src="/img/SJ_photo_for_flyer.jpg">
+
 ![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg) {: .center-image } {: width="60px"}
 
 Principle Investigator
