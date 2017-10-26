@@ -8,7 +8,7 @@ layout: page
 
 <img align="right" src="/img/SJ_photo_for_flyer.jpg">
 
-![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg) {: .center-image } {: width="60px"}
+![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg) {: width="60px"}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 Principle Investigator
 Ph.D., Duke University, Durham NC
