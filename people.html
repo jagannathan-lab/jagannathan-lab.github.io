@@ -2,14 +2,8 @@
 layout: default
 title: People
 ---
-
-{% for people in site.people %}
-
-
-<a href="{{ people.url | prepend: site.baseurl }}">
-        <h2>{{ people.title }}</h2>
-</a>
-
-<p class="post-excerpt">{{ people.description | truncate: 160 }}</p>
-
-{% endfor %}      
+{% for item in site.people %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% endfor %}
