@@ -4,11 +4,11 @@ layout: page
 |
 #### People
 
-| --- | --- |
-| **Sujatha Jagannathan**  | ![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg) |
-| Principle Investigator | --- |
-| Ph.D., Duke University, Durham NC | --- |
-| FSH Society Postdoctoral Fellow, Fred Hutchinson Cancer Research Center, Seattle, WA | --- |
+|---|---|
+|**Sujatha Jagannathan**|![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg)|
+|Principle Investigator|---|
+|Ph.D., Duke University, Durham NC|---|
+|FSH Society Postdoctoral Fellow, Fred Hutchinson Cancer Research Center, Seattle, WA|---|
 ----
 
 **You?**
