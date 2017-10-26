@@ -4,9 +4,8 @@ layout: page
 
 #### Sujatha Jagannathan
 
-<div style="width:300px; height=200px">
-![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg)
-</div>
+![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg){width=250px}
+
 Principle Investigator
 Ph.D., Duke University, Durham NC
 FSH Society Postdoctoral Fellow, Fred Hutchinson Cancer Research Center, Seattle, WA
