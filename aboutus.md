@@ -2,6 +2,7 @@
 layout: page
 ---
 |
+
 We are a group of scientists interested in all aspects of RNA biology, with particular focus on the spatiotemporal organization of post-transcriptional processes.  
 ### Mentoring philosophy & lab culture
 My role as a mentor is to help you do the best science you can by providing the necessary resources and guidance, while advocating for your interests and success, as defined by you. Below are some of the core values that I strive to promote within our group.  
@@ -19,6 +20,7 @@ I promise every member of the lab the following resources:
 *	Transparent access to resources such as reagents, equipment and services. 
 *	$1000 of fun monies to pursue an experiment you want to do outside the purview of lab vision
 *	Paid attendance to one conference a year, as long as you have something to present. This does not apply if you are in your first year in the lab and just want to go to a conference to get to know the field.  
+
 ### Lab Meetings
 Lab meetings will have the following format:  
 Start with admin issues and any anonymous matters-arising issues.   
