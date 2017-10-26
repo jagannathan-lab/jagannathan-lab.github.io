@@ -21,7 +21,9 @@ description: Jagannathan lab at UC Denver, RNA Bioscience Inititative
 
 collections:
   people:
+   output: true
   research:
+   output: true
 
 # --- Navigation bar options --- #
 
