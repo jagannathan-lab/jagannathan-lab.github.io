@@ -126,9 +126,13 @@ img {
 .site-title {
          font-family: "proxima-nova";
          font-size: 40px;
+         font-weight: lighter;
          line-height: 1.25em;
          text-transform: none;
-         margin-top: 30px !important 
+         letter-spacing: 1.2px;
+         margin-top: 0; 
+         margin-bottom: 0;
+         float: left;
     &,
     &:visited {
         color: #FFFFFF;
