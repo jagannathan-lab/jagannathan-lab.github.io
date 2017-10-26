@@ -25,8 +25,8 @@ I promise every member of the lab the following resources:
 
 ### Lab Meetings
 Lab meetings will have the following format:
-Start with admin issues and any anonymous matters-arising issues. 
-Week 1: Long talk by one person
-Week 2: Journal club
-Week 3: Short updates by ½ the lab
-Week 4: Lab fun/diversity activity
+Start with admin issues and any anonymous matters-arising issues.   
+Week 1: Long talk by one person  
+Week 2: Journal club  
+Week 3: Short updates by ½ the lab  
+Week 4: Lab fun/diversity activity  
