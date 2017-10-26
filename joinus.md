@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+|
 
 ### Join us!
 We are currently accepting applications for the following positions:
