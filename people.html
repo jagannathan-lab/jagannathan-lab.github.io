@@ -1,0 +1,10 @@
+---
+layout: page
+title: People
+---
+{% for person in site.people %}
+  <div class="person">
+    <h2><img src="{{ persn.image_path }}" alt="{{ person.title }}">{{ person.title }}</a></h2>
+    {{ person.content }}
+  </div>
+{% endfor %}
