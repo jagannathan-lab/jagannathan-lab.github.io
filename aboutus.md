@@ -3,6 +3,8 @@ layout: page
 ---
 |
 
+We are a group of scientists interested in all aspects of RNA biology, with particular focus on the spatiotemporal organization of post-transcriptional processes. 
+
 ### Lab Culture
 Below are some of the core values that we strive to promote within our group. 
 
