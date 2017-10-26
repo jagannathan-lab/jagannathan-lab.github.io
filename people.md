@@ -3,10 +3,10 @@ layout: default
 title: People
 ---
 
-{% for person in site.people %}
+{% for people in site.people %}
 
 
-<a href="{{ person.url | prepend: site.baseurl }}">
+<a href="{{ people.url | prepend: site.baseurl }}">
         <h2>{{ people.title }}</h2>
 </a>
 
