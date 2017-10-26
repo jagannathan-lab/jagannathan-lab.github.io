@@ -9,7 +9,7 @@ layout: page
       
 ![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg){: width="20%" align="right"}
 **Sujatha Jagannathan**  
-Principle Investigator  
+*Principle Investigator*  
 Ph.D., Duke University    
 Postdoctoral Fellow, Fred Hutchinson Cancer Research Center  
 Email: sujatha.jagannathan_at_ucdenver.edu  
