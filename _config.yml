@@ -19,6 +19,9 @@ title: Jagannathan Laboratory
 # Short description of your site
 description: Jagannathan lab at UC Denver, RNA Bioscience Inititative
 
+collections:
+- people
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
