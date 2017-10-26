@@ -6,7 +6,7 @@ layout: page
 
 **Sujatha Jagannathan**
 
-![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg) {: .center-image } {: width = 60px}
+![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg) {: .center-image } {: width="60px"}
 
 Principle Investigator
 Ph.D., Duke University, Durham NC
