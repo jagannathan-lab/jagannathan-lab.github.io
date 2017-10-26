@@ -9,4 +9,5 @@ We are currently accepting applications for the following positions:
 - Lab Manager  
 - Postdoctoral Fellows  
 - Graduate students  
+<br>
 Please email Sujatha Jagannathan (sujatha.jagannathan_at_ucdenver.edu) for more information. 
