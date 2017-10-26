@@ -13,11 +13,11 @@ FSH Society Postdoctoral Fellow, Fred Hutchinson Cancer Research Center, Seattle
 
 ----
 
-**You?**
+**You?**  
 We are currently accepting applications for the following positions:
-* Technicians/Professional Research Assistants
-* Lab Manager
-* Postdoctoral Fellows
-* Graduate students
+- Technicians/Professional Research Assistants  
+- Lab Manager  
+- Postdoctoral Fellows  
+- Graduate students  
 
 ----
