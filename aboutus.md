@@ -3,8 +3,10 @@ layout: page
 ---
 |
 
+### Who we are
 We are a group of scientists interested in all aspects of RNA biology, with particular focus on the spatiotemporal organization of post-transcriptional processes.  
-### Mentoring philosophy & lab culture
+
+### How we roll
 My role as a mentor is to help you do the best science you can by providing the necessary resources and guidance, while advocating for your interests and success, as defined by you. Below are some of the core values that I strive to promote within our group.  
 
 **Scientists are people first.** Scientific research is a marathon, not a sprint. I encourage you to make good work-life choices that promote your personal and mental well-being, while allowing you to meet your professional goals in a timely manner. This is not easy. But I am always available to discuss ways to make this happen.  
