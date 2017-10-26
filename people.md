@@ -17,7 +17,8 @@ Postdoctoral Fellow, Fred Hutchinson Cancer Research Center
 <a href="http://twitter.com/RNA_biologist" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
 
 <div class="bigspacer"></div>
-
+<br>
+<br>
 ---
 
 **You?**  
