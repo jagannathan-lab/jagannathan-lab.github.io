@@ -11,9 +11,13 @@ FSH Society Postdoctoral Fellow, Fred Hutchinson Cancer Research Center, Seattle
 
 <img align="right" 
 src="/img/SJ_photo_for_flyer.jpg"
+class="roundrect" 
 style="width:160px;height:200px;"
 >
 
+.roundrect {
+border-radius: 200px;
+}
 ----
 
 **You?**
