@@ -6,17 +6,13 @@ layout: page
 ### Lab Culture
 Below are some of the core values that we strive to promote within our group. 
 
-#### Scientists are people first 
-Scientific research is a marathon, not a sprint. I encourage you to make good work-life choices that promote your personal and mental well-being, while allowing you to meet your professional goals in a timely manner. This is not easy. But I am always available to discuss ways to make this happen. 
+**Scientists are people first.** Scientific research is a marathon, not a sprint. I encourage you to make good work-life choices that promote your personal and mental well-being, while allowing you to meet your professional goals in a timely manner. This is not easy. But I am always available to discuss ways to make this happen. 
 
-#### Success, as defined by you
-There are as many ways to succeed in science, as there are ways to fail. Even the definition of success and failure could be different for different folks. We all started at different places, walked different paths to get here and our destinations are unique to each of us. For the time being, we are sharing the ride. Let’s make it fun! 
+**Success, as defined by you.** There are as many ways to succeed in science, as there are ways to fail. Even the definition of success and failure could be different for different folks. We all started at different places, walked different paths to get here and our destinations are unique to each of us. For the time being, we are sharing the ride. Let’s make it fun! 
 
-#### We are inclusive
-We welcome diversity of all kinds. The lab is a welcoming and inclusive space – there is no place for rudeness, one-upmanship or microaggressions. We vow to identify and tackle our implicit biases head on (we all have them!) and to help each other grow as scientists and good citizens. We engage in healthy debate to facilitate personal growth, but we do so with mutual respect. We are nice to each other. We watch out for each other. We ensure that everyone belongs. We are a team. 
+**We are inclusive.** We welcome diversity of all kinds. The lab is a welcoming and inclusive space – there is no place for rudeness, one-upmanship or microaggressions. We vow to identify and tackle our implicit biases head on (we all have them!) and to help each other grow as scientists and good citizens. We engage in healthy debate to facilitate personal growth, but we do so with mutual respect. We are nice to each other. We watch out for each other. We ensure that everyone belongs. We are a team. 
 
-#### We pay it forward
-I encourage everybody in the lab to engage in scientific communication with public and mentor URM scientists at the high-school and college level. If you believe that these activities are affecting your timely progress towards your professional goals, I am eager to work with you to get you back on track by helping you be more efficient with your time. 
+**We pay it forward.** I encourage everybody in the lab to engage in scientific communication with public and mentor URM scientists at the high-school and college level. If you believe that these activities are affecting your timely progress towards your professional goals, I am eager to work with you to get you back on track by helping you be more efficient with your time. 
 
 ### Mentoring
 My role as a mentor is to help you do the best science you can by providing the necessary resources and guidance, while advocating for your interests and success, as defined by you.  
