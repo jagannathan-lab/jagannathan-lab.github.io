@@ -1,6 +1,6 @@
 
 ---
-title: Suja Jagannathan
-image_path: https://upload.wikimedia.org/wikipedia/commons/d/d1/AfghanBiscuit.jpg
+title: Jagannathan lab will be starting at UC Denver in 2018!
+image: /img/SJ_photo_for_flyer.jpg
 ---
 Suja did her PhD at Duke University. etc...
