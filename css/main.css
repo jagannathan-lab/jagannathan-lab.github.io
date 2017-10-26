@@ -92,7 +92,9 @@ img::-moz-selection {
 }
 
 img {
-  max-width: 100%;
+  border-radius: 100px;
+  height: 192px;
+  width: 192px;
 }
 
 .disqus-comments {
