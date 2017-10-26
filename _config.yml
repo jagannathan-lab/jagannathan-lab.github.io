@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Jagannathan Laboratory
+title: JAGANNATHAN LABORATORY
 
 # Short description of your site
 description: Jagannathan lab at UC Denver, RNA Bioscience Inititative
@@ -115,7 +115,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-108724737-1"
 
 # Google Tag Manager ID
 #gtm: ""
