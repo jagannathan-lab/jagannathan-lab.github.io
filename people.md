@@ -10,9 +10,9 @@ layout: page
 Principle Investigator  
 Ph.D., Duke University    
 FSH Society Postdoctoral Fellow, Fred Hutchinson Cancer Research Center   
-  <a href="/members/members-postdocs/cv/JagannathanSujatha.pdf">CV</a>&nbsp;
-  <a href="http://scholar.google.com/citations?user=AhRVE-MAAAAJ" target="new"><i class="ai ai-google-scholar fa-fw"></i></a>&nbsp;
-  <a href="http://twitter.com/RNA_biologist" target="new"><i class="fa fa-twitter fa-fw"></i></a>
+<a href="/members/members-postdocs/cv/JagannathanSujatha.pdf">CV</a>&nbsp;
+<a href="http://scholar.google.com/citations?user=AhRVE-MAAAAJ" target="new"><i class="ai ai-google-scholar fa-fw"></i></a>&nbsp;
+<a href="http://twitter.com/RNA_biologist" target="new"><i class="fa fa-twitter fa-fw"></i></a>
       
 ----
 
