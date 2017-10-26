@@ -10,18 +10,26 @@ In our laboratory, we apply computational and experimental tools to understand h
 
 #### What sequence features allow an mRNA to escape NMD?
 * Gene-to-gene variation
-![img](/img/gene-to-gene.png){: align="right"}
+
+![img](/img/gene-to-gene.png){: align="center"}
 
 
+<br>
 ----
 
 #### What cell-specific factors contribute to differential NMD sensitivity?
 * cell-to-cell variation
 ![img](/img/inter-cellular.png){: align="right"}
+<br>
+
 ![img](/img/inter-individual.png){: align="right"}
+
+<br>
 
 ----
 
 #### How does variable NMD sensitivity influence cellular phenotypes?
 * Cellular consequences
+
+<br>
 
