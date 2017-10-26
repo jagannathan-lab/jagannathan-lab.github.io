@@ -9,10 +9,7 @@ layout: page
 **Sujatha Jagannathan**  
 Principle Investigator  
 Ph.D., Duke University    
-FSH Society Postdoctoral Fellow, Fred Hutchinson Cancer Research Center  
-  
-  
-  
+FSH Society Postdoctoral Fellow, Fred Hutchinson Cancer Research Center   
 ----
 
 **You?**  
@@ -21,5 +18,5 @@ We are currently accepting applications for the following positions:
 - Lab Manager  
 - Postdoctoral Fellows  
 - Graduate students  
-
+Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for more information
 ----
