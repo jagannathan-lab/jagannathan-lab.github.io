@@ -4,11 +4,9 @@ layout: page
 
 #### Sujatha Jagannathan
 
-```{r, out.width = "400px"}
-knitr::include_graphics("/img/SJ_photo_for_flyer.jpg")
-```
-
+<div style="width:300px; height=200px">
 ![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg)
+</div>
 Principle Investigator
 Ph.D., Duke University, Durham NC
 FSH Society Postdoctoral Fellow, Fred Hutchinson Cancer Research Center, Seattle, WA
