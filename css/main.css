@@ -92,7 +92,6 @@ img::-moz-selection {
 }
 
 img {
-  border-radius: 100px;
   height: 192px;
   width: 192px;
 }
