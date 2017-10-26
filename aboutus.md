@@ -15,7 +15,7 @@ My role as a mentor is to help you do the best science you can by providing the 
 
 **We pay it forward.** I encourage everybody in the lab to engage in scientific communication with public and mentor URM scientists at the high-school and college level. If you believe that these activities are affecting your timely progress towards your professional goals, I am eager to work with you to get you back on track by helping you be more efficient with your time.  
 
-I promise every member of the lab the following resources:
+I promise every member of the lab the following resources
 *	Equal access to my time (I will meet with you one-on-one for 30 minutes every week). You can schedule additional time as needed, but I expect you to take the initiative to make that happen. 
 *	Transparent access to resources such as reagents, equipment and services. 
 *	$1000 of fun monies to pursue an experiment you want to do outside the purview of lab vision
