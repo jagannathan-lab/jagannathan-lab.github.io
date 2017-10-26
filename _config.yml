@@ -32,7 +32,7 @@ collections:
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
-  People: site.people
+  People: "people"
   Research: "research"
   Publications: "publications"
   Join us!: "joinus"
