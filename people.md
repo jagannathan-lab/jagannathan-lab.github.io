@@ -5,12 +5,14 @@ layout: page
 
 #### People
 
+![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg){: width="120px" align="right"}
 **Sujatha Jagannathan**  
-![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg){: width="100px" align="right"}
 Principle Investigator  
 Ph.D., Duke University    
 FSH Society Postdoctoral Fellow, Fred Hutchinson Cancer Research Center  
-
+  
+  
+  
 ----
 
 **You?**  
