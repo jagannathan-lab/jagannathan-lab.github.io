@@ -12,7 +12,7 @@ layout: page
 *Principle Investigator*  
 Ph.D., Duke University    
 Postdoctoral Fellow, Fred Hutchinson Cancer Research Center  
-Email: sujatha.jagannathan_at_ucdenver.edu  
+Email: sujatha.jagannathan`at`ucdenver.edu  
 Phone:   
 <a href="/members/members-postdocs/cv/JagannathanSujatha.pdf">CV</a>&nbsp;
 <a href="http://scholar.google.com/citations?user=AhRVE-MAAAAJ" target="new"><i class="ai ai-google-scholar fa-fw"></i></a>&nbsp;
