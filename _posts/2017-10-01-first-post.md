@@ -7,6 +7,4 @@ tags: [news, exciting-stuff]
 
 The Jagannathan laboratory will be a part of RNA Bioscience Initiative (rnabio.co) at UC Denver Anschutz Medical Campus. We are excited for all the cool science we'll be doing! 
 
-<div style="position: fixed; right: 0;">
-![image-center](/img/logo-01.png){: width="80px"}
-</div>
+<img style="float: right;" src="/img/logo-01.png">
