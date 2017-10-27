@@ -15,7 +15,7 @@ My job as a mentor is to help you do the best science you can by providing the n
 
 **We define our own success.** There are as many ways to succeed in science as there are ways to fail. Even the definition of success and failure is different for different folks. We all started at different places, walked different paths to get here and our destinations are unique to each of us. For the time being, we are sharing the ride. Let’s make it fun!  
 
-**We pay it forward.** I encourage everybody in the lab to engage in scientific communication with public and mentor URM scientists at the high-school and college level. If you believe that these activities are affecting your timely progress towards your professional goals, I am eager to work with you to get you back on track by helping you be more efficient with your time.  
+**We pay it forward.** I encourage everybody in the lab to engage in scientific communication with the public and mentor URM scientists at the high-school and college level. If you believe that these activities are affecting your timely progress towards your professional goals, I am eager to work with you to get you back on track by helping you be more efficient with your time.  
 
 I promise every member of the lab the following resources: 
 *	Equal access to my time (I will meet with you one-on-one for 30 minutes every week). You can schedule additional time as needed, but I expect you to take the initiative to make that happen. 
@@ -30,3 +30,4 @@ Week 1: Long talk by one person
 Week 2: Journal club  
 Week 3: Short updates by ½ the lab  
 Week 4: Lab fun/diversity/outreach activity  
+(repeat!)  
