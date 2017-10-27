@@ -111,6 +111,7 @@ img {
          font-size: 40px !important;
          font-weight: lighter !important;
          text-transform: none;
+         line-height: 1.25em;
          letter-spacing: 1.5px;
          margin-top: 0; 
          margin-bottom: 0;
