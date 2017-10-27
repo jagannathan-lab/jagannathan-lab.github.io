@@ -20,7 +20,7 @@ Phone:
 
 ---
 
-**You?**  
+**You? Join us!**  
 We are currently accepting applications for the following positions:
 - Technicians/Professional Research Assistants  
 - Lab Manager  
