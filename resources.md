@@ -8,7 +8,7 @@ layout: page
 **Lab Resources**
 [Lab's Github Repository](https://github.com/jagannathan-lab)  
 
-**General Resources**
+**General Resources**  
 [How to make a figure](https://www.gabrielaplucinska.com/)  
 [ColorBrewer](http://colorbrewer2.org/)  
 [Visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/)  
