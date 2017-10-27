@@ -9,7 +9,7 @@ We are a group of scientists interested in all aspects of RNA biology, with part
 ### How we roll
 My job as a mentor is to help you do the best science you can by providing the necessary resources and guidance, while advocating for your interests and success, as defined by you. Below are some of the core values that I strive to promote within our group.  
 
-**Scientists are people first.** Scientific research is a marathon, not a sprint. I encourage you to make good work-life choices that promote your personal and mental well-being, while allowing you to meet your professional goals in a timely manner. This is not easy, but it is possible. But I am always available to discuss ways to make this happen.  
+**Scientists are people first.** Scientific research is a marathon, not a sprint. I encourage you to make good work-life choices that promote your personal and mental well-being, while allowing you to meet your professional goals in a timely manner. This is not easy, but it is possible. I am always available to discuss ways to make this happen.  
 
 **Success, as defined by you.** There are as many ways to succeed in science as there are ways to fail. Even the definition of success and failure could be different for different folks. We all started at different places, walked different paths to get here and our destinations are unique to each of us. For the time being, we are sharing the ride. Let’s make it fun!  
 
