@@ -15,17 +15,14 @@ In our laboratory, we apply computational and experimental tools to understand h
 
 ### Our questions  
 
-**What sequence features allow an mRNA to escape NMD?**  
-Explanation  
-**What cell-specific factors contribute to differential NMD sensitivity?**  
-Explanation  
-**How does variable NMD sensitivity influence cellular phenotypes?**  
-Explanation  
+* What sequence features allow an mRNA to escape NMD?  
+* What cell-specific factors contribute to differential NMD sensitivity?  
+* How does variable NMD sensitivity influence cellular phenotypes?  
 
 ---
 
 ### Our tools
 
-**Genomics**  
-**Microscopy**  
-**Molecular Biology**  
+* Genomics   
+* Microscopy    
+* Molecular Biology    
