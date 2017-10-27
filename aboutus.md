@@ -9,13 +9,13 @@ We are a group of scientists passionate about all aspects of RNA biology, with p
 ### How we roll
 My job as a mentor is to help you do the best science you can by providing the necessary resources and guidance, while advocating for your interests and success, as defined by you. Below are some of the core values that I strive to promote within our group.  
 
-**We are people first.** Scientific research is a marathon, not a sprint. I encourage you to make good work-life choices that promote your personal and mental well-being, while allowing you to meet your professional goals in a timely manner. This is not easy, but it is possible. I am always available to discuss ways to make this happen.  
+**We are people first.** Scientific research is a marathon, not a sprint. I want everyone in the lab to make good work-life choices that promote their personal and mental well-being, while allowing them to meet their professional goals in a timely manner. This is not easy, but it is possible, and I am always available to help in any way I can to make this happen.     
 
 **We are inclusive.** We welcome and value diversity of all kinds. The lab is a welcoming and inclusive space – there is no place for rudeness, one-upmanship or microaggressions. We vow to identify and tackle our implicit biases head on (we all have them!) and to help each other grow as scientists and good citizens. We engage in healthy debate to facilitate personal growth, but we do so with mutual respect. We are nice to each other. We watch out for each other. We ensure that everyone belongs. We are a team.  
 
-**We define our own success.** There are as many ways to succeed in science as there are ways to fail. Even the definition of success and failure is different for different folks. We all started at different places, walked different paths to get here and our destinations are unique to each of us. For the time being, we are sharing the ride. Let’s make it fun!  
+**We define our own success.** There are many ways to succeed in science. Even the definition of success and failure is different for different folks. We all started at different places, walked different paths to get here and our destinations are unique to each of us. I am honored to share this ride with you and want to help you on your way to your success - whatever that may be.   
 
-**We pay it forward.** I encourage everybody in the lab to engage in scientific communication with the public and mentor URM scientists at the high-school and college level. If you believe that these activities are affecting your timely progress towards your professional goals, I am eager to work with you to get you back on track by helping you be more efficient with your time.  
+**We pay it forward.** I encourage everybody in the lab to engage in scientific communication with the public and mentor URM scientists at the high-school and college level. If you believe that these activities are affecting your timely progress towards your professional goals, I am eager to work with you to get you back on track and be more efficient with your time.  
 
 I promise every member of the lab the following resources: 
 *	Equal access to my time (I will meet with you one-on-one for 30 minutes every week). You can schedule additional time as needed, but I expect you to take the initiative to make that happen. 
