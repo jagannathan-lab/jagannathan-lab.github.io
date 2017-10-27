@@ -11,4 +11,4 @@ We are currently accepting applications for the following positions:
 - Graduate students  
 <br>
 
-Please email Sujatha Jagannathan (sujatha.jagannathan_at_ucdenver.edu) for more information. 
+Please email Sujatha Jagannathan (sujatha.jagannathan`at`ucdenver.edu) for more information. 
