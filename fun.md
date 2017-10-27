@@ -2,5 +2,5 @@
 layout: page
 ---
 
-Contact us!
+Fun stuff to do in Denver
 Under construction
