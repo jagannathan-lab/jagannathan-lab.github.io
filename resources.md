@@ -5,7 +5,7 @@ layout: page
 
 ### Resources
 
-**Lab Resources**
+**Lab Resources**  
 [Lab's Github Repository](https://github.com/jagannathan-lab)  
 
 **General Resources**  
