@@ -17,11 +17,16 @@ My job as a mentor is to help you do the best science you can by providing the n
 
 **We pay it forward.** I encourage everybody in the lab to engage in scientific communication with the public and mentor URM scientists at the high-school and college level. If you believe that these activities are affecting your timely progress towards your professional goals, I am eager to work with you to get you back on track and be more efficient with your time.  
 
-I promise every member of the lab the following resources: 
+**I promise every member of the lab the following resources:**  
 *	Equal access to my time (I will meet with you one-on-one for 30 minutes every week). You can schedule additional time as needed, but I expect you to take the initiative to make that happen. 
 *	Transparent access to resources such as reagents, equipment and services. 
-*	$1000 of fun monies per year to pursue an experiment you want to do outside the purview of lab vision
 *	Paid attendance to one conference a year, as long as you have something to present. This does not apply if you are in your first year in the lab and just want to go to a conference to get to know the field.  
+*	$1000 of fun monies per year to pursue an experiment you want to do outside the purview of lab vision.  
+
+**I expect the following from all members of my group:**    
+* Be curious: Curiosity is hard to teach. The rest is easy enough.  
+* Be rigorous: Do proper controls for your experiments (ask if you are not sure what they are), document all the details, and be intellectually honest - with yourself, and others. 
+* Communicate: This includes communicating with me to convey your needs, communicating with other lab members to ensure the smooth running of the lab, as well as communicating your research to the wider scientific community in the form of talks and papers.  
 
 ### Lab Meetings
 Lab meetings will have the following format:  
