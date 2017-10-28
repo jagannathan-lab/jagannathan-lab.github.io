@@ -17,8 +17,9 @@ My job as a mentor is to help you do the best science you can by providing the n
 
 **We pay it forward.** I encourage everybody in the lab to engage in scientific communication with the public and mentor URM scientists at the high-school and college level. If you believe that these activities are affecting your timely progress towards your professional goals, I am eager to work with you to get you back on track and be more efficient with your time.  
 
-**I promise every member of the lab the following resources:**  
-*	Equal access to my time (I will meet with you one-on-one for 30 minutes every week). You can schedule additional time as needed, but I expect you to take the initiative to make that happen. 
+**Here is what you can expect from me as your mentor:**  
+* A fierce advocate for you, your work and your future.   
+* Equal access to my time (I will meet with you one-on-one for 30 minutes every week). You can schedule additional time as needed, but I expect you to take the initiative to make that happen. 
 *	Transparent access to resources such as reagents, equipment and services. 
 *	Paid attendance to one conference a year, as long as you have something to present. This does not apply if you are in your first year in the lab and just want to go to a conference to get to know the field.  
 *	$1000 of fun monies per year to pursue an experiment you want to do outside the purview of lab vision.  
@@ -36,3 +37,6 @@ Week 2: Journal club
 Week 3: Short updates by ½ the lab  
 Week 4: Lab fun/diversity/outreach activity  
 (repeat!)  
+
+### A note on publications and grants  
+Whether or not we like it, publications and grants are the main currency of academia - for me as a PI, and for you as a trainee. We will work together to have a stready stream of both. There may be times when we struggle. But remember: you are more than your papers and grants. You are more than your work. 
