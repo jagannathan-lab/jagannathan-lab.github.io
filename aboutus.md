@@ -29,7 +29,7 @@ My job as a mentor is to help you do the best science you can by providing the n
 * Be rigorous: Do proper controls for your experiments (ask if you are not sure what they are), document all the details, and be intellectually honest - with yourself, and others. 
 * Communicate: This includes communicating with me to convey your needs, communicating with other lab members to ensure the smooth running of the lab, as well as communicating your research to the wider scientific community in the form of talks and papers.  
 
-### Lab Meetings
+**Lab Meeting format**  
 Lab meetings will have the following format:  
 Start with admin issues and any anonymous matters-arising issues.   
 Week 1: Long talk by one person  
