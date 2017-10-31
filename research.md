@@ -10,14 +10,11 @@ We study how cells detect and degrade aberrant RNAs, and how dysregulation of th
 <br>  
 
 ### Our questions  
-<br>
-<img src="/img/research-overview.png" style="width:750px !important;height:308px !important;" />
-<br>
-
 * What sequence features allow an mRNA to escape NMD?  
 * What cell-specific factors contribute to differential NMD sensitivity?  
 * How does variable NMD sensitivity influence cellular phenotypes?  
-
+<br>
+<img src="/img/research-overview.png" style="width:750px !important;height:308px !important;" />
 <br>  
 
 ### Our tools
