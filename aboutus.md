@@ -39,4 +39,4 @@ Week 4: Lab fun/diversity/outreach activity
 (repeat!)  
 
 ### A note on publications and grants  
-Whether or not we like it, publications and grants are the main currency of academia - both for me as a PI and for you as a trainee. We will work together to have a stready stream of both. There may be times when we struggle. But remember: you are more than your papers and grants. You are more than your work. 
+Whether or not we like it, publications and grants are the main currency of academia - both for me as a PI and for you as a trainee. We will work together to have a steady stream of both. There may be times when we struggle. But remember: you are more than your papers and grants. You are more than your work. 
