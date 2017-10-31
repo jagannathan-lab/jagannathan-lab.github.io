@@ -15,7 +15,7 @@ layout: page
 [Grammarly](https://www.grammarly.com/) | [Hemingway Editor](http://www.hemingwayapp.com/) | [How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper) | [Paperpile](https://paperpile.com/app)
 
 **Open Science Tools**  
-[bioRxiv](https://www.biorxiv.org/) | [protocols.io](https://www.protocols.io/) | [figshare](https://figshare.com/) | [slideshare](https://www.slideshare.net/) | [Addgene](Addgene.com)
+[bioRxiv](https://www.biorxiv.org/) | [protocols.io](https://www.protocols.io/) | [figshare](https://figshare.com/) | [slideshare](https://www.slideshare.net/) | [Addgene](addgene.org)
 
 **Productivity and time-management tools**  
 [Batched Inbox](https://try.batchedinbox.com/) | [SelfControl App](https://selfcontrolapp.com/)
