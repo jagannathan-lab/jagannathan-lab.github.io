@@ -17,7 +17,7 @@ layout: page
 **Open Science Tools**  
 [bioRxiv](https://www.biorxiv.org/) | [protocols.io](https://www.protocols.io/) | [figshare](https://figshare.com/) | [slideshare](https://www.slideshare.net/)
 
-**Productivity and time-management tools**
+**Productivity and time-management tools**  
 [Batched Inbox](https://try.batchedinbox.com/) | [SelfControl App](https://selfcontrolapp.com/)
 
 
