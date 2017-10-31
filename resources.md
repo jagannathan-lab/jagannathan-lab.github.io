@@ -9,7 +9,7 @@ layout: page
 [Lab's Github Repository](https://github.com/jagannathan-lab)  
 
 **General Resources**  
-[Aesthetics of a figure](https://www.gabrielaplucinska.com/) | [ColorBrewer](http://colorbrewer2.org/) | [Visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/) | [Make ALL the graphs: Dataviz Project](http://datavizproject.com/0 | [How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)  
+[Aesthetics of a figure](https://www.gabrielaplucinska.com/) | [ColorBrewer](http://colorbrewer2.org/) | [Visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/) | [Make ALL the graphs: Dataviz Project](http://datavizproject.com/) | [How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)  
 
 **Open Science**  
 
