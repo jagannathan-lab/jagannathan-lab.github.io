@@ -21,7 +21,7 @@ Our lab studies how cells detect and degrade aberrant RNAs, and how dysregulatio
 ### Our tools
 In our laboratory, we apply computational and experimental tools to understand how RNA surveillance shapes gene expression and contributes to disease processes. Specifically, we study RNA surveillance across biological scales - intracellular, tissue-level and across human populations - using tools ranging from RNA imaging in single cells to high-throughput genomic analyses.  
 
-<br>
+`<br>
 <img src="/img/myotube.png" hspace="10" style="width:250px !important;height:200px !important;" />
 <img src="/img/if-fish.png" hspace="10" style="width:250px !important;height:200px !important;" />
 <br> 
