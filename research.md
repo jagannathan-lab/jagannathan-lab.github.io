@@ -5,15 +5,14 @@ layout: page
 |
 
 ### Overview  
-In our laboratory, we apply computational and experimental tools to understand how RNA surveillance shapes gene expression and contributes to disease processes. Specifically, we study RNA surveillance across biological scales - intracellular, tissue-level and across human populations - using tools ranging from RNA imaging in single cells to high-throughput genomic analyses.  
-
-<br>
-<img src="/img/research-overview.png" style="width:750px !important;height:308px !important;" />
-<br>
+Our group studies how cells detect and degrade aberrant RNAs, and how dysregulation of this surveillance process contributes to human disease. 
 
 ---
 
 ### Our questions  
+<br>
+<img src="/img/research-overview.png" style="width:750px !important;height:308px !important;" />
+<br>
 
 * What sequence features allow an mRNA to escape NMD?  
 * What cell-specific factors contribute to differential NMD sensitivity?  
@@ -22,6 +21,7 @@ In our laboratory, we apply computational and experimental tools to understand h
 ---
 
 ### Our tools
+In our laboratory, we apply computational and experimental tools to understand how RNA surveillance shapes gene expression and contributes to disease processes. Specifically, we study RNA surveillance across biological scales - intracellular, tissue-level and across human populations - using tools ranging from RNA imaging in single cells to high-throughput genomic analyses.  
 
 * Genomics   
 * Microscopy    
