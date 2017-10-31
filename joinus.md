@@ -10,4 +10,6 @@ We are currently accepting applications for the following positions:
 - Postdoctoral Fellows  
 <br>
 
-Please email Sujatha Jagannathan (sujatha.jagannathan`at`ucdenver.edu) for more information. 
+Offical job postings coming soon!
+
+In the mean time, please email Sujatha Jagannathan (sujatha.jagannathan`at`ucdenver.edu) for more information. 
