@@ -6,7 +6,6 @@ layout: page
 
 ### Overview  
 We study how cells detect and degrade aberrant RNAs, and how dysregulation of this surveillance process contributes to human disease. 
-
 <br>  
 
 ### Our questions  
