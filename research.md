@@ -15,7 +15,7 @@ Our lab studies how cells detect and degrade aberrant RNAs, and how dysregulatio
 * What cell-specific factors contribute to differential NMD sensitivity?  
 * How does variable NMD sensitivity influence cellular phenotypes?  
 <br>
-<img align="left" src="/img/research-overview.png" style="width:700px !important;height:290px !important;" />
+<img align="left" src="/img/research-overview-edit.png" style="width:700px !important;height:290px !important;" />
 <br>  
 
 ### Our tools
