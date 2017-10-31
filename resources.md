@@ -6,7 +6,7 @@ layout: page
 ### Resources
 
 **Lab Protocols, code and data**  
-[Github Repository](https://github.com/jagannathan-lab) | [Lab's Benchling](https://benchling.com/organizations/jagannathan-lab/projects) 
+[Github Repository](https://github.com/jagannathan-lab) | [Lab's Benchling](https://benchling.com/organizations/jagannathan-lab/projects) | [Lab protocols](https://www.protocols.io/groups/jagannathan-lab)
 
 **Data analysis and visualization**  
 [Visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/) | [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | [R for Data Science](http://r4ds.had.co.nz/) | [R cheatsheets](https://www.rstudio.com/resources/cheatsheets/) | [Make ALL the graphs: Dataviz Project](http://datavizproject.com/) | [Aesthetics of a figure](https://www.gabrielaplucinska.com/) | [ColorBrewer](http://colorbrewer2.org/)
