@@ -5,7 +5,7 @@ layout: page
 
 ### Resources
 
-**Lab Protocols, code and data**  
+**Lab protocols, reagents, code and data**  
 [Lab Benchling](https://benchling.com/organizations/jagannathan-lab/projects) | [Lab protocols.io](https://www.protocols.io/groups/jagannathan-lab) | [Github Repository](https://github.com/jagannathan-lab)
 
 **Data analysis and visualization**  
