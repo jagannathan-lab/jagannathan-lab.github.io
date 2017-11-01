@@ -4,7 +4,7 @@ layout: page
 |
 
 ### Who we are
-We are a group of scientists at the [RNA Bioscience Initiative](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/rna/Pages/RNA-Bioscience.aspx) at [CU Anschutz](http://www.ucdenver.edu/anschutz/Pages/landing.aspx) passionate about all aspects of RNA biology, with particular focus on the mechanism and spatiotemporal organization of mRNA surveillance.  
+We are a group of scientists at the [RNA Bioscience Initiative](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/rna/Pages/RNA-Bioscience.aspx) at [CU Anschutz](http://www.ucdenver.edu/anschutz/Pages/landing.aspx) passionate about all aspects of RNA biology, with particular focus mRNA surveillance in health and disease. 
 
 ### How we roll
 My job as a mentor is to help you do the best science you can by providing the necessary resources and guidance, while advocating for your interests and success, as defined by you. Below are some of the core values that I strive to promote within our group.  
