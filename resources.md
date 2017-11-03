@@ -18,7 +18,7 @@ layout: page
 [bioRxiv](https://www.biorxiv.org/) | [protocols.io](https://www.protocols.io/) | [figshare](https://figshare.com/) | [slideshare](https://www.slideshare.net/) | [Addgene](https://www.addgene.org)
 
 **Productivity and time-management tools**  
-[Batched Inbox](https://try.batchedinbox.com/) | [SelfControl App](https://selfcontrolapp.com/)
+[Batched Inbox](https://try.batchedinbox.com/) | [SelfControl App](https://selfcontrolapp.com/)  
 
 **CU resources**  
 [CU Ombuds office](http://www.ucdenver.edu/about/departments/OmbudsOffice/Pages/ContactOmbudsOffice.aspx) | [Office of Diversity and Inclusion](http://www.ucdenver.edu/about/departments/odi/Pages/external.aspx) | [Report discrimination](http://www.ucdenver.edu/about/departments/odi/Pages/discrimination.aspx) | [CARE TEAM](http://www.ucdenver.edu/life/services/CARE/Pages/default.aspx)
