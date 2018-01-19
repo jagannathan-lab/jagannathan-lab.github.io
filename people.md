@@ -26,15 +26,15 @@ B.S., UC Santa Cruz
 Email: hilary.hoffman`at`ucdenver.edu  
 Phone:   
 
-
+<br />
 
 ---
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
-- Postdoctoral Fellows  
 - Graduate rotation students
+- Postdoctoral Fellows  
 <br>Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for more information
 
 ---
