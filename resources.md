@@ -12,7 +12,7 @@ layout: page
 [Visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/) | [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | [R for Data Science](http://r4ds.had.co.nz/) | [R cheatsheets](https://www.rstudio.com/resources/cheatsheets/) | [Make ALL the graphs: Dataviz Project](http://datavizproject.com/) | [Aesthetics of a figure](https://www.gabrielaplucinska.com/) | [ColorBrewer](http://colorbrewer2.org/)
 
 **Paper writing (& reading)**  
-[Grammarly](https://www.grammarly.com/) | [Hemingway Editor](http://www.hemingwayapp.com/) | [How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper) | [Paperpile](https://paperpile.com/app)
+[Grammarly](https://www.grammarly.com/) | [Hemingway Editor](http://www.hemingwayapp.com/) | [The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing) | [How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper) | [Paperpile](https://paperpile.com/app)
 
 **Open Science Tools**  
 [bioRxiv](https://www.biorxiv.org/) | [protocols.io](https://www.protocols.io/) | [figshare](https://figshare.com/) | [slideshare](https://www.slideshare.net/) | [Addgene](https://www.addgene.org)
