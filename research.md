@@ -18,5 +18,10 @@ Our lab studies how cells detect and degrade aberrant RNAs, and how dysregulatio
 <img align="left" src="/img/research-overview_edit.png" style="width:720px !important;height:320px !important;" />
 <br>  
 
+
+### Our System
+We study RNA surveillance across biological scales - intracellular, tissue-level and across human populations. The system we use the most is the human muscle. Myoblasts that are cultured to confluency fuse and form elongated myotubes upon starvation, enabling us to study both the precursor and differentiated muscle cells in culture under defined conditions. We utilize both healthy muscle cells and those isolated from individuals affected by facioscapulohumeral muscular dystrophy and other dystrophies to understand how RNA surveillance contributes to both physiological and pathological processes.  
+<br> 
+
 ### Our tools
-In our laboratory, we apply computational and experimental tools to understand how RNA surveillance shapes gene expression and contributes to disease processes. Specifically, we study RNA surveillance across biological scales - intracellular, tissue-level and across human populations - using tools ranging from RNA imaging in single cells to high-throughput genomic analyses.  
+We apply computational and experimental tools to understand how RNA surveillance shapes gene expression and contributes to disease processes. To this end, we use a wide variety of methods ranging from RNA imaging in single cells to high-throughput genomic analyses.  
