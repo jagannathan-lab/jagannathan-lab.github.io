@@ -32,7 +32,7 @@ Email: hilary.hoffman`at`ucdenver.edu
 **Michael Dyle**  
 *Postdoctoral Fellow*  
 B.S., Grinnell College
-Ph. D., University of Iowa
+Ph. D., University of Iowa  
 Email: michael.dyle`at`ucdenver.edu  
 
 <br />
