@@ -24,7 +24,6 @@ Phone: (303) 724-3309
 *Professional Research Assistant*  
 B.S., UC Santa Cruz    
 Email: hilary.hoffman`at`ucdenver.edu  
-Phone:   
 
 <br />
 
@@ -34,7 +33,6 @@ Phone:
 B.S., Grinnell College
 Ph. D., University of Iowa
 Email: michael.dyle`at`ucdenver.edu  
-Phone:   
 
 <br />
 ---
