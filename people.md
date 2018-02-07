@@ -28,6 +28,15 @@ Phone:
 
 <br />
 
+![Michael Dyle](/img/mike-dyle.JPG){: width="20%" align="right"}
+**Michael Dyle**  
+*Postdoctoral Fellow*  
+B.S., Grinnell College
+Ph. D., University of Iowa
+Email: michael.dyle`at`ucdenver.edu  
+Phone:   
+
+<br />
 ---
 
 **You? Join us!**  
