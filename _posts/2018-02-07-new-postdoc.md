@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome, Mike Dyle
-subtitle: We have a new postdoctoral fellow
+subtitle: New postdoctoral fellow
 image: /img/mike-dyle.JPG
 ---
 <img align="right" src="/img/mike-dyle.JPG" style="width:200px !important;height:200px !important;" />
