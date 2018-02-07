@@ -26,6 +26,7 @@ B.S., UC Santa Cruz
 Email: hilary.hoffman`at`ucdenver.edu  
 
 <br />
+<br />
 
 ![Michael Dyle](/img/mike-dyle.JPG){: width="20%" align="right"}
 **Michael Dyle**  
@@ -34,6 +35,7 @@ B.S., Grinnell College
 Ph. D., University of Iowa
 Email: michael.dyle`at`ucdenver.edu  
 
+<br />
 <br />
 ---
 
