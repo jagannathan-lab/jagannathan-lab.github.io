@@ -24,6 +24,8 @@ Phone: (303) 724-3309
 *Professional Research Assistant*  
 B.S., UC Santa Cruz    
 Email: hilary.hoffman`at`ucdenver.edu  
+<a href="/docs/hoffman-resume.pdf">CV</a>&nbsp;
+
 
 <br />
 <br />
@@ -33,7 +35,9 @@ Email: hilary.hoffman`at`ucdenver.edu
 *Postdoctoral Fellow*  
 B.S., Grinnell College
 Ph. D., University of Iowa  
-Email: michael.dyle`at`ucdenver.edu  
+Email: michael.dyle`at`ucdenver.edu
+<a href="/docs/dyle-resume.pdf">CV</a>&nbsp;
+
 
 <br />
 <br />
