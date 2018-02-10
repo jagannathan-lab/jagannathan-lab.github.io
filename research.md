@@ -21,8 +21,7 @@ Our lab studies how cells detect and degrade aberrant RNAs, and how dysregulatio
 
 
 ### Our System
-We study RNA surveillance across biological scales - intracellular, tissue-level and across human populations. The system we use the most is the human muscle. Myoblasts that are cultured to confluency fuse and form elongated myotubes upon starvation (image below), enabling us to study both the precursor and differentiated muscle cells in culture under defined conditions. We utilize both healthy muscle cells and those isolated from individuals affected by facioscapulohumeral muscular dystrophy and other dystrophies to understand how RNA surveillance contributes to both physiological and pathological processes.   
-<br>
+We study RNA surveillance across biological scales - intracellular, tissue-level and across human populations. The system we use the most is the human muscle. Myoblasts that are cultured to confluency fuse and form elongated myotubes upon starvation (image below), enabling us to study both the precursor and differentiated muscle cells in culture under defined conditions. We utilize both healthy muscle cells and those isolated from individuals affected by facioscapulohumeral muscular dystrophy and other dystrophies to understand how RNA surveillance contributes to both physiological and pathological processes. 
 <img align="left" src="/img/muscle_differentiation.png" style="width:750px !important;height:300px !important;" />   
 <br>  
 <br>  
