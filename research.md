@@ -25,7 +25,7 @@ We study RNA surveillance across biological scales - intracellular, tissue-level
 <img align="left" src="/img/muscle_differentiation.png" style="width:750px !important;height:300px !important;" />   
 <br> 
 <br> 
+<\n>
 
-<n/>
 ### Our tools
 We apply computational and experimental tools to understand how RNA surveillance shapes gene expression and contributes to disease processes. To this end, we use a wide variety of methods ranging from RNA imaging in single cells to high-throughput genomic analyses.  
