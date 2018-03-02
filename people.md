@@ -16,7 +16,6 @@ Phone: (303) 724-3309
 <a href="/docs/jagannathan-cv.pdf">CV</a>&nbsp;
 <a href="http://scholar.google.com/citations?user=AhRVE-MAAAAJ" target="new"><i class="ai ai-google-scholar-square ai-fw"></i></a>&nbsp; 
 <a href="http://twitter.com/RNA_biologist" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
-<a href="https://orcid.org/0000-0001-9039-2631" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-9039-2631</a>
 <br />
 
 ![Hilary Hoffman](/img/hilary-hoffman.jpg){: width="20%" align="right"}
