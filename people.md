@@ -44,7 +44,7 @@ Email: michael.dyle`at`ucdenver.edu
 ![Divya Kolakada](/img/divya-kolakada.jpg){: width="20%" align="right"}
 **Divya Kolakada**  
 *BSP Rotation student*  
-B.S., Rollins College
+B.S., Rollins College  
 Email: divya.kolakada`at`ucdenver.edu  
 <a href="/docs/kolakada_resume.pdf">CV</a>&nbsp;
 
