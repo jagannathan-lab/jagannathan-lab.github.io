@@ -23,7 +23,7 @@ Phone: (303) 724-3309
 *Professional Research Assistant*  
 B.S., UC Santa Cruz    
 Email: hilary.hoffman`at`ucdenver.edu  
-Phone: (303) 724-1651  
+Phone: (303) 724-1651
 <a href="/docs/hoffman-resume.pdf">CV</a>&nbsp;
 
 
@@ -36,7 +36,7 @@ Phone: (303) 724-1651
 B.S., Grinnell College
 Ph. D., University of Iowa  
 Email: michael.dyle`at`ucdenver.edu  
-Phone: (303) 724-1651   
+Phone: (303) 724-1651
 <a href="/docs/dyle-resume.pdf">CV</a>&nbsp;
 
 
@@ -48,7 +48,7 @@ Phone: (303) 724-1651
 *BSP Rotation student*  
 B.S., Rollins College  
 Email: divya.kolakada`at`ucdenver.edu  
-Phone: (303) 724-1651  
+Phone: (303) 724-1651
 <a href="/docs/kolakada_resume.pdf">CV</a>&nbsp;
 
 
