@@ -3,7 +3,7 @@ layout: page
 ---
 |
 
-### People
+### Current Members
       
       
 ![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg){: width="20%" align="right"}
@@ -42,24 +42,20 @@ Phone: (303) 724-1651
 
 <br />
 <br />
----
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
 - Graduate rotation students
 - Postdoctoral Fellows  
-<br>Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for more information
+<br>Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for more information  
 
----
-
-**Alumni**  
+### Alumni
 ![Hilary Hoffman](/img/hilary-hoffman.jpg){: width="20%" align="right"}
 **Hilary Hoffman**  
 *Professional Research Assistant*  
 B.S., UC Santa Cruz    
 Email: hilary.hoffman`at`ucdenver.edu  
-Phone: (303) 724-1651
 Current position: Clinical Research Coordinator at Children's Hospital Colorado
 
 <br />
