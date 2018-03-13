@@ -27,6 +27,7 @@ Email: michael.dyle`at`ucdenver.edu
 Phone: (303) 724-1651
 <a href="/docs/dyle-resume.pdf">CV</a>&nbsp;  
 <br />
+<br />
 
 ![Divya Kolakada](/img/divya-kolakada.jpg){: width="20%" align="right"}
 **Divya Kolakada**  
