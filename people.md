@@ -25,10 +25,7 @@ B.S., Grinnell College
 Ph. D., University of Iowa  
 Email: michael.dyle`at`ucdenver.edu  
 Phone: (303) 724-1651
-<a href="/docs/dyle-resume.pdf">CV</a>&nbsp;
-
-
-<br />
+<a href="/docs/dyle-resume.pdf">CV</a>&nbsp;  
 <br />
 
 ![Divya Kolakada](/img/divya-kolakada.jpg){: width="20%" align="right"}
@@ -37,10 +34,7 @@ Phone: (303) 724-1651
 B.S., Rollins College  
 Email: divya.kolakada`at`ucdenver.edu  
 Phone: (303) 724-1651
-<a href="/docs/kolakada_resume.pdf">CV</a>&nbsp;
-
-
-<br />
+<a href="/docs/kolakada_resume.pdf">CV</a>&nbsp;  
 <br />
 
 **You? Join us!**  
@@ -49,6 +43,7 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 - Graduate rotation students
 - Postdoctoral Fellows  
 <br>Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for more information  
+<br />
 
 ### Alumni
 ![Hilary Hoffman](/img/hilary-hoffman.jpg){: width="20%" align="right"}
@@ -57,7 +52,6 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 B.S., UC Santa Cruz    
 Email: hilary.hoffman`at`ucdenver.edu  
 Current position: Clinical Research Coordinator at Children's Hospital Colorado
-
 <br />
 <br />  
 ---
