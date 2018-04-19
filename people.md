@@ -32,10 +32,20 @@ Phone: (303) 724-1651
 ![Divya Kolakada](/img/divya-kolakada.jpg){: width="20%" align="right"}
 **Divya Kolakada**  
 *BSP Rotation student*  
-B.S., Rollins College  
+B.S., Rollins College   
 Email: divya.kolakada`at`ucdenver.edu  
 Phone: (303) 724-1651
 <a href="/docs/kolakada_resume.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
+![Elizabeth Bonner](/img/elizabeth-bonner.jpg){: width="20%" align="right"}
+**Elizabeth Bonner**  
+*Professional Research Assistant*  
+B.S., University of Denver    
+Email: elizabeth.bonner`at`ucdenver.edu  
+Phone: (303) 724-1651
+<a href="/docs/bonner-resume.pdf">CV</a>&nbsp;  
 <br />
 
 **You? Join us!**  
