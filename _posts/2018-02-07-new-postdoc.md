@@ -3,7 +3,7 @@ layout: post
 title: Welcome, Mike Dyle
 subtitle: New postdoctoral fellow
 image: /img/mike-dyle.JPG
-tags: [news, new-hire]
+tags: [news, new-member]
 ---
 <img align="right" src="/img/mike-dyle.JPG" style="width:200px !important;height:200px !important;" />
 Mike Dyle will be officially starting as a Postdoctoral Fellow in the lab on February 15 (though he is already 
