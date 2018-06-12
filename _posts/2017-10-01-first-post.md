@@ -2,7 +2,7 @@
 layout: post
 title: Jagannathan lab will be starting at UC Denver in 2018
 image: /img/logo-01.png
-tags: [news, exciting-stuff]
+tags: [announcement]
 ---
 
 <img align="right" src="/img/logo-01.png" style="width:200px !important;height:200px !important;" />
