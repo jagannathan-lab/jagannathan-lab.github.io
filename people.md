@@ -47,6 +47,15 @@ Email: elizabeth.bonner`at`ucdenver.edu
 Phone: (303) 724-1651
 <a href="/docs/bonner-resume.pdf">CV</a>&nbsp;  
 <br />
+<br />
+
+![Kate Matlin](/img/kate-matlin.jpeg){: width="20%" align="right"}
+**Kate Matlin**  
+*RBI Summer Intern*  
+Undergraduate student, Colorado College  
+Email: Kate.matlin`at`coloradocollege.edu  
+Phone: (303) 724-1651
+<br />
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
