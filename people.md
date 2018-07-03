@@ -31,7 +31,7 @@ Phone: (303) 724-1651
 
 ![Divya Kolakada](/img/divya-kolakada.jpg){: width="20%" align="right"}
 **Divya Kolakada**  
-*BSP Rotation student*  
+*Graduate student (MOLB/BSP)*  
 B.S., Rollins College   
 Email: divya.kolakada`at`ucdenver.edu  
 Phone: (303) 724-1651
