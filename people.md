@@ -49,16 +49,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Kate Matlin](/img/kate-matlin.jpeg){: width="20%" align="right"}
-**Kate Matlin**  
-*RBI Summer Intern*  
-Undergraduate student, Colorado College  
-Email: Kate.matlin`at`coloradocollege.edu  
-Phone: (303) 724-1651
-<br />
-<br />
-<br />
-
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
@@ -77,4 +67,14 @@ Email: hilary.hoffman`at`ucdenver.edu
 Current position: Clinical Research Coordinator at Children's Hospital Colorado
 <br />
 <br />  
+
+![Kate Matlin](/img/kate-matlin.jpeg){: width="20%" align="right"}
+**Kate Matlin**  
+*RBI Summer Intern*  
+Undergraduate student, Colorado College  
+Email: Kate.matlin`at`coloradocollege.edu  
+Phone: (303) 724-1651
+<br />
+<br />
+<br />
 ---
