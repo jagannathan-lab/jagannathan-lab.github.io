@@ -70,7 +70,7 @@ Current position: Clinical Research Coordinator at Children's Hospital Colorado
 
 ![Kate Matlin](/img/kate-matlin.jpeg){: width="20%" align="right"}
 **Kate Matlin**  
-*RBI Summer Intern*  
+*RBISIP 2018 Summer Intern*  
 Undergraduate student, Colorado College  
 Email: Kate.matlin`at`coloradocollege.edu  
 Phone: (303) 724-1651
