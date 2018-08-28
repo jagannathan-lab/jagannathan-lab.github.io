@@ -13,6 +13,8 @@ As a lab, one of our favorite things to do is have outdoor lab meetings. When po
 <br>
 <img src="/img/lab-lunch-1.jpeg" style="width:750px !important;height:590px !important;" />
 <br>
+<font color="black">Lab lunch for Kate's last day! (Aug 8, 2018)</font>
+
 
 ### Things to do in Denver
 
