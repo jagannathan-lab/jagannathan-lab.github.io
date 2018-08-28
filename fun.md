@@ -13,7 +13,6 @@ We are located on the 10th floor of RC1 South, with amazing views of Denver and 
 As a lab, one of our favorite things to do is have outdoor lab meetings. When possible, we do this over lunch, especially when the food trucks are on campus. 
 <br>
 <img src="/img/lab-lunch-1.jpeg" style="width:750px !important;height:590px !important;" />
-<br>
 <font color="black">Lab lunch for Kate's last day! (Aug 8, 2018)</font>
 <br>
 <br>
