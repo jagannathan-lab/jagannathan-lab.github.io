@@ -16,7 +16,7 @@ As a lab, one of our favorite things to do is have outdoor lab meetings. When po
 
 ### Things to do in Denver
 
-Hang out at Stanley Marketplace: ttp://stanleymarketplace.com/
-Denver Art Museum: https://denverartmuseum.org/
-Denver Botanical Garden: https://www.botanicgardens.org/
-Concerts at Red Rock Amphitheater: https://www.redrocksonline.com/
+Hang out at Stanley Marketplace: http://stanleymarketplace.com/ <br>
+Denver Art Museum: https://denverartmuseum.org/ <br>
+Denver Botanical Garden: https://www.botanicgardens.org/ <br>
+Concerts at Red Rock Amphitheater: https://www.redrocksonline.com/ <br>
