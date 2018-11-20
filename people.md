@@ -49,6 +49,16 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+![Michael Cortázar](/img/cortazar.png){: width="20%" align="right"}
+**Michael Cortázar**  
+*Postdoctoral Fellow*  
+B.S., Valle State University, Cali, Colombia
+Ph. D., University of Colorado, Anschutz Medical Campus  
+Email: michael.cortazar`at`ucdenver.edu  
+Phone: (303) 724-1651
+<a href="/docs/cortazar-resume.pdf">CV</a>&nbsp;  
+<br />
+<br />
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
