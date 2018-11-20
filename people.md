@@ -9,7 +9,7 @@ layout: page
 ![Suja Jagannathan](/img/SJ_photo_for_flyer.jpg){: width="20%" align="right"}
 **Sujatha Jagannathan**  
 *Principal Investigator*  
-Ph.D., Duke University    
+Ph. D., Duke University    
 Postdoctoral Fellow, Fred Hutchinson Cancer Research Center  
 Email: sujatha.jagannathan`at`ucdenver.edu  
 Phone: (303) 724-3309
@@ -21,7 +21,7 @@ Phone: (303) 724-3309
 ![Michael Dyle](/img/mike-dyle.JPG){: width="20%" align="right"}
 **Michael Dyle**  
 *Postdoctoral Fellow*  
-B.S., Grinnell College
+B.S., Grinnell College  
 Ph. D., University of Iowa  
 Email: michael.dyle`at`ucdenver.edu  
 Phone: (303) 724-1651
@@ -52,7 +52,7 @@ Phone: (303) 724-1651
 ![Michael Cortázar](/img/cortazar.png){: width="20%" align="right"}
 **Michael Cortázar**  
 *Postdoctoral Fellow*  
-B.S., Valle State University, Cali, Colombia
+B.S., Valle State University, Cali, Colombia  
 Ph. D., University of Colorado, Anschutz Medical Campus  
 Email: michael.cortazar`at`ucdenver.edu  
 Phone: (303) 724-1651
