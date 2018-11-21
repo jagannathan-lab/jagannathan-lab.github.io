@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome, Kim!
+subtitle: New rotation student
 image: /img/callahan.jpeg
 tags: [news, new-member]
 ---
