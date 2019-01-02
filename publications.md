@@ -6,6 +6,10 @@ layout: page
 
 ### Publications (<strong><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/sujatha.jagannathan.1/bibliography/46492045/public/?sort=date&direction=ascending" target="_blank" rel="noopener">PubMed</a></strong>)
 
+* <strong>Jagannathan S</strong>, Ogata Y, Gafken P, Tapscott SJ, Bradley RK. Quantitative proteomics reveals key roles for post-transcriptional gene regulation in the molecular pathology of FSHD. <em>bioRxiv. </em> 2018; https://doi.org/10.1101/417790 <a href="https://www.biorxiv.org/content/early/2018/11/23/417790" target="_blank" rel="noopener">Link</a>
+
+* Campbell AE, Shadle SC, <strong>Jagannathan S</strong>, Lim JW, Resnick R, Tawil R, van der Maarel SM, Tapscott SJ. NuRD and CAF-1-mediated silencing of the D4Z4 array is modulated by DUX4-induced MBD3L proteins. <em>eLife. </em> 2018; 7:e31023 <a href="https://doi.org/10.7554/eLife.31023" target="_blank" rel="noopener">Link</a>
+
 * Feng Q, <strong>Jagannathan S</strong>, Bradley RK. The RNA Surveillance Factor UPF1 Represses Myogenesis via Its E3 Ubiquitin Ligase Activity. <em>Molecular cell. </em> 2017; 67(2):239-251.e6. <a href="https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(17)30398-2" target="_blank" rel="noopener">Link</a>
 
 * <strong>Jagannathan S</strong> and Bradley RK. Congenital myotonic dystrophy-an RNA-mediated disease across a developmental continuum. <em>Genes & development.</em> 2017; 31(11):1067-1068. <a href="http://genesdev.cshlp.org/content/31/11/1067.long" target="_blank" rel="noopener">Link</a>
