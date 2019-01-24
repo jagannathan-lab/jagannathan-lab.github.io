@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Mike awarded an FSH society Postdoctoral Fellowship  
+title: Mike Dyle awarded an FSH society Postdoctoral Fellowship  
 subtitle: Funding to study aberrant translation in FSHD
 image: /img/fsh-society.jpg  
 tags: [news, funding]  
