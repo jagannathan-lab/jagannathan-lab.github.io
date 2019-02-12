@@ -35,7 +35,7 @@ Start with admin issues and any anonymous matters-arising issues.
 Week 1: Short updates by ½ the lab   
 Week 2: Journal club  
 Week 3: Short updates by ½ the lab  
-Week 4: Flex week for discussion of a timely/relevant topic or for lab fun/diversity/outreach activity 
+Week 4: Flex week for discussion of a timely/relevant topic or for lab fun/diversity/outreach activity   
 (repeat!)  
 
 ### A note on publications and grants  
