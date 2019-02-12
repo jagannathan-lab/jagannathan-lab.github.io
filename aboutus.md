@@ -30,12 +30,12 @@ My job as a mentor is to help you do the best science you can by providing the n
 * Communicate: This includes communicating with me to convey your needs, communicating with other lab members to ensure the smooth running of the lab, as well as communicating your research to the wider scientific community in the form of talks and papers.  
 
 **Lab Meeting format**  
-Lab meetings will have the following format:  
+We participate in an joint lab meeting with the Mukherjee and Taliaferro labs where there is an opportunity to practice giving long-format talks to a wide(-ish) audience. Hence, the Jagannathan lab meetings will have the following format:  
 Start with admin issues and any anonymous matters-arising issues.   
-Week 1: Long talk by one person  
+Week 1: Short updates by ½ the lab   
 Week 2: Journal club  
 Week 3: Short updates by ½ the lab  
-Week 4: Lab fun/diversity/outreach activity  
+Week 4: Flex week for discussion of a timely/relevant topic or for lab fun/diversity/outreach activity 
 (repeat!)  
 
 ### A note on publications and grants  
