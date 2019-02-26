@@ -92,7 +92,7 @@ Current position: Clinical Research Coordinator at Children's Hospital Colorado
 *RBISIP 2018 Summer Intern*  
 Undergraduate student, Colorado College  
 Email: Kate.matlin`at`coloradocollege.edu  
-Phone: (303) 724-1651
+Current position: Senior, Colorado College  
 <br />
 <br />
 <br />
@@ -102,7 +102,7 @@ Phone: (303) 724-1651
 *MOLB Rotation Student*  
 B.S., Rochester Institute of Technology, Rochester, NY 
 Email: kimberly.callahan`at`ucdenver.edu  
-Phone: (303) 724-1651
+Current position: Rotation student, Mukherjee Laboratory
 <a href="/docs/callahan-resume.pdf">CV</a>&nbsp;  
 <br />
 <br />
