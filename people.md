@@ -64,7 +64,7 @@ Phone: (303) 724-1651
 **Arely Diaz**  
 *MOLB Rotation Student*  
 B.S., The University of Texas at El Paso 
-Email: arely.diaz`at`ucdenver.edu  
+Email: arely.v.diaz`at`ucdenver.edu  
 Phone: (303) 724-1651
 <a href="/docs/diaz-cv.pdf">CV</a>&nbsp;  
 <br />
