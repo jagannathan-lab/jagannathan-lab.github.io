@@ -95,7 +95,6 @@ Email: Kate.matlin`at`coloradocollege.edu
 Current position: Senior, Colorado College  
 <br />
 <br />
-<br />
 
 ![Kimberly Callahan](/img/callahan.jpeg){: width="20%" align="right"}
 **Kimberly Callahan**  
