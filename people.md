@@ -60,15 +60,16 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Kimberly Callahan](/img/callahan.jpeg){: width="20%" align="right"}
-**Kimberly Callahan**  
+![Arely V. Diaz](/img/diaz.jpg){: width="20%" align="right"}
+**Arely Diaz**  
 *MOLB Rotation Student*  
-B.S., Rochester Institute of Technology, Rochester, NY 
-Email: kimberly.callahan`at`ucdenver.edu  
+B.S., The University of Texas at El Paso 
+Email: arely.diaz`at`ucdenver.edu  
 Phone: (303) 724-1651
-<a href="/docs/callahan-resume.pdf">CV</a>&nbsp;  
+<a href="/docs/diaz-cv.pdf">CV</a>&nbsp;  
 <br />
 <br />
+
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
@@ -95,6 +96,16 @@ Undergraduate student, Colorado College
 Email: Kate.matlin`at`coloradocollege.edu  
 Phone: (303) 724-1651
 <br />
+<br />
+<br />
+
+![Kimberly Callahan](/img/callahan.jpeg){: width="20%" align="right"}
+**Kimberly Callahan**  
+*MOLB Rotation Student*  
+B.S., Rochester Institute of Technology, Rochester, NY 
+Email: kimberly.callahan`at`ucdenver.edu  
+Phone: (303) 724-1651
+<a href="/docs/callahan-resume.pdf">CV</a>&nbsp;  
 <br />
 <br />
 ---
