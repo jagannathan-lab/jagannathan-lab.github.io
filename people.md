@@ -103,7 +103,6 @@ Current position: Senior, Colorado College
 B.S., Rochester Institute of Technology, Rochester, NY 
 Email: kimberly.callahan`at`ucdenver.edu  
 Current position: Rotation student, Mukherjee Laboratory
-<a href="/docs/callahan-resume.pdf">CV</a>&nbsp;  
 <br />
 <br />
 ---
