@@ -4,7 +4,7 @@ layout: page
 |
 
 ### Lab fun!   
-We are located on the 10th floor of RC1 South, with amazing views of Denver and Aurora. 
+We are located on the 10th floor of RC1 South, with amazing views of the Rockies and downtown Denver/Aurora. 
 <br>
 <img src="/img/anschutz-picture.jpeg" style="width:750px !important;height:361px !important;" />
 <br>
