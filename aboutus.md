@@ -30,13 +30,15 @@ My job as a mentor is to help you do the best science you can by providing the n
 * Communicate: This includes communicating with me to convey your needs, communicating with other lab members to ensure the smooth running of the lab, as well as communicating your research to the wider scientific community in the form of talks and papers.  
 
 **Lab Meeting format**  
-We participate in an joint lab meeting with the Mukherjee and Taliaferro labs where there is an opportunity to practice giving long-format talks to a wide(-ish) audience. Hence, the Jagannathan lab meetings will have the following format:  
+The Jagannathan lab meetings has the following format:  
 Start with admin issues and any anonymous matters-arising issues.   
 Week 1: Short updates by ½ the lab   
 Week 2: Journal club  
 Week 3: Short updates by ½ the lab  
 Week 4: Flex week for discussion of a timely/relevant topic or for lab fun/diversity/outreach activity   
 (repeat!)  
+
+In addition, we also participate in a joint lab meeting with the Mukherjee and Taliaferro labs that offers an opportunity to practice giving long-format talks to a wide(-ish) audience. 
 
 ### A note on publications and grants  
 Whether or not we like it, publications and grants are the main currency of academia - both for me as a PI and for you as a trainee. We will work together to have a steady stream of both. There may be times when we struggle. But remember: you are more than your papers and grants. You are more than your work. 
