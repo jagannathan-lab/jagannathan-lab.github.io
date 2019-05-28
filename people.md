@@ -68,7 +68,6 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 <br />
 
 ### Alumni
-![Hilary Hoffman](/img/hilary-hoffman.jpg){: width="20%" align="right"}
 **Hilary Hoffman**  
 *Professional Research Assistant*  
 B.S., UC Santa Cruz    
@@ -76,7 +75,6 @@ Current position: Clinical Research Coordinator at Children's Hospital Colorado
 <br />
 <br />  
 
-![Kate Matlin](/img/kate-matlin.jpeg){: width="20%" align="right"}
 **Kate Matlin**  
 *RBISIP 2018 Summer Intern*  
 Undergraduate student, Colorado College  
@@ -84,7 +82,6 @@ Current position: Senior, Colorado College
 <br />
 <br />
 
-![Kimberly Callahan](/img/callahan.jpeg){: width="20%" align="right"}
 **Kimberly Callahan**  
 *MOLB Rotation Student*  
 B.S., Rochester Institute of Technology, Rochester, NY 
@@ -92,7 +89,6 @@ Current position: Graduate student, Mukherjee Laboratory
 <br />
 <br />
 
-![Arely V. Diaz](/img/diaz.jpg){: width="20%" align="right"}
 **Arely Diaz**  
 *MOLB Rotation Student*  
 B.S., The University of Texas at El Paso 
