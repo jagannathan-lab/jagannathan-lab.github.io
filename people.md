@@ -58,16 +58,6 @@ Phone: (303) 724-1651
 <a href="/docs/cortazar-resume.pdf">CV</a>&nbsp;  
 <br />
 
-![Arely V. Diaz](/img/diaz.jpg){: width="20%" align="right"}
-**Arely Diaz**  
-*MOLB Rotation Student*  
-B.S., The University of Texas at El Paso 
-Email: arely.v.diaz`at`ucdenver.edu  
-Phone: (303) 724-1651
-<a href="/docs/diaz-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
@@ -82,7 +72,6 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 **Hilary Hoffman**  
 *Professional Research Assistant*  
 B.S., UC Santa Cruz    
-Email: hilary.hoffman`at`ucdenver.edu  
 Current position: Clinical Research Coordinator at Children's Hospital Colorado
 <br />
 <br />  
@@ -91,7 +80,6 @@ Current position: Clinical Research Coordinator at Children's Hospital Colorado
 **Kate Matlin**  
 *RBISIP 2018 Summer Intern*  
 Undergraduate student, Colorado College  
-Email: Kate.matlin`at`coloradocollege.edu  
 Current position: Senior, Colorado College  
 <br />
 <br />
@@ -100,8 +88,16 @@ Current position: Senior, Colorado College
 **Kimberly Callahan**  
 *MOLB Rotation Student*  
 B.S., Rochester Institute of Technology, Rochester, NY 
-Email: kimberly.callahan`at`ucdenver.edu  
-Current position: Rotation student, Mukherjee Laboratory
+Current position: Graduate student, Mukherjee Laboratory
+<br />
+<br />
+
+![Arely V. Diaz](/img/diaz.jpg){: width="20%" align="right"}
+**Arely Diaz**  
+*MOLB Rotation Student*  
+B.S., The University of Texas at El Paso 
+Current position: Graduate student, Reis Laboratory
+
 <br />
 <br />
 ---
