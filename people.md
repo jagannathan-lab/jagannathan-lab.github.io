@@ -70,25 +70,25 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 ### Alumni
 **Hilary Hoffman**  
 *Professional Research Assistant*  
-B.S., UC Santa Cruz    
+B.S., UC Santa Cruz     
 Current position: Clinical Research Coordinator at Children's Hospital Colorado
 <br />
 
 **Kate Matlin**  
 *RBISIP 2018 Summer Intern*  
-Undergraduate student, Colorado College  
+Undergraduate student, Colorado College    
 Current position: Senior, Colorado College  
 <br />
 
 **Kimberly Callahan**  
 *MOLB Rotation Student*  
-B.S., Rochester Institute of Technology, Rochester, NY 
+B.S., Rochester Institute of Technology, Rochester, NY   
 Current position: Graduate student, Mukherjee Laboratory
 <br />  
 
 **Arely Diaz**  
 *MOLB Rotation Student*  
-B.S., The University of Texas at El Paso 
+B.S., The University of Texas at El Paso   
 Current position: Graduate student, Reis Laboratory
 <br />
 ---
