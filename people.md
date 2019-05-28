@@ -73,13 +73,11 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 B.S., UC Santa Cruz    
 Current position: Clinical Research Coordinator at Children's Hospital Colorado
 <br />
-<br />  
 
 **Kate Matlin**  
 *RBISIP 2018 Summer Intern*  
 Undergraduate student, Colorado College  
 Current position: Senior, Colorado College  
-<br />
 <br />
 
 **Kimberly Callahan**  
@@ -87,13 +85,10 @@ Current position: Senior, Colorado College
 B.S., Rochester Institute of Technology, Rochester, NY 
 Current position: Graduate student, Mukherjee Laboratory
 <br />
-<br />
 
 **Arely Diaz**  
 *MOLB Rotation Student*  
 B.S., The University of Texas at El Paso 
 Current position: Graduate student, Reis Laboratory
-
-<br />
 <br />
 ---
