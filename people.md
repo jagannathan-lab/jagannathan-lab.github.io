@@ -48,6 +48,18 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+
+![Alexander Applegate](/img/applegate.jpg){: width="20%" align="right"}
+**Alexander Applegate**  
+*RBISIP 2019 Summer Intern*  
+Undergraduate student, Grove City College, PA    
+Email: alexander.applegate`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/applegate-resume.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
+
 ![Michael Cortázar](/img/cortazar.png){: width="20%" align="right"}
 **Michael Cortázar**  
 *Postdoctoral Fellow*  
