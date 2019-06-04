@@ -94,7 +94,7 @@ Current position: Senior, Colorado College
 *MOLB Rotation Student*  
 B.S., Rochester Institute of Technology, Rochester, NY   
 Current position: Graduate student, Mukherjee Laboratory
-<br />  
+<br />
 
 **Arely Diaz**  
 *MOLB Rotation Student*  
