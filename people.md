@@ -87,13 +87,13 @@ Current position: Clinical Research Coordinator at Children's Hospital Colorado
 **Kate Matlin**  
 *RBISIP 2018 Summer Intern*  
 Undergraduate student, Colorado College    
-Current position: Senior, Colorado College  
+Current position: Senior, Colorado College   
 <br />
 
 **Kimberly Callahan**  
 *MOLB Rotation Student*  
 B.S., Rochester Institute of Technology, Rochester, NY   
-Current position: Graduate student, Mukherjee Laboratory
+Current position: Graduate student, Mukherjee Laboratory  
 <br />
 
 **Arely Diaz**  
