@@ -98,4 +98,5 @@ B.S., Grinnell College
 Ph. D., University of Iowa  
 Current position: Medical Writer, Zimmer Biomet
 <br />  
+
 ---
