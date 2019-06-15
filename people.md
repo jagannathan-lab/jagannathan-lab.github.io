@@ -18,16 +18,6 @@ Phone: (303) 724-3309
 <a href="http://twitter.com/RNA_biologist" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
 <br />
 
-![Michael Dyle](/img/mike-dyle.JPG){: width="20%" align="right"}
-**Michael Dyle**  
-*Postdoctoral Fellow*  
-B.S., Grinnell College  
-Ph. D., University of Iowa  
-Email: michael.dyle`at`ucdenver.edu  
-Phone: (303) 724-1651
-<a href="/docs/dyle-resume.pdf">CV</a>&nbsp;  
-<br />
-
 ![Divya Kolakada](/img/divya-kolakada.jpg){: width="20%" align="right"}
 **Divya Kolakada**  
 *Graduate student (MOLB/BSP)*  
@@ -79,26 +69,33 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 
 ### Alumni
 **Hilary Hoffman**  
-*Professional Research Assistant*  
+*Professional Research Assistant* (Jan - Feb 2018)   
 B.S., UC Santa Cruz     
 Current position: Clinical Research Coordinator at Children's Hospital Colorado
 <br />
 
 **Kate Matlin**  
-*RBISIP 2018 Summer Intern*  
+*RBISIP 2018 Summer Intern* (Summer 2018)  
 Undergraduate student, Colorado College    
 Current position: Senior, Colorado College   
 <br />
 
 **Kimberly Callahan**  
-*MOLB Rotation Student*  
+*MOLB Rotation Student* (Winter 2018)   
 B.S., Rochester Institute of Technology, Rochester, NY   
 Current position: Graduate student, Mukherjee Laboratory  
 <br />
 
 **Arely Diaz**  
-*MOLB Rotation Student*  
+*MOLB Rotation Student*  (Spring 2019)  
 B.S., The University of Texas at El Paso   
 Current position: Graduate student, Reis Laboratory
+<br />
+
+**Michael Dyle**  
+*Postdoctoral Fellow* (Jan 2018 - June 2019)  
+B.S., Grinnell College  
+Ph. D., University of Iowa  
+Current position: Medical Writer, Zimmer Biomet
 <br />
 ---
