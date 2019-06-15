@@ -27,7 +27,7 @@ We study RNA surveillance across biological scales - intracellular, tissue-level
 <br> 
 <font color="white">Muscle Differentiation!</font>
 
-We utilize both healthy muscle cells and those isolated from individuals affected by FSHD to understand how RNA surveillance contributes to both physiological and pathological processes. During FSHD, the process of NMD is compromised via proteasomal degradation of several key NMD factors. Understanding the underlying mechanism of NMD downregulation by the proteasome, as well as the pathological consequences of NMD inhibition during FSHD could hold essential clues identifying a cure for FSHD.  
+We utilize both healthy muscle cells and those isolated from individuals affected by FSHD to understand how RNA surveillance contributes to both physiological and pathological processes. During FSHD, the process of NMD is compromised via proteasomal degradation of several key NMD factors. Understanding the underlying mechanism of NMD downregulation by the proteasome, as well as the pathological consequences of NMD inhibition during FSHD could hold essential clues for identifying a cure for FSHD.  
  
 ### Our tools
 We apply computational and experimental tools to understand how RNA surveillance shapes gene expression and contributes to disease processes. To this end, we use a wide variety of methods ranging from RNA imaging in single cells to high-throughput genomic analyses.  
