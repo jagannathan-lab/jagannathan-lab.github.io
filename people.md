@@ -90,12 +90,12 @@ Current position: Graduate student, Mukherjee Laboratory
 *MOLB Rotation Student*  (Spring 2019)  
 B.S., The University of Texas at El Paso   
 Current position: Graduate student, Reis Laboratory
-<br />
+<br />  
 
 **Michael Dyle**  
 *Postdoctoral Fellow* (Jan 2018 - June 2019)  
 B.S., Grinnell College  
 Ph. D., University of Iowa  
 Current position: Medical Writer, Zimmer Biomet
-<br />
+<br />  
 ---
