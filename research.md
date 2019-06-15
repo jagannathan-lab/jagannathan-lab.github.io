@@ -13,7 +13,7 @@ Our lab studies how cells detect and degrade aberrant RNAs, and how dysregulatio
 ### Our questions  
 * What <i>cis</i> elements and <i>trans</i> factors allow an mRNA to escape NMD?  
 * How does variable NMD sensitivity influence cellular phenotypes?
-* What is the role of loss of NMD in facioscapulohumeral muscular dystrophy (FSHD)?
+* What is the role of loss of NMD in facioscapulohumeral muscular dystrophy ([FSHD]https://www.mda.org/disease/facioscapulohumeral-muscular-dystrophy)?
 <br>
 <img align="left" src="/img/research-overview_edit.png" style="width:720px !important;height:320px !important;" />
 <br> 
