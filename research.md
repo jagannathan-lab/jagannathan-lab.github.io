@@ -20,7 +20,7 @@ Our lab studies how cells detect and degrade aberrant RNAs, and how dysregulatio
 <br> 
 
 
-### Our System
+### Our System  
 We study RNA surveillance across biological scales - intracellular, tissue-level and across human populations. The system we use the most is the human muscle. Myoblasts that are cultured to confluency fuse and form elongated myotubes upon starvation (image below), enabling us to study both the precursor and differentiated muscle cells in culture under defined conditions.
 <img align="left" src="/img/muscle_differentiation.png" style="width:750px !important;height:300px !important;" />   
 <br> 
@@ -29,5 +29,5 @@ We study RNA surveillance across biological scales - intracellular, tissue-level
 
 We utilize both healthy muscle cells and those isolated from individuals affected by FSHD to understand how RNA surveillance contributes to both physiological and pathological processes. During FSHD, the process of NMD is compromised via proteasomal degradation of several key NMD factors. Understanding the underlying mechanism of NMD downregulation by the proteasome, as well as the pathological consequences of NMD inhibition during FSHD could hold essential clues for identifying a cure for FSHD.  
  
-### Our tools
+### Our tools  
 We apply computational and experimental tools to understand how RNA surveillance shapes gene expression and contributes to disease processes. To this end, we use a wide variety of methods ranging from RNA imaging in single cells to high-throughput genomic analyses.  
