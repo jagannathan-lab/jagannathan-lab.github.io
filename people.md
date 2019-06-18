@@ -93,7 +93,7 @@ Current position: Graduate student, Reis Laboratory
 *Postdoctoral Fellow* (Jan 2018 - June 2019)  
 B.S., Grinnell College  
 Ph. D., University of Iowa  
-Current position: Medical Writer, Telos Partners LLC
+Current position: Evidence Scientist, Telos Partners LLC
 <br />  
 
 ---
