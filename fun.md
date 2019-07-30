@@ -11,7 +11,6 @@ We are located on the 10th floor of RC1 South, with amazing views of the Rockies
 <br>
 
 When we are not busy doing awesome science, we also get up to other shenanigans...
-
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/ngKCBxLvxAdN935JA"
