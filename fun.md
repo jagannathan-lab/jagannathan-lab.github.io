@@ -10,13 +10,7 @@ We are located on the 10th floor of RC1 South, with amazing views of the Rockies
 <br>
 <br>
 
-As a lab, one of our favorite things to do is have outdoor lab meetings. When possible, we do this over lunch, especially when the food trucks are on campus. 
-<br>
-<img src="/img/lab-lunch-1.jpeg" style="width:750px !important;height:590px !important;" />
-<font color="black">Lab lunch for Kate's last day! (Aug 8, 2018)</font>
-<br>
-
-We also get up to other shenanigans occasionally... 
+When we are not busy doing awesome science, we also get up to other shenanigans...
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
