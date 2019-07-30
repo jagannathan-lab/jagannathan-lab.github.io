@@ -41,6 +41,8 @@ When we are not busy doing awesome science, we also get up to other shenanigans.
   <img data-src="https://lh3.googleusercontent.com/rrfwbhzcVPdvzVZV87je7mwT71OsjHAViNTg3ERs9Vd0nkhfk3TjX0oTNpzAfxfSVJkM-9tLYfF0E_cwWzx671_W-3bC50qw-gFV0TRRXjG1QJHKGgKlyfWw3h3X6jJLBa0Z4bo8XA=w1920-h1080" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/hgac4uoZaNd4XKhhTuknFUvFyI_sNhDLXhAzbPV8vtHJXHXSrxkI7voSIKIHBzupgZnoFZzRG8Xg5cFQzVwQbViJQsb0wpDvvDmJcfDIO9Y4SzyWtqM5y1ZAfqXyj4lv8KOAbr4VPw=w1920-h1080" src="" alt="" />
 </div>
+<br>
+<br>
 
 ### Things to do in Denver
 
