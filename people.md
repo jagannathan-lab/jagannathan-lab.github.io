@@ -28,16 +28,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Elizabeth Bonner](/img/elizabeth-bonner.jpg){: width="20%" align="right"}
-**Elizabeth Bonner**  
-*Professional Research Assistant*  
-B.S., University of Denver    
-Email: elizabeth.bonner`at`ucdenver.edu  
-Phone: (303) 724-1651
-<a href="/docs/bonner-resume.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
 ![Michael Cortázar](/img/cortazar.png){: width="20%" align="right"}
 **Michael Cortázar**  
 *Postdoctoral Fellow*  
@@ -88,12 +78,18 @@ Current position: Graduate student, Mukherjee Laboratory
 B.S., The University of Texas at El Paso   
 Current position: Graduate student, Reis Laboratory
 <br />  
-
 **Michael Dyle**  
 *Postdoctoral Fellow* (Jan 2018 - June 2019)  
 B.S., Grinnell College  
 Ph. D., University of Iowa  
 Current position: Evidence Scientist, Telos Partners LLC
 <br />  
+**Elizabeth Bonner**  
+*Professional Research Assistant*  (April 2018 - July 2019)
+B.S., University of Denver    
+Current position: Graduate Student, University of Washington Seattle
+<br />
+<br />
+
 
 ---
