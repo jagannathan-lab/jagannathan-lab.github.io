@@ -11,11 +11,11 @@ After an awesome year-and-a-half in the lab, Elizabeth is heading off to Seattle
 We celebrated Elizabeth's last day in the lab with lunch + icecream at the food trucks, and a happy hour at the Stanley Beer Hall. We are doing to miss you terribly, Elizabeth! 
 <br>
 
+Cajun falafel poboy for lunch + Em's icecream for dessert
 <img align="center" src="/img/Elizabeth-lastday-1.jpg" style="width:600px !important;height:466px !important;" />
 <br>
-Cajun falafel poboy for lunch + Em's icecream for dessert
 
-<img align="center" src="/img/Elizabeth-lastday-2.jpg" style="width:600px !important;height:219px !important;" />
 Happy hour at Stanley Beer Hall
+<img align="center" src="/img/Elizabeth-lastday-2.jpg" style="width:600px !important;height:219px !important;" />
 <br>
 <br>
