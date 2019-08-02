@@ -13,8 +13,9 @@ We celebrated Elizabeth's last day in the lab with lunch + icecream at the food 
 
 <img align="center" src="/img/Elizabeth-lastday-1.jpg" style="width:600px !important;height:466px !important;" />
 <br>
+Cajun falafel poboy for lunch + Em's icecream for dessert
 
 <img align="center" src="/img/Elizabeth-lastday-2.jpg" style="width:600px !important;height:219px !important;" />
-
+Happy hour at Stanley Beer Hall
 <br>
 <br>
