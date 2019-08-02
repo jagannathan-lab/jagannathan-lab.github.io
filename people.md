@@ -87,7 +87,7 @@ Current position: Evidence Scientist, Telos Partners LLC
 **Elizabeth Bonner**  
 *Professional Research Assistant*  (April 2018 - July 2019)   
 B.S., University of Denver    
-Current position: Graduate Student, University of Washington Seattle   
+Current position: Graduate Student, MCB Program, University of Washington Seattle   
 <br />
 <br />
 
