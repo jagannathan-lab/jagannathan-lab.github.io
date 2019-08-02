@@ -12,6 +12,8 @@ We celebrated Elizabeth's last day in the lab with lunch + icecream at the food 
 <br>
 
 <img align="center" src="/img/Elizabeth-lastday-1.jpg" style="width:600px !important;height:466px !important;" />
+<br>
+
 <img align="center" src="/img/Elizabeth-lastday-2.jpg" style="width:600px !important;height:219px !important;" />
 
 <br>
