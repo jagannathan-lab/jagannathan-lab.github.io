@@ -3,7 +3,7 @@ layout: post
 title: Our lab's first paper!
 subtitle: Review article in WIREs RNA
 image: /img/wiresRNA2019.png
-tags: [news, new-member]
+tags: [news, publication]
 ---
 <img align="right" src="/img/wiresRNA2019.png" style="width:250px !important;height:200px !important;" />
 Our lab's first paper is out in [WIREs RNA](https://onlinelibrary.wiley.com/doi/10.1002/wrna.1560)! 
