@@ -7,7 +7,7 @@ tags: [news, funding]
 ---
 
 <img align="right" src="/img/nigms-logo.gif" style="width:200px !important;height:200px !important;" />
-It's official! Our lab has been awarded a Maximizing Investigators' Research Award (MIRA/R35) from NIH/NIGMS. It's our first NIH grant, and we are super excited for all the awesome science this grant will enable. We have been celebrating in installments - with a lab lunch, a mini-golf/GoKart outing, and of course the champagne/cake routine. Now to get to work! 
+It's official! Our lab has been awarded a Maximizing Investigators' Research Award (MIRA/R35) from NIH/NIGMS to study physiological variability in NMD. It's our first NIH grant, and we are super excited for all the awesome science this grant will enable. We have been celebrating in installments - with a lab lunch, a mini-golf/GoKart outing, and of course the champagne/cake routine. Now to get to work! 
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
