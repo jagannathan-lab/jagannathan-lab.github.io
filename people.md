@@ -48,47 +48,6 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 <br />
 
 ### Alumni
-*Professional Research Assistants*   
-**Hilary Hoffman**  (Jan - Feb 2018)   
-B.S., UC Santa Cruz     
-Current position: Clinical Research Coordinator at Children's Hospital Colorado
-<br />  
-**Elizabeth Bonner**  (April 2018 - July 2019)   
-B.S., University of Denver    
-Current position: Graduate Student, MCB Program, University of Washington Seattle   
-<br />
-<br />   
-
-*RBISIP Summer Interns*   
-**Kate Matlin**  (Summer 2018)    
-B.S., Colorado College   
-Current Position: The OMNI Institute
-<br />  
-**Alexander Applegate**  (Summer 2019)    
-Grove City College, PA   
-Current Position: Senior, Grove City College, PA   
-<br />
-<br />
-
-*Rotation Students*   
-**Kimberly Callahan** (Winter 2018; MOLB)   
-B.S., Rochester Institute of Technology, Rochester, NY   
-Current position: Graduate student, Mukherjee Laboratory  
-<br />  
-**Arely Diaz**  
-*MOLB Rotation Student*  (Spring 2019; MOLB)  
-B.S., The University of Texas at El Paso   
-Current position: Graduate student, Reis Laboratory
-<br />  
-<br />
-
-*Postdoctoral Fellows*   
-**Michael Dyle**  (Jan 2018 - June 2019)  
-B.S., Grinnell College  
-Ph. D., University of Iowa  
-Current position: Evidence Scientist, Telos Partners LLC
-<br />  
----
 
 <!DOCTYPE html>
 <html>
