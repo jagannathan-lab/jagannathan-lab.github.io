@@ -111,7 +111,7 @@ Current position: Evidence Scientist, Telos Partners LLC
     <td>Clinical Research Coordinator at Children's Hospital Colorado</td>
   </tr>
 
-    <tr>
+  <tr>
     <td>Kate Matlin</td>
     <td>B.S. Colorado College</td>
     <td>RBISIP Summer Intern</td>
@@ -120,7 +120,7 @@ Current position: Evidence Scientist, Telos Partners LLC
   </tr>
 
 
-    <tr>
+  <tr>
     <td>Kimberly Callahan</td>
     <td>B.S. Rochester Institute of Technology, Rochester, NY </td>
     <td>MOLB Rotation Student</td>
@@ -129,7 +129,7 @@ Current position: Evidence Scientist, Telos Partners LLC
   </tr>
 
   
-    <tr>
+  <tr>
     <td>Arely Diaz</td>
     <td>B.S. The University of Texas at El Paso</td>
     <td>MOLB Rotation Student</td>
@@ -137,7 +137,7 @@ Current position: Evidence Scientist, Telos Partners LLC
     <td>Graduate Student, Reis Lab</td>
   </tr>
   
-    <tr>
+  <tr>
     <td>Michael Dyle</td>
     <td>B.S. Grinnell College; Ph. D. University of Iowa</td>
     <td>FSH Society Postdoctoral Fellow</td>
@@ -154,7 +154,7 @@ Current position: Evidence Scientist, Telos Partners LLC
     <td>Graduate Student, MCB Program, University of Washington Seattle </td>
   </tr>
   
-    <tr>
+  <tr>
     <td>Alexander Applegate</td>
     <td>Senior, Grove City College, PA</td>
     <td>RBISIP Summer Intern</td>
@@ -163,8 +163,6 @@ Current position: Evidence Scientist, Telos Partners LLC
   </tr>
   
 </table>
-
-<p><b>Note:</b> The border attribute is not supported in HTML5. Use CSS instead.</p>
 
 </body>
 </html>
