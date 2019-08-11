@@ -48,7 +48,7 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 <br />
 
 ### Alumni
-*Professional Research Assistants*
+*Professional Research Assistants*   
 **Hilary Hoffman**  (Jan - Feb 2018)   
 B.S., UC Santa Cruz     
 Current position: Clinical Research Coordinator at Children's Hospital Colorado
@@ -83,7 +83,7 @@ Current position: Graduate student, Reis Laboratory
 <br />  
 <br />
 
-*Postdoctoral Fellows* 
+*Postdoctoral Fellows*   
 **Michael Dyle**  (Jan 2018 - June 2019)  
 B.S., Grinnell College  
 Ph. D., University of Iowa  
