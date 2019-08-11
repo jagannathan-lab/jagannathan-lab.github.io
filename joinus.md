@@ -14,9 +14,9 @@ Please email Sujatha Jagannathan (sujatha.jagannathan`at`ucdenver.edu) for more 
 
 ### Contact us
 If you would like to visit, here is our physical location:  
-University of Colorado School of Medicine . 
-Research Complex 1 South . 
-12801 E 17th Ave, Aurora, CO 80045 . 
+University of Colorado School of Medicine   
+Research Complex 1 South   
+12801 E 17th Ave, Aurora, CO 80045   
 *Lab*: RC1S 10403G    
 *Suja's Office*: RC1S 10112    
 
