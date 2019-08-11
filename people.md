@@ -59,20 +59,19 @@ Current position: Graduate Student, MCB Program, University of Washington Seattl
 <br />
 <br />   
 
-*RBISIP Summer Interns*
+*RBISIP Summer Interns*   
 **Kate Matlin**  
 *RBISIP 2018 Summer Intern* (Summer 2018)  
-Undergraduate student, Colorado College    
-Current position: Senior, Colorado College   
+B.S., Colorado College   
+Current Position: The OMNI Institute
 <br />  
 **Alexander Applegate**  
 *RBISIP 2019 Summer Intern* (Summer 2019)  
-Undergraduate student, Grove City College, PA   
-Current position: Senior, Grove City College, PA   
+Grove City College, PA   
 <br />
 <br />
 
-*Rotation Students*
+*Rotation Students*   
 **Kimberly Callahan** (Winter 2018; MOLB)   
 B.S., Rochester Institute of Technology, Rochester, NY   
 Current position: Graduate student, Mukherjee Laboratory  
@@ -82,6 +81,8 @@ Current position: Graduate student, Mukherjee Laboratory
 B.S., The University of Texas at El Paso   
 Current position: Graduate student, Reis Laboratory
 <br />  
+<br />
+
 *Postdoctoral Fellows* 
 **Michael Dyle**  (Jan 2018 - June 2019)  
 B.S., Grinnell College  
