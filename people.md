@@ -48,42 +48,44 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 <br />
 
 ### Alumni
-**Hilary Hoffman**  
-*Professional Research Assistant* (Jan - Feb 2018)   
+*Professional Research Assistants*
+**Hilary Hoffman**  (Jan - Feb 2018)   
 B.S., UC Santa Cruz     
 Current position: Clinical Research Coordinator at Children's Hospital Colorado
 <br />  
+**Elizabeth Bonner**  (April 2018 - July 2019)   
+B.S., University of Denver    
+Current position: Graduate Student, MCB Program, University of Washington Seattle   
+<br />
+<br />   
+
+*RBISIP Summer Interns*
 **Kate Matlin**  
 *RBISIP 2018 Summer Intern* (Summer 2018)  
 Undergraduate student, Colorado College    
 Current position: Senior, Colorado College   
 <br />  
-**Kimberly Callahan**  
-*MOLB Rotation Student* (Winter 2018)   
-B.S., Rochester Institute of Technology, Rochester, NY   
-Current position: Graduate student, Mukherjee Laboratory  
-<br />  
-**Arely Diaz**  
-*MOLB Rotation Student*  (Spring 2019)  
-B.S., The University of Texas at El Paso   
-Current position: Graduate student, Reis Laboratory
-<br />  
-**Michael Dyle**  
-*Postdoctoral Fellow* (Jan 2018 - June 2019)  
-B.S., Grinnell College  
-Ph. D., University of Iowa  
-Current position: Evidence Scientist, Telos Partners LLC
-<br />  
-**Elizabeth Bonner**  
-*Professional Research Assistant*  (April 2018 - July 2019)   
-B.S., University of Denver    
-Current position: Graduate Student, MCB Program, University of Washington Seattle   
-<br />
 **Alexander Applegate**  
-*RBISIP 2019 Summer Intern* (Summer 2019)
-Undergraduate student, Grove City College, PA 
+*RBISIP 2019 Summer Intern* (Summer 2019)  
+Undergraduate student, Grove City College, PA   
 Current position: Senior, Grove City College, PA   
 <br />
 <br />
 
+*Rotation Students*
+**Kimberly Callahan** (Winter 2018; MOLB)   
+B.S., Rochester Institute of Technology, Rochester, NY   
+Current position: Graduate student, Mukherjee Laboratory  
+<br />  
+**Arely Diaz**  
+*MOLB Rotation Student*  (Spring 2019; MOLB)  
+B.S., The University of Texas at El Paso   
+Current position: Graduate student, Reis Laboratory
+<br />  
+*Postdoctoral Fellows* 
+**Michael Dyle**  (Jan 2018 - June 2019)  
+B.S., Grinnell College  
+Ph. D., University of Iowa  
+Current position: Evidence Scientist, Telos Partners LLC
+<br />  
 ---
