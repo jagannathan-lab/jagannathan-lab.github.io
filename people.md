@@ -38,16 +38,6 @@ Phone: (303) 724-1651
 <a href="/docs/cortazar-resume.pdf">CV</a>&nbsp;  
 <br />
 
-![Alexander Applegate](/img/applegate.jpg){: width="20%" align="right"}
-**Alexander Applegate**  
-*RBISIP 2019 Summer Intern*  
-Undergraduate student, Grove City College, PA    
-Email: alexander.applegate`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/applegate-resume.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
@@ -89,7 +79,11 @@ Current position: Evidence Scientist, Telos Partners LLC
 B.S., University of Denver    
 Current position: Graduate Student, MCB Program, University of Washington Seattle   
 <br />
+**Alexander Applegate**  
+*RBISIP 2019 Summer Intern* (Summer 2019)
+Undergraduate student, Grove City College, PA 
+Current position: Senior, Grove City College, PA   
 <br />
-
+<br />
 
 ---
