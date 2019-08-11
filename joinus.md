@@ -12,15 +12,16 @@ We are a growing team of RNA biologists. We welcome inquiries from enthusiastic 
 
 Please email Sujatha Jagannathan (sujatha.jagannathan`at`ucdenver.edu) for more information. 
 
-If you would like to visit us, here is our physical location:  
+### Contact us
+If you would like to visit, here is our physical location:  
 University of Colorado School of Medicine
 Research Complex 1 South
 12801 E 17th Ave, Aurora, CO 80045
+*Lab*: RC1S 10403G  
+*Suja's Office*: RC1S 10112  
 
-*Lab*
-Location: RC1S 10403G
-Phone: 303-724-3567
-
-*Office*
-Location: RC1S 10112
-Phone: 303-724-3309
+Our mailing address is:   
+Dr. Sujatha Jagannathan   
+University of Colorado   
+12801 E 17th Ave Room 10101   
+Aurora CO, 80045-2530   
