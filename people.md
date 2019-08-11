@@ -60,14 +60,13 @@ Current position: Graduate Student, MCB Program, University of Washington Seattl
 <br />   
 
 *RBISIP Summer Interns*   
-**Kate Matlin**  
-*RBISIP 2018 Summer Intern* (Summer 2018)  
+**Kate Matlin**  (Summer 2018)    
 B.S., Colorado College   
 Current Position: The OMNI Institute
 <br />  
-**Alexander Applegate**  
-*RBISIP 2019 Summer Intern* (Summer 2019)  
+**Alexander Applegate**  (Summer 2019)    
 Grove City College, PA   
+Current Position: Senior, Grove City College, PA   
 <br />
 <br />
 
