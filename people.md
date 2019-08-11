@@ -66,7 +66,7 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>B.S. UC Santa Cruz</td>
     <td>PRA</td>
     <td>Jan - Feb 2018</td>
-    <td>Clinical Research Coordinator at Children's Hospital Colorado</td>
+    <td>Clinical Research Coordinator, Children's Hospital Colorado</td>
   </tr>
 
   <tr>
@@ -74,7 +74,7 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>B.S. Colorado College</td>
     <td>RBISIP Summer Intern</td>
     <td>Summer 2018</td>
-    <td>The OMNI Institute</td>
+    <td>Production Coordinator, The OMNI Institute</td>
   </tr>
 
 
