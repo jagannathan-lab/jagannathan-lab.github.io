@@ -9,7 +9,7 @@ layout: page
 * <strong>Jagannathan S</strong>, Ramachandran S, Rissland OA. Slow down to catch up. <em>Cell. </em> 2019; 178(4):774-776 </em> <a href="https://www.sciencedirect.com/science/article/pii/S0092867419307925?dgcid=author">Link</a><em> 
 
 * Dyle MC, Kolakada D, Cortazar MA, <strong>Jagannathan S#</strong>. How to get away with nonsense: Mechanisms and consequences of escape from nonsense-mediated RNA decay. <em>Wiley Interdiscip Rev RNA. </em> 2019; 29:e1560 </em> <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/wrna.1560">Link</a><em> 
-</em><a href="https://rdcu.be/bMpJl" target="_blank" rel="noopener">Readcube</a> (<strong>#</strong>Corresponding Author) 
+</em><a href="https://rdcu.be/bMpJl" target="_blank" rel="noopener">Readcube</a> (<strong>#</strong>Corresponding Author) <em> 
 
 * <strong>Jagannathan S</strong>, Ogata Y, Gafken P, Tapscott SJ, Bradley RK. Quantitative proteomics reveals key roles for post-transcriptional gene regulation in the molecular pathology of FSHD. <em>eLife. </em> 2019; 8:e41740 </em> <a href="https://elifesciences.org/articles/41740">Link</a><em> 
 </em><a href="https://www.biorxiv.org/content/early/2018/11/23/417790" target="_blank" rel="noopener">bioRxiv</a>
