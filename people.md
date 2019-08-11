@@ -49,7 +49,6 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 
 ### Alumni
 
-<!DOCTYPE html>
 <html>
 <body>
 
