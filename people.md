@@ -43,7 +43,7 @@ Phone: (303) 724-1651
 *Research Instructor*  
 B.S., Reed College, Portland, OR  
 Ph. D., University of Pennsylvania, Philadelphia, PA  
-Email: amy.e.campbell`at`cuanschutz.edu
+Email: amy.e.campbell`at`cuanschutz.edu   
 Phone: (303) 724-1651
 <a href="/docs/campbell-cv.pdf">CV</a>&nbsp;  
 <br />
