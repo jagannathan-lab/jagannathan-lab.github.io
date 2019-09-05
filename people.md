@@ -37,7 +37,6 @@ Email: michael.cortazar`at`ucdenver.edu
 Phone: (303) 724-1651
 <a href="/docs/cortazar-resume.pdf">CV</a>&nbsp;  
 <br />
-<br />
 
 ![Amy Campbell](/img/campbell.jpg){: width="20%" align="right"}
 **Amy Campbell**  
@@ -47,7 +46,6 @@ Ph. D., University of Pennsylvania, Philadelphia, PA
 Email: amy.e.campbell`at`cuanschutz.edu
 Phone: (303) 724-1651
 <a href="/docs/campbell-cv.pdf">CV</a>&nbsp;  
-<br />
 <br />
 
 ![Laura Baquero Galvis](/img/baquero.jpg){: width="20%" align="right"}
