@@ -37,7 +37,27 @@ Email: michael.cortazar`at`ucdenver.edu
 Phone: (303) 724-1651
 <a href="/docs/cortazar-resume.pdf">CV</a>&nbsp;  
 <br />
+<br />
 
+![Amy Campbell](/img/campbell.jpg){: width="20%" align="right"}
+**Amy Campbell**  
+*Research Instructor*  
+B.S., Reed College, Portland, OR  
+Ph. D., University of Pennsylvania, Philadelphia, PA  
+Email: amy.e.campbell`at`cuanschutz.edu
+Phone: (303) 724-1651
+<a href="/docs/campbell-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
+![Laura Baquero Galvis](/img/baquero.jpg){: width="20%" align="right"}
+**Laura Baquero Galvis**  
+*Professional Research Assistant*  
+B.S., Metropolitan State University of Denver, Denver, CO  
+Email: laura.baquerogalvis`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/baquero-cv.pdf">CV</a>&nbsp;  
+<br />
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
