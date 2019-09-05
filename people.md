@@ -18,7 +18,7 @@ Phone: (303) 724-3309
 <a href="http://twitter.com/RNA_biologist" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
 <br />
 
-![Divya Kolakada](/img/divya-kolakada.jpg){: width="20%" align="right"}
+![Divya Kolakada](/img/kolakada.jpg){: width="20%" align="right"}
 **Divya Kolakada**  
 *Graduate student (MOLB/BSP)*  
 B.S., Rollins College   
