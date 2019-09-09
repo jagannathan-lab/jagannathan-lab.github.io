@@ -56,7 +56,7 @@ Email: laura.baquerogalvis`at`cuanschutz.edu
 Phone: (303) 724-1651
 <a href="/docs/baquero-cv.pdf">CV</a>&nbsp;  
 <br />
-
+<br />
 
 ![Alex Steil](/img/steil.jpg){: width="20%" align="right"}
 **Alex Steil**  
