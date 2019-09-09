@@ -55,6 +55,16 @@ B.S., Metropolitan State University of Denver, Denver, CO
 Email: laura.baquerogalvis`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/baquero-cv.pdf">CV</a>&nbsp;  
+<br />   
+
+
+![Alex Steil](/img/steil.jpg){: width="20%" align="right"}
+**Alex Steil**  
+*Professional Research Assistant*  
+B.S., University of Wisconsin – La Crosse 
+Email: alexander.steil`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/steil-cv.pdf">CV</a>&nbsp;  
 <br />
 
 **You? Join us!**  
