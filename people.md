@@ -61,7 +61,7 @@ Phone: (303) 724-1651
 ![Alex Steil](/img/steil.jpg){: width="20%" align="right"}
 **Alex Steil**  
 *Professional Research Assistant*  
-B.S., University of Wisconsin – La Crosse 
+B.S., University of Wisconsin – La Crosse  
 Email: alexander.steil`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/steil-cv.pdf">CV</a>&nbsp;  
