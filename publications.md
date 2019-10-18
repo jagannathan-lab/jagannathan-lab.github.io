@@ -6,12 +6,12 @@ layout: page
 
 ### Publications (<strong><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/sujatha.jagannathan.1/bibliography/46492045/public/?sort=date&direction=ascending" target="_blank" rel="noopener">PubMed</a></strong>)
 
-* <strong>Jagannathan S</strong>, Ramachandran S, Rissland OA. Slow down to catch up. <em>Cell. </em> 2019; 178(4):774-776 </em> <a href="https://www.sciencedirect.com/science/article/pii/S0092867419307925?dgcid=author">Link</a>
+* <strong>Jagannathan S</strong>, Ramachandran S, Rissland OA. Slow down to catch up. <em>Cell. </em> 2019; 178(4):774-776 <a href="https://www.sciencedirect.com/science/article/pii/S0092867419307925?dgcid=author">Link</a>
 
-* Dyle MC, Kolakada D, Cortazar MA, <strong>Jagannathan S#</strong>. How to get away with nonsense: Mechanisms and consequences of escape from nonsense-mediated RNA decay. <em>Wiley Interdiscip Rev RNA. </em> 2019; 29:e1560 </em> <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/wrna.1560">Link</a>
+* Dyle MC, Kolakada D, Cortazar MA, <strong>Jagannathan S#</strong>. How to get away with nonsense: Mechanisms and consequences of escape from nonsense-mediated RNA decay. <em>Wiley Interdiscip Rev RNA. </em> 2019; 29:e1560 <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/wrna.1560">Link</a>
 <a href="https://rdcu.be/bMpJl" target="_blank" rel="noopener">Readcube</a> (<strong>#</strong>Corresponding Author) 
 
-* <strong>Jagannathan S</strong>, Ogata Y, Gafken P, Tapscott SJ, Bradley RK. Quantitative proteomics reveals key roles for post-transcriptional gene regulation in the molecular pathology of FSHD. <em>eLife. </em> 2019; 8:e41740 </em> <a href="https://elifesciences.org/articles/41740">Link</a><em> 
+* <strong>Jagannathan S</strong>, Ogata Y, Gafken P, Tapscott SJ, Bradley RK. Quantitative proteomics reveals key roles for post-transcriptional gene regulation in the molecular pathology of FSHD. <em>eLife. </em> 2019; 8:e41740 <a href="https://elifesciences.org/articles/41740">Link</a><em> 
 </em><a href="https://www.biorxiv.org/content/early/2018/11/23/417790" target="_blank" rel="noopener">bioRxiv</a>
 
 * Campbell AE, Shadle SC, <strong>Jagannathan S</strong>, Lim JW, Resnick R, Tawil R, van der Maarel SM, Tapscott SJ. NuRD and CAF-1-mediated silencing of the D4Z4 array is modulated by DUX4-induced MBD3L proteins. <em>eLife. </em> 2018; 7:e31023 <a href="https://doi.org/10.7554/eLife.31023" target="_blank" rel="noopener">Link</a>
