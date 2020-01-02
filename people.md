@@ -35,7 +35,7 @@ B.S., Valle State University, Cali, Colombia
 Ph. D., University of Colorado, Anschutz Medical Campus  
 Email: michael.cortazar`at`ucdenver.edu  
 Phone: (303) 724-1651
-<a href="/docs/cortazar-resume.pdf">CV</a>&nbsp;  
+<a href="/docs/cortazar-biosketch.pdf">CV</a>&nbsp;  
 <br />
 
 ![Amy Campbell](/img/campbell.jpg){: width="20%" align="right"}
