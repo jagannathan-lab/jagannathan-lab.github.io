@@ -66,6 +66,17 @@ Email: alexander.steil`at`cuanschutz.edu
 Phone: (303) 724-1651
 <a href="/docs/steil-cv.pdf">CV</a>&nbsp;  
 <br />
+<br />
+
+![Christina Piarowski](/img/piarowski.jpg){: width="20%" align="right"}
+**Christina Piarowski**  
+*CSD Rotation Student*  
+B.S., Arizona State University- Barrett, the Honors College  
+Email: christina.piarowski`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/piarowski-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
