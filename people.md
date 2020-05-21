@@ -81,7 +81,7 @@ Phone: (303) 724-1651
 ![Thomas Forman](/img/forman.jpg){: width="20%" align="right"}
 **Thomas Forman**  
 *MSTP Rotation Student*  
-B.S., University of Oregon, Eugene, OR.  
+B.S., University of Oregon, Eugene, OR  
 Email: thomas.forman`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/forman-cv.pdf">CV</a>&nbsp;  
