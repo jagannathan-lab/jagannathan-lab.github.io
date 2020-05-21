@@ -88,7 +88,7 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Cameron Ortiz](/img/ortiz.jpg){: width="20%" align="right"}
+![Cameron Ortiz](/img/ortiz.png){: width="20%" align="right"}
 **Cameron Ortiz**  
 *Summer Intern*  
 Junior, BS/MS Bioengineering Program, CU Denver  
