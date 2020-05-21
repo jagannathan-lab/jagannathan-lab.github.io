@@ -78,6 +78,26 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+![Thomas Forman](/img/forman.jpg){: width="20%" align="right"}
+**Thomas Forman**  
+*MSTP Rotation Student*  
+B.S., University of Oregon, Eugene, OR.  
+Email: thomas.forman`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/forman-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
+![Cameron Ortiz](/img/ortiz.jpg){: width="20%" align="right"}
+**Cameron Ortiz**  
+*Summer Intern*  
+Junior, BS/MS Bioengineering Program, CU Denver  
+Email: cameron.ortiz`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/ortiz-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
