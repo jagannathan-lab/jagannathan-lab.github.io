@@ -10,7 +10,7 @@ We are located on the 10th floor of RC1 South, with amazing views of the Rockies
 <br>
 <br>
 
-Whether we are busy doing awesome science or getting up to other shenanigans, you can follow it all on twitter! 
+Whether we are busy doing awesome science or getting up to other shenanigans, you can follow it all on [twitter](https://twitter.com/JagannathanLab)! 
 <a class="twitter-timeline" data-height="800" href="https://twitter.com/JagannathanLab?ref_src=twsrc%5Etfw">Tweets by JagannathanLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 <br>
