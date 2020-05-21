@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome, Cameron!
-subtitle: We have a new summer intern
+subtitle: New summer intern
 image: /img/ortiz.png
 tags: [news, new-member]
 ---
