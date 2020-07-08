@@ -68,16 +68,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Christina Piarowski](/img/piarowski.jpg){: width="20%" align="right"}
-**Christina Piarowski**  
-*CSD Rotation Student*  
-B.S., Arizona State University- Barrett, the Honors College  
-Email: christina.piarowski`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/piarowski-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
 ![Thomas Forman](/img/forman.jpg){: width="20%" align="right"}
 **Thomas Forman**  
 *MSTP Rotation Student*  
@@ -177,6 +167,14 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>RBISIP Summer Intern</td>
     <td>Summer 2019</td>
     <td>Senior, Grove City College, PA</td>
+  </tr>
+  
+  <tr>
+    <td>Christina Piarowski</td>
+    <td>B.S., Arizona State University- Barrett, the Honors College</td>
+    <td>CSD Rotation Student</td>
+    <td>Spring 2020</td>
+    <td>Graduate Student, Barlow Lab</td>
   </tr>
   
 </table>
