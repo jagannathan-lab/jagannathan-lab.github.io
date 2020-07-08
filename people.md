@@ -171,7 +171,7 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
   
   <tr>
     <td>Christina Piarowski</td>
-    <td>B.S., Arizona State University- Barrett, the Honors College</td>
+    <td>B.S. Arizona State University- Barrett, the Honors College</td>
     <td>CSD Rotation Student</td>
     <td>Spring 2020</td>
     <td>Graduate Student, Barlow Lab</td>
