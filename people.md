@@ -29,7 +29,7 @@ Phone: (303) 724-1651
 <br />
 
 ![Michael Cortázar](/img/cortazar.png){: width="20%" align="right"}
-**Michael Cortázar**  
+**Michael Cortázar Osorio**  
 *Postdoctoral Fellow*  
 B.S., Valle State University, Cali, Colombia  
 Ph. D., University of Colorado, Anschutz Medical Campus  
@@ -55,16 +55,6 @@ B.S., Metropolitan State University of Denver, Denver, CO
 Email: laura.baquerogalvis`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/baquero-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
-![Alex Steil](/img/steil.jpg){: width="20%" align="right"}
-**Alex Steil**  
-*Professional Research Assistant*  
-B.S., University of Wisconsin – La Crosse  
-Email: alexander.steil`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/steil-cv.pdf">CV</a>&nbsp;  
 <br />
 <br />
 
@@ -175,6 +165,14 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>CSD Rotation Student</td>
     <td>Spring 2020</td>
     <td>Graduate Student, Barlow Lab</td>
+  </tr>
+  
+  <tr>
+    <td>Alex Steil</td>
+    <td>B.S., University of Wisconsin – La Crosse</td>
+    <td>Professional Research Assistant</td>
+    <td>Sep 2019 - Nov 2020</td>
+    <td>TBD</td>
   </tr>
   
 </table>
