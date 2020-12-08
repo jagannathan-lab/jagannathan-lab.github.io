@@ -48,7 +48,7 @@ Phone: (303) 724-1651
 <a href="/docs/campbell-cv.pdf">CV</a>&nbsp;  
 <br />
 
-![Laura Baquero Galvis](/img/baquero.jpg){: width="20%" align="right"}
+![Laura D. Baquero Galvis](/img/baquero.jpg){: width="20%" align="right"}
 **Laura Baquero Galvis**  
 *Professional Research Assistant*  
 B.S., Metropolitan State University of Denver, Denver, CO  
