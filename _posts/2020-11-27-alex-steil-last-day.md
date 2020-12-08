@@ -5,7 +5,7 @@ image: /img/Alex-lastday-2.jpg
 tags: [news, moving-on]
 ---
 
-We said goodbye to Alex today after a wonderful year in the lab. Alex is headed home to Wisconsin to be closer to family. We celebrated his time in the lab with a "zoom" party, playing Among Us. We will miss Alex a lot, but wish him the very best in all that his future holds!
+We said goodbye to Alex today after a wonderful year in the lab. Alex is headed home to Wisconsin to be closer to family. We celebrated his time in the lab with a "zoom" party, playing Among Us, and sharing thoughtful gifts that the lab had put together for him. We will miss Alex a lot, but wish him the very best in all that his future holds!
 <br>
 
 Farewell gifts for Alex
