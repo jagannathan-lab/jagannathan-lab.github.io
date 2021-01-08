@@ -13,6 +13,7 @@ Divya Kolakada has been selected for an [RNA Scholar Award](https://medschool.cu
 We celebrated with a lab lunch and our usual cake and champage, albeit remotely (thanks to Zoom and Ubereats!)
 
 <img align="left" src="/img/202101-cake-champagne.jpg" style="width:600px !important;height:405px !important;" />
+<br>
 <img align="left" src="/img/202101-zoom2.png" style="width:600px !important;height:342px !important;" />
 
 <br>
