@@ -14,7 +14,8 @@ We celebrated with a lab lunch and our usual cake and champage, albeit remotely 
 Many thanks to RBI for the support! 
 
 <img align="left" src="/img/202101-cake-champagne.jpg" style="width:600px !important;height:405px !important;" />
-<br>
+<br>  
+<br>  
 <img align="left" src="/img/202101-zoom2.png" style="width:600px !important;height:342px !important;" />
 
 <br>
