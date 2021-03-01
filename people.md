@@ -58,16 +58,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Thomas Forman](/img/forman.jpg){: width="20%" align="right"}
-**Thomas Forman**  
-*MSTP Student*  
-B.S., University of Oregon, Eugene, OR  
-Email: thomas.forman`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/forman-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
 ![Cameron Ortiz](/img/ortiz.png){: width="20%" align="right"}
 **Cameron Ortiz**  
 *Summer Intern*  
@@ -175,6 +165,14 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>TBD</td>
   </tr>
   
+  <tr>
+    <td>Thomas Forman</td>
+    <td>B.S., University of Oregon, Eugene, OR</td>
+    <td>MSTP Student</td>
+    <td>Sep 2020 - Feb 2021</td>
+    <td>MSTP Student, Fantauzzo Lab</td>
+  </tr>
+
 </table>
 
 </body>
