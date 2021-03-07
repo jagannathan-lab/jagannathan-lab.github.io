@@ -162,7 +162,7 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>B.S., University of Wisconsin – La Crosse</td>
     <td>Professional Research Assistant</td>
     <td>Sep 2019 - Nov 2020</td>
-    <td>TBD</td>
+    <td>Associate Scientist, Luminex Corporation</td>
   </tr>
   
   <tr>
