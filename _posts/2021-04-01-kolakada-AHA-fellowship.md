@@ -15,6 +15,6 @@ Many thanks to AHA for the support!
 <img align="left" src="/img/20210423-lunch2.jpg" style="width:600px !important;height:405px !important;" />
 <br>  
 <br>  
-<img align="left" src="/img/20210423-lunch1.jpg" style="width:600px !important;height:342px !important;" />
+<img align="left" src="/img/20210423-lunch1.jpg" style="width:600px !important;height:450px !important;" />
 <br>
 <br>
