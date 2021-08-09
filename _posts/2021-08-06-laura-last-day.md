@@ -20,6 +20,6 @@ Farewell happy hour at Cedar Creek
 <br>
 
 Farewell gifts for Laura
-<img align="center" src="/imggifts-laura-lastday.jpg" style="width:40px !important;height:40px !important;" />
+<img align="center" src="/img/gifts-laura-lastday.jpg" style="width:40px !important;height:40px !important;" />
 <br>
 <br>
