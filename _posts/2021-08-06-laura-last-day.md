@@ -11,15 +11,15 @@ Laura is off to Seattle to start her PhD at the UW MCB program. So proud of you 
 <br>
 
 Farewell happy hour at Cedar Creek
-<img align="center" src="/img/laura-lastday.jpg" style="width:40px !important;height:40px !important;" />
+<img align="center" src="/img/laura-lastday.jpg" style="width:400px !important;height:400px !important;" />
 <br>
 <br>
 
-<img align="center" src="/img/lab-pic-laura-lastday.jpg" style="width:100px !important;height:40px !important;" />
+<img align="center" src="/img/lab-pic-laura-lastday.jpg" style="width:1000px !important;height:400px !important;" />
 <br>
 <br>
 
 Farewell gifts for Laura
-<img align="center" src="/img/gifts-laura-lastday.jpg" style="width:40px !important;height:40px !important;" />
+<img align="center" src="/img/gifts-laura-lastday.jpg" style="width:400px !important;height:400px !important;" />
 <br>
 <br>
