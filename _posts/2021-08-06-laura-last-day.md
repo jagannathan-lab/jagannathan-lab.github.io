@@ -15,7 +15,7 @@ Farewell happy hour at Cedar Creek
 <br>
 <br>
 
-<img align="center" src="/img/lab-pic-laura-lastday.jpg" style="width:1000px !important;height:400px !important;" />
+<img align="center" src="/img/lab-pic-laura-lastday.jpg" style="width:750px !important;height:400px !important;" />
 <br>
 <br>
 
