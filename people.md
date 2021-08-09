@@ -48,16 +48,6 @@ Phone: (303) 724-1651
 <a href="/docs/campbell-cv.pdf">CV</a>&nbsp;  
 <br />
 
-![Laura D. Baquero Galvis](/img/baquero.jpg){: width="20%" align="right"}
-**Laura Baquero Galvis**  
-*Professional Research Assistant*  
-B.S., Metropolitan State University of Denver, Denver, CO  
-Email: laura.baquerogalvis`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/baquero-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
 ![Cameron Ortiz](/img/ortiz.png){: width="20%" align="right"}
 **Cameron Ortiz**  
 *Summer Intern*  
@@ -172,7 +162,15 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>Sep 2020 - Feb 2021</td>
     <td>MSTP Student, Fantauzzo Lab</td>
   </tr>
-
+   
+  <tr>
+    <td>Laura D. Baquero Galvis</td>
+    <td>B.S., Metropolitan State University of Denver, Denver, CO</td>
+    <td>Professional Research Assistant</td>
+    <td>Sep 2019 - Aug 2021</td>
+    <td>Graduate Student, MCB Program, University of Washington Seattle</td>
+  </tr>     
+      
 </table>
 
 </body>
