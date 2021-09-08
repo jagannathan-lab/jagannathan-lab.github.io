@@ -51,10 +51,20 @@ Phone: (303) 724-1651
 ![Cameron Ortiz](/img/ortiz.png){: width="20%" align="right"}
 **Cameron Ortiz**  
 *Summer Intern*  
-Junior, BS/MS Bioengineering Program, CU Denver  
+Junior, BS Bioengineering Program, CU Denver  
 Email: cameron.ortiz`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/ortiz-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
+![Gemma Martin](/img/martin.png){: width="20%" align="right"}
+**Gemma Martin**  
+*BSP Rotation Student*  
+B.S., Shenandoah University, Winchester, VA 
+Email: gemma.martin`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/martin-cv.pdf">CV</a>&nbsp;  
 <br />
 <br />
 
