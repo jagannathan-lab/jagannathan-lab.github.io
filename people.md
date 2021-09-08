@@ -58,7 +58,7 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Gemma Martin](/img/martin.png){: width="20%" align="right"}
+![Gemma Martin](/img/martin.jpg){: width="20%" align="right"}
 **Gemma Martin**  
 *BSP Rotation Student*  
 B.S., Shenandoah University, Winchester, VA 
