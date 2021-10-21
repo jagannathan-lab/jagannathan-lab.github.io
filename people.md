@@ -78,6 +78,16 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+![Kate Segar](/img/segar.jpg){: width="20%" align="right"}
+**Kate Segar**  
+*MOLB Rotation Student*  
+B.S., University of Puget Sound, Tacoma, WA.      
+Email: katherine.segar`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/segar-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
