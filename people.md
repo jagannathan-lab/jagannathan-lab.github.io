@@ -58,16 +58,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Gemma Martin](/img/martin.jpg){: width="20%" align="right"}
-**Gemma Martin**  
-*BSP Rotation Student*  
-B.S., Shenandoah University, Winchester, VA   
-Email: gemma.martin`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/martin-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
 ![Mlana Lore](/img/lore.jpeg){: width="20%" align="right"}
 **Mlana Lore**  
 *MOLB Rotation Student*  
@@ -199,6 +189,14 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>Professional Research Assistant</td>
     <td>Sep 2019 - Aug 2021</td>
     <td>Graduate Student, MCB Program, University of Washington Seattle</td>
+  </tr>     
+      
+  <tr>
+    <td>Gemma Martin</td>
+    <td>B.S., Shenandoah University, Winchester, VA</td>
+    <td>BSP Rotation Student</td>
+    <td>Fall 2021</td>
+    <td>Rotation student, Fantauzzo Lab</td>
   </tr>     
       
 </table>
