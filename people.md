@@ -58,25 +58,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Mlana Lore](/img/lore.jpeg){: width="20%" align="right"}
-**Mlana Lore**  
-*MOLB Rotation Student*  
-B.S., Eckerd College, St Petersburg, FL     
-Email: mlana.lore`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/lore-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
-![Kate Segar](/img/segar.jpg){: width="20%" align="right"}
-**Kate Segar**  
-*MOLB Rotation Student*  
-B.S., University of Puget Sound, Tacoma, WA.      
-Email: katherine.segar`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/segar-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
@@ -199,6 +180,21 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>Rotation student, Fantauzzo Lab</td>
   </tr>     
       
+  <tr>
+    <td>Mlana Lore</td>
+    <td>B.S., Eckerd College, St Petersburg, FL</td>
+    <td>MOLB Rotation Student</td>
+    <td>Fall 2021</td>
+    <td>Rotation student, Johnson Lab</td>
+  </tr>  
+      
+  <tr>
+    <td>Kate Segar</td>
+    <td>B.S., University of Puget Sound, Tacoma, WA</td>
+    <td>MOLB Rotation Student</td>
+    <td>Fall 2021</td>
+    <td>Rotation student, Ford Lab</td>
+  </tr>        
 </table>
 
 </body>
