@@ -6,6 +6,8 @@ layout: page
 
 ### Publications (<strong><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/sujatha.jagannathan.1/bibliography/46492045/public/?sort=date&direction=ascending" target="_blank" rel="noopener">PubMed</a></strong>)
 
+* <strong>Jagannathan S</strong>, de Greef JC, Hayward LJ, Yokomori K, Gabellini D, Mul K, Sacconi S, Arjomand J, Kinoshita J, Harper SQ. Meeting report: the 2021 FSHD International Research Congress. <em>Skeletal Muscle. </em> 2022; Jan 17;12(1):1. <a href="https://skeletalmusclejournal.biomedcentral.com/articles/10.1186/s13395-022-00287-8">Link</a> 
+
 * Campbell AE*, Dyle MC*, Calviello L*, Matheny T, Cortazar MA, Forman T, Fu R, Gillen AE, Floor SN, and <strong>Jagannathan S#</strong>. The myopathic transcription factor DUX4 induces the production of truncated RNA-binding proteins in human muscle cells. <em>Preprint. </em> 2021; <a href="https://www.biorxiv.org/content/10.1101/2021.06.28.450189" target="_blank" rel="noopener">bioRxiv</a> (<strong>*</strong>Equal Contribution) (<strong>#</strong>Corresponding Author)  
 
 * Child JR, Chen Q, Reid DW, <strong>Jagannathan S#</strong>, Nicchitta CV#. Recruitment of endoplasmic reticulum-targeted and cytosolic mRNAs into membrane-associated stress granules. <em>RNA. </em> 2021; rna.078858.121. <a href="https://rnajournal.cshlp.org/content/early/2021/07/08/rna.078858.121.abstract">Link</a> <a href="https://www.biorxiv.org/content/10.1101/2021.05.12.443899v1" target="_blank" rel="noopener">bioRxiv</a> (<strong>#</strong>Co-corresponding Author)  
