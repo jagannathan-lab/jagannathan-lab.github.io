@@ -50,11 +50,31 @@ Phone: (303) 724-1651
 
 ![Cameron Ortiz](/img/ortiz.png){: width="20%" align="right"}
 **Cameron Ortiz**  
-*Summer Intern*  
+*Undergraduate Intern*  
 Junior, BS Bioengineering Program, CU Denver  
 Email: cameron.ortiz`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/ortiz-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
+![Abbigayl Burtis](/img/burtis.png){: width="20%" align="right"}
+**Abbigayl Burtis**  
+*MOLB Rotation Student*  
+B.S., University of Michigan, Ann Arbor, MI    
+Email: abbigayl.burtis`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/burtis-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
+![Oscar Muñoz](/img/munoz.png){: width="20%" align="right"}
+**Oscar Muñoz**  
+*MOLB Rotation Student*  
+B.S., University of California San Diego, La Jolla, CA    
+Email: oscar.munoz`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/munoz-cv.pdf">CV</a>&nbsp;  
 <br />
 <br />
 
