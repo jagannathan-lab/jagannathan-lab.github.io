@@ -58,7 +58,7 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Abbigayl Burtis](/img/burtis.png){: width="20%" align="right"}
+![Abbigayl Burtis](/img/abbie.jpg){: width="20%" align="right"}
 **Abbigayl Burtis**  
 *MOLB Rotation Student*  
 B.S., University of Michigan, Ann Arbor, MI    
@@ -68,7 +68,7 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Oscar Muñoz](/img/munoz.png){: width="20%" align="right"}
+![Oscar Muñoz](/img/munoz.jpg){: width="20%" align="right"}
 **Oscar Muñoz**  
 *MOLB Rotation Student*  
 B.S., University of California San Diego, La Jolla, CA    
