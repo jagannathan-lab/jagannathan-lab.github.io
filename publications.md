@@ -6,7 +6,9 @@ layout: page
 
 ### Publications (<strong><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/sujatha.jagannathan.1/bibliography/46492045/public/?sort=date&direction=ascending" target="_blank" rel="noopener">PubMed</a></strong>)
 
-* <strong>Jagannathan S*</strong>, de Greef JC*, Hayward LJ, Yokomori K, Gabellini D, Mul K, Sacconi S, Arjomand J, Kinoshita J, Harper SQ. Meeting report: the 2021 FSHD International Research Congress. <em>Skeletal Muscle. </em> 2022; Jan 17;12(1):1. <a href="https://skeletalmusclejournal.biomedcentral.com/articles/10.1186/s13395-022-00287-8">Link</a> 
+* <strong>Jagannathan S </strong>. The evolution of DUX4 gene regulation and its implication for facioscapulohumeral muscular dystrophy. <em>Biochim Biophys Acta Mol Basis Dis. </em> 2022; May 1;1868(5):166367. <a href="https://www.sciencedirect.com/science/article/pii/S0925443922000308?via%3Dihub">Link</a> 
+
+* <strong>Jagannathan S* </strong>, de Greef JC*, Hayward LJ, Yokomori K, Gabellini D, Mul K, Sacconi S, Arjomand J, Kinoshita J, Harper SQ. Meeting report: the 2021 FSHD International Research Congress. <em>Skeletal Muscle. </em> 2022; Jan 17;12(1):1. <a href="https://skeletalmusclejournal.biomedcentral.com/articles/10.1186/s13395-022-00287-8">Link</a> 
 
 * Campbell AE*, Dyle MC*, Calviello L*, Matheny T, Cortazar MA, Forman T, Fu R, Gillen AE, Floor SN, and <strong>Jagannathan S#</strong>. The myopathic transcription factor DUX4 induces the production of truncated RNA-binding proteins in human muscle cells. <em>Preprint. </em> 2021; <a href="https://www.biorxiv.org/content/10.1101/2021.06.28.450189" target="_blank" rel="noopener">bioRxiv</a> (<strong>*</strong>Equal Contribution) (<strong>#</strong>Corresponding Author)  
 
