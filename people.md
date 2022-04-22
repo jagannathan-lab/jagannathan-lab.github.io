@@ -83,7 +83,7 @@ Phone: (303) 724-1651
 **Mlana Lore**
 Graduate Student (MOLB)
 B.S., Eckerd College, St Petersburg, FL
-Email: mlana.loreatcuanschutz.edu
+Email: mlana.lore`at`cuanschutz.edu
 Phone: (303) 724-1651 
 <a href="/docs/lore-cv.pdf">CV</a>&nbsp;  
 <br />
