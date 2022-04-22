@@ -58,6 +58,18 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+
+![Mlana Lore](/img/lore.jpeg){: width="20%" align="right"}
+**Mlana Lore**
+Graduate Student (MOLB)
+B.S., Eckerd College, St Petersburg, FL
+Email: mlana.lore`at`cuanschutz.edu
+Phone: (303) 724-1651 
+<a href="/docs/lore-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
+
 ![Abbigayl Burtis](/img/abbie.jpg){: width="20%" align="right"}
 **Abbigayl Burtis**  
 *MOLB Rotation Student*  
@@ -75,17 +87,6 @@ B.S., University of California San Diego, La Jolla, CA
 Email: oscar.munoz`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/munoz-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
-
-![Mlana Lore](/img/lore.jpeg){: width="20%" align="right"}
-**Mlana Lore**
-Graduate Student (MOLB)
-B.S., Eckerd College, St Petersburg, FL
-Email: mlana.lore`at`cuanschutz.edu
-Phone: (303) 724-1651 
-<a href="/docs/lore-cv.pdf">CV</a>&nbsp;  
 <br />
 <br />
 
