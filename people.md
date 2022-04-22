@@ -67,8 +67,7 @@ Email: mlana.lore`at`cuanschutz.edu
 Phone: (303) 724-1651   
 <a href="/docs/lore-cv.pdf">CV</a>&nbsp;   
 <br />  
-<br />   
-
+<br />  
 
 ![Abbigayl Burtis](/img/abbie.jpg){: width="20%" align="right"}
 **Abbigayl Burtis**  
