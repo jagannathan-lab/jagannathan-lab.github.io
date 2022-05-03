@@ -24,7 +24,8 @@ Phone: (303) 724-3309
 B.S., Rollins College   
 Email: divya.kolakada`at`ucdenver.edu  
 Phone: (303) 724-1651
-<a href="/docs/kolakada_resume.pdf">CV</a>&nbsp;  
+<a href="/docs/kolakada_resume.pdf">CV</a>&nbsp;
+<a href="http://twitter.com/sciliator" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
 <br />
 <br />
 
@@ -35,7 +36,8 @@ B.S., Valle State University, Cali, Colombia
 Ph. D., University of Colorado, Anschutz Medical Campus  
 Email: michael.cortazar`at`ucdenver.edu  
 Phone: (303) 724-1651
-<a href="/docs/cortazar-biosketch.pdf">CV</a>&nbsp;  
+<a href="/docs/cortazar-biosketch.pdf">CV</a>&nbsp;
+<a href="http://twitter.com/MikeCortazar" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
 <br />
 
 ![Amy Campbell](/img/campbell.jpg){: width="20%" align="right"}
@@ -75,8 +77,9 @@ Phone: (303) 724-1651
 *Graduate Student (MOLB)*  
 B.S., Eckerd College, St Petersburg, FL  
 Email: mlana.lore`at`cuanschutz.edu  
-Phone: (303) 724-1651   
-<a href="/docs/lore-cv.pdf">CV</a>&nbsp;   
+Phone: (303) 724-1651
+<a href="/docs/lore-cv.pdf">CV</a>&nbsp;
+<a href="http://twitter.com/lore_mlana" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
 <br />
 <br />
 
@@ -85,7 +88,7 @@ Phone: (303) 724-1651
 *MOLB Rotation Student*  
 B.S., University of Michigan, Ann Arbor, MI    
 Email: abbigayl.burtis`at`cuanschutz.edu  
-Phone: (303) 724-1651   
+Phone: (303) 724-1651
 <a href="/docs/burtis-cv.pdf">CV</a>&nbsp;  
 <br />
 <br />
