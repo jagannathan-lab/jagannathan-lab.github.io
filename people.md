@@ -58,6 +58,17 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+![Zhongyou Li](/img/li.jpg){: width="20%" align="right"}
+**Zhongyou Li**  
+*Postdoctoral Fellow*  
+B.S., National Yang-Ming University, Taipei, Taiwan   
+M.S., National Yang-Ming University, Taipei, Taiwan 
+Ph. D., Dartmouth College, Hanover, NH    
+Email: zhongyou.li`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/li-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
 
 ![Mlana Lore](/img/lore.jpeg){: width="20%" align="right"}  
 **Mlana Lore**  
@@ -67,7 +78,7 @@ Email: mlana.lore`at`cuanschutz.edu
 Phone: (303) 724-1651   
 <a href="/docs/lore-cv.pdf">CV</a>&nbsp;   
 <br />  
-<br />  
+<br />
 
 ![Abbigayl Burtis](/img/abbie.jpg){: width="20%" align="right"}
 **Abbigayl Burtis**  
