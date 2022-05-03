@@ -77,7 +77,7 @@ B.S., Eckerd College, St Petersburg, FL
 Email: mlana.lore`at`cuanschutz.edu  
 Phone: (303) 724-1651   
 <a href="/docs/lore-cv.pdf">CV</a>&nbsp;   
-<br />  
+<br />
 <br />
 
 ![Abbigayl Burtis](/img/abbie.jpg){: width="20%" align="right"}
@@ -85,7 +85,7 @@ Phone: (303) 724-1651
 *MOLB Rotation Student*  
 B.S., University of Michigan, Ann Arbor, MI    
 Email: abbigayl.burtis`at`cuanschutz.edu  
-Phone: (303) 724-1651
+Phone: (303) 724-1651   
 <a href="/docs/burtis-cv.pdf">CV</a>&nbsp;  
 <br />
 <br />
