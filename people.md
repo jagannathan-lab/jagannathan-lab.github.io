@@ -71,7 +71,7 @@ Phone: (303) 724-1651
 <a href="/docs/li-cv.pdf">CV</a>&nbsp;  
 <br />
 
-![Mlana Lore](/img/lore.jpeg){: width="20%" align="right"}  
+![Mlana Lore](/img/lore.jpeg){: width="20%" align="right"}
 **Mlana Lore**  
 *Graduate Student (MOLB)*  
 B.S., Eckerd College, St Petersburg, FL  
