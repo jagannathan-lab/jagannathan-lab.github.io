@@ -2,7 +2,7 @@
 layout: post  
 title: Michael recognized as the CU Postdoc of the Month!
 subtitle:
-image: /img/cortazar-postdoc-of-month.jpg  
+image: /img/cortazar-postdoc-of-month-sq.jpg  
 tags: [news, funding]  
 ---
 
