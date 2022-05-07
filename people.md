@@ -63,8 +63,7 @@ Phone: (303) 724-1651
 ![Zhongyou Li](/img/li.jpg){: width="20%" align="right"}
 **Zhongyou Li**  
 *Postdoctoral Fellow*  
-B.S., National Yang-Ming University, Taipei, Taiwan   
-M.S., National Yang-Ming University, Taipei, Taiwan 
+B.S. & M. S., National Yang-Ming University, Taipei, Taiwan   
 Ph. D., Dartmouth College, Hanover, NH    
 Email: zhongyou.li`at`cuanschutz.edu  
 Phone: (303) 724-1651
