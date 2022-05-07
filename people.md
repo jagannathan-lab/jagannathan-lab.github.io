@@ -82,19 +82,9 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Abbigayl Burtis](/img/abbie.jpg){: width="20%" align="right"}
-**Abbigayl Burtis**  
-*MOLB Rotation Student*  
-B.S., University of Michigan, Ann Arbor, MI    
-Email: abbigayl.burtis`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/burtis-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
 ![Oscar Muñoz](/img/munoz.jpg){: width="20%" align="right"}
 **Oscar Muñoz**  
-*MOLB Rotation Student*  
+*Graduate Student (MOLB)*  
 B.S., University of California San Diego, La Jolla, CA    
 Email: oscar.munoz`at`cuanschutz.edu  
 Phone: (303) 724-1651
@@ -230,7 +220,15 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>MOLB Rotation Student</td>
     <td>Fall 2021</td>
     <td>Rotation student, Ford Lab</td>
-  </tr>        
+  </tr>      
+      
+  <tr>
+    <td>Abbigayl Burtis</td>
+    <td>B.S., University of Michigan, Ann Arbor, MI</td>
+    <td>MOLB Rotation Student</td>
+    <td>Spring 2022</td>
+    <td>Graduate student, Burchill Lab</td>
+  </tr> 
 </table>
 
 </body>
