@@ -112,7 +112,7 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <th>Degree</th>
     <th>Position</th>
     <th>Period</th>
-    <th>Current Position</th> 
+    <th>Next Position</th> 
   </tr>
   
   <tr>
