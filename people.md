@@ -87,7 +87,7 @@ Phone: (303) 724-1651
 B.S., University of California San Diego, La Jolla, CA    
 Email: oscar.munoz`at`cuanschutz.edu  
 Phone: (303) 724-1651
-<a href="/docs/munoz-cv.pdf">CV</a>&nbsp;  
+<a href="/docs/munoz-cv.pdf">CV</a>&nbsp;
 <a href="http://twitter.com/OscRNA98" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
 <br />
 <br />
