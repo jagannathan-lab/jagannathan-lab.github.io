@@ -93,6 +93,16 @@ Phone: (303) 724-1651
 <br />
 
 
+![Jack Bozik](/img/bozik.jpeg){: width="20%" align="right"}
+**Jack Bozik**  
+*Gates Summer Intern*  
+Junior, BA in Biochemistry And Molecular Biology, Bellarmine University, Louisville, KY  
+Email: jack.bozik`at`ucdenver.edu  
+Phone: (303) 724-1651
+<a href="/docs/bozik-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
