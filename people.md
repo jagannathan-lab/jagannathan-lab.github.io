@@ -103,7 +103,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-
 ![Amy Argabright](/img/argabright.jpg){: width="20%" align="right"}
 **Amy Argabright**  
 *RBI Summer Intern*  
