@@ -92,7 +92,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-
 ![Jack Bozik](/img/bozik.jpeg){: width="20%" align="right"}
 **Jack Bozik**  
 *Gates Summer Intern*  
@@ -109,6 +108,7 @@ Junior, BA in Biochemistry, Metropolitan State University of Denver, Denver, CO
 Email: amy.argabright`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/argabright-cv.pdf">CV</a>&nbsp;  
+<br />
 <br />
 
 **You? Join us!**  
