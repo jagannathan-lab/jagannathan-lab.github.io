@@ -103,6 +103,17 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+
+![Amy Argabright](/img/argabright.jpg){: width="20%" align="right"}
+**Amy Argabright**  
+*RBI Summer Intern*  
+Junior, BA in Biochemistry, Metropolitan State University of Denver, Denver, CO  
+Email: amy.argabright`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/argabright-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
