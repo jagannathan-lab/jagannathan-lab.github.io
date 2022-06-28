@@ -7,7 +7,7 @@ tags: [news, lab-party]
 ---
 
 <img align="right" src="/img/lore-munoz1.jpg" style="width:190px !important;height:213px !important;" />
-<img align="right" src="/img/lore-munoz2.jpg" style="width:190px !important;height:213px !important;" />
+<img align="right" src="/img/lore-munoz2.jpg" style="width:388px !important;height:260px !important;" />
 Mlana and Oscar, our lab's newest graduate students from MOLB, have both passed their comprehensive exams. We had coffee and pastries at Lost Coffee to celebrate!
 <br>
 <br>
