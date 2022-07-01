@@ -13,12 +13,10 @@ Cameron is headed to Washington University at St. Louis to start his PhD. We cel
 <br>
 <br>
 
-Farewell lunch at Ambli Mexico
 <img align="center" src="/img/cameron-lastday-group.jpg" style="width:400px !important;height:400px !important;" />
 <br>
 <br>
 
-Farewell gifts for Cameron
 <img align="center" src="/img/gifts-cameron-lastday.jpg" style="width:400px !important;height:400px !important;" />
 <br>
 <br>
