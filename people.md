@@ -50,16 +50,6 @@ Phone: (303) 724-1651
 <a href="/docs/campbell-cv.pdf">CV</a>&nbsp;  
 <br />
 
-![Cameron Ortiz](/img/ortiz.png){: width="20%" align="right"}
-**Cameron Ortiz**  
-*Undergraduate Intern*  
-Junior, BS Bioengineering Program, CU Denver  
-Email: cameron.ortiz`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/ortiz-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
-
 ![Zhongyou Li](/img/li.jpg){: width="20%" align="right"}
 **Zhongyou Li**  
 *Postdoctoral Fellow*  
@@ -247,7 +237,17 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>Spring 2022</td>
     <td>Graduate student, Burchill Lab</td>
   </tr> 
+      
+  <tr>
+    <td>Cameron Ortiz</td>
+    <td>B.S., CU Denver, Denver, CO</td>
+    <td>Undergraduate Intern</td>
+    <td>June 2020 - July 2022</td>
+    <td>Graduate student, Washington University at St. Louis</td>
+  </tr> 
 </table>
 
 </body>
 </html>
+
+
