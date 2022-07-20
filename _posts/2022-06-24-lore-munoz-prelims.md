@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Mlana and Oscar passed their comprehensive exams!  
+title: Mlana and Oscar passed their preliminary exams!  
 subtitle:   
 image: /img/lore-munoz1-square.jpg 
 tags: [news, lab-party]  
