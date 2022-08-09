@@ -232,7 +232,7 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>Jack Bozik</td>
     <td>Junior, Bellarmine University, Louisville, KY </td>
     <td>Gates Summer Intern</td>
-    <td>June 2022 - Aug 2022</td>
+    <td>Summer 2022</td>
     <td>Senior, Bellarmine University, Louisville, KY</td>
   </tr>    
             
@@ -240,7 +240,7 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>Amy Argabright</td>
     <td>Junior, Metropolitan State University of Denver, Denver, CO</td>
     <td>RBI Summer Intern</td>
-    <td>June 2022 - Aug 2022</td>
+    <td>Summer 2022</td>
     <td>Senior, Metropolitan State University of Denver, Denver, CO</td>
   </tr> 
 </table>
