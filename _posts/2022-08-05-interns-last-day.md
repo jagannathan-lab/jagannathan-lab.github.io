@@ -7,7 +7,7 @@ tags: [news, moving-on]
 
 Today was the last day for our RBI and Gates summer interns, Jack Bozik, and Amy Argabright. They both did a wonderful job presenting their work as a poster and a talk. We had a happy hour at Ceder Creek Pub to mark the end of their time in the lab and celebrate all that they have accomplished this summer. They are both going back to the senior year of undergrad. 
 <br>
-<img align="center" src="/img/jack-poster.jpg" style="width:400px !important;height:250px !important;" />
+<img align="center" src="/img/jack-poster.jpg" style="width:400px !important;height:300px !important;" />
 <br>
 <br>
 
@@ -15,6 +15,6 @@ Today was the last day for our RBI and Gates summer interns, Jack Bozik, and Amy
 <br>
 <br>
 
-<img align="center" src="/img/intern-lunch.jpg" style="width:400px !important;height:250px !important;" />
+<img align="center" src="/img/intern-lunch.jpg" style="width:400px !important;height:300px !important;" />
 <br>
 <br>
