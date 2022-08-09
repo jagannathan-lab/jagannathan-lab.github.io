@@ -20,7 +20,7 @@ Phone: (303) 724-3309
 
 ![Divya Kolakada](/img/kolakada.jpg){: width="20%" align="right"}
 **Divya Kolakada**  
-*Graduate student (MOLB/BSP)*  
+*Graduate student (MOLB/BSP) & AHA predoctoral fellow*  
 B.S., Rollins College   
 Email: divya.kolakada`at`ucdenver.edu  
 Phone: (303) 724-1651
@@ -62,7 +62,7 @@ Phone: (303) 724-1651
 
 ![Mlana Lore](/img/lore.jpeg){: width="20%" align="right"}
 **Mlana Lore**  
-*Graduate Student (MOLB)*  
+*Graduate Student (MOLB) & T32 Awardee*  
 B.S., Eckerd College, St Petersburg, FL  
 Email: mlana.lore`at`cuanschutz.edu  
 Phone: (303) 724-1651
@@ -73,7 +73,7 @@ Phone: (303) 724-1651
 
 ![Oscar Muñoz](/img/munoz.jpg){: width="20%" align="right"}
 **Oscar Muñoz**  
-*Graduate Student (MOLB)*  
+*Graduate Student (MOLB) & T32 Awardee*  
 B.S., University of California San Diego, La Jolla, CA    
 Email: oscar.munoz`at`cuanschutz.edu  
 Phone: (303) 724-1651
