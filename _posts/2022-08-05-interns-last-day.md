@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amy and Jack's last day
-image: /img/interns-lastday.jpg
+image: /img/intern-lunch.jpg
 tags: [news, moving-on]
 ---
 
