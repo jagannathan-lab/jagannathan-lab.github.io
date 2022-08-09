@@ -82,24 +82,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Jack Bozik](/img/bozik.jpeg){: width="20%" align="right"}
-**Jack Bozik**  
-*Gates Summer Intern*  
-Junior, BA in Biochemistry And Molecular Biology, Bellarmine University, Louisville, KY  
-Email: jack.bozik`at`ucdenver.edu  
-Phone: (303) 724-1651
-<a href="/docs/bozik-cv.pdf">CV</a>&nbsp;  
-<br />
-
-![Amy Argabright](/img/argabright.jpg){: width="20%" align="right"}
-**Amy Argabright**  
-*RBI Summer Intern*  
-Junior, BA in Biochemistry, Metropolitan State University of Denver, Denver, CO  
-Email: amy.argabright`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/argabright-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
@@ -244,10 +226,24 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>Undergraduate Intern</td>
     <td>June 2020 - July 2022</td>
     <td>Graduate student, Washington University at St. Louis</td>
+  </tr>     
+            
+  <tr>
+    <td>Jack Bozik</td>
+    <td>Junior, Bellarmine University, Louisville, KY </td>
+    <td>Gates Summer Intern</td>
+    <td>June 2022 - Aug 2022</td>
+    <td>Senior, Bellarmine University, Louisville, KY</td>
+  </tr>    
+            
+  <tr>
+    <td>Amy Argabright</td>
+    <td>Junior, Metropolitan State University of Denver, Denver, CO</td>
+    <td>RBI Summer Intern</td>
+    <td>June 2022 - Aug 2022</td>
+    <td>Senior, Metropolitan State University of Denver, Denver, CO</td>
   </tr> 
 </table>
 
 </body>
 </html>
-
-
