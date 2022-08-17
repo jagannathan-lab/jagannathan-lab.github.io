@@ -8,7 +8,7 @@ tags: [news, funding]
 
 Oscar and Mlana, our two newest grad students, have both received [T32 awards](https://www.cuanschutz.edu/graduate-programs/molecular-biology/t32-awardees) from the Molecular Biology Program at CU Anschutz. Congrats, Oscar and Mlana!! 
 
-We had a very belated celebration with Em's icecream and champagne. 
+We had a belated celebration with Em's icecream and champagne out in the sun. 
 
 Many thanks to MOLB for the support! 
 
