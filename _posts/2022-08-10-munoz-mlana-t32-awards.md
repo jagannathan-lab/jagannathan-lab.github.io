@@ -12,6 +12,6 @@ We had a belated celebration with Em's icecream and champagne out in the sun.
 
 Many thanks to MOLB for the support! 
 
-<img align="left" src="/img/t32-celebration.jpg" style="width:400px !important;height:300px !important;" />
+<img align="left" src="/img/t32-celebration.jpg" style="width:600px !important;height:450px !important;" />
 <br>  
 <br>  
