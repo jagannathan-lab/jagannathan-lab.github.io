@@ -12,12 +12,12 @@ We celebrated with our customary cake and champagne!
 
 Many thanks to AHA for the support! 
 
-<img align="left" src="/img/michael-aha1.jpg" style="width:600px !important;height:405px !important;" />
+<img align="left" src="/img/michael-aha1.jpg" style="width:300px !important;height:400px !important;" />
 <br>  
 <br>  
 <img align="left" src="/img/michael-aha2.jpg" style="width:600px !important;height:450px !important;" />
 <br>
 <br>
-<img align="left" src="/img/michael-aha3.jpg" style="width:600px !important;height:450px !important;" />
+<img align="left" src="/img/michael-aha3.jpg" style="width:300px !important;height:400px !important;" />
 <br>
 <br>
