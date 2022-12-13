@@ -82,6 +82,15 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+![Grace Gustafson](/img/gustafson.jpg){: width="20%" align="right"}
+**Grace Gustafson**  
+*MOLB Rotation Student*  
+B.S., Arizona State University, Tempe, AZ 
+Email: grace.gustafson`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/gustafson-cv.pdf">CV</a>&nbsp;
+<br />
+<br />
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
