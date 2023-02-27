@@ -82,13 +82,13 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Grace Gustafson](/img/gustafson.jpg){: width="20%" align="right"}
-**Grace Gustafson**  
+![Megan Pockalny](/img/pockalny.jpg){: width="20%" align="right"}
+**Megan Pockalny**  
 *MOLB Rotation Student*  
-B.S., Arizona State University, Tempe, AZ 
-Email: grace.gustafson`at`cuanschutz.edu  
+B.S., University of California San Diego, La Jolla, CA    
+Email: megan.pockalny`at`cuanschutz.edu  
 Phone: (303) 724-1651
-<a href="/docs/gustafson-cv.pdf">CV</a>&nbsp;
+<a href="/docs/pockalny-cv.pdf">CV</a>&nbsp;
 <br />
 <br />
 
@@ -252,6 +252,15 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>Summer 2022</td>
     <td>Senior, Metropolitan State University of Denver, Denver, CO</td>
   </tr> 
+      
+  <tr>
+    <td>Grace Gustafson</td>
+    <td>B.S., Arizona State University, Tempe, AZ</td>
+    <td>MOLB Rotation Student</td>
+    <td>Winter 2022</td>
+    <td>Rotation student, Appel Lab</td>
+  </tr>      
+ 
 </table>
 
 </body>
