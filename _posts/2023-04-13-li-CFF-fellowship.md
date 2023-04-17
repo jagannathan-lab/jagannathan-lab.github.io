@@ -6,7 +6,7 @@ image: /img/cff-logo.png
 tags: [news, funding]  
 ---
 
-Zhongyou Li, a postdoc in the lab, has been awarded a [Path to a Cure Postdoctoral Fellowship](https://www.cff.org/researchers/path-cure-academic-programs#award-types) by the [Cystic Fibrosis Foundation](https://www.heart.org/) to support his work on the role of NMD in CF, and ways to modulate NMD efficiency. Congrats, Zhongyou!! 
+Zhongyou Li, a postdoc in the lab, has been awarded a [Path to a Cure Postdoctoral Fellowship](https://www.cff.org/researchers/path-cure-academic-programs#award-types) by the [Cystic Fibrosis Foundation](https://www.cff.org/) to support his work on the role of NMD in CF, and ways to modulate NMD efficiency. Congrats, Zhongyou!! 
 
 We celebrated with cake and champagne, of course. 
 
