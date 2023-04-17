@@ -12,7 +12,7 @@ We celebrated with cake and champagne, of course.
 
 So grateful to CFF for the support and recognition of Zhongyou! 
 
-<img align="left" src="/img/zhongyou-cff-1.jpg" style="width:300px !important;height:450px !important;" />
+<img align="left" src="/img/zhongyou-cff-1.jpg" style="width:300px !important;height:500px !important;" />
 <br>  
 <br>  
 <img align="left" src="/img/zhongyou-cff-2.jpg" style="width:300px !important;height:400px !important;" />
