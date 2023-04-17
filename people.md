@@ -31,7 +31,7 @@ Phone: (303) 724-1651
 
 ![Michael Cortázar](/img/cortazar.png){: width="20%" align="right"}
 **Michael Cortázar Osorio**  
-*Postdoctoral Fellow*  
+*American Heart Association Postdoctoral Fellow*  
 B.S., Valle State University, Cali, Colombia  
 Ph. D., University of Colorado, Anschutz Medical Campus  
 Email: michael.cortazar`at`ucdenver.edu  
@@ -52,7 +52,7 @@ Phone: (303) 724-1651
 
 ![Zhongyou Li](/img/li.jpg){: width="20%" align="right"}
 **Zhongyou Li**  
-*Postdoctoral Fellow*  
+*Cystic Fibrosis Foundation Postdoctoral Fellow*  
 B.S. & M. S., National Yang-Ming University, Taipei, Taiwan   
 Ph. D., Dartmouth College, Hanover, NH    
 Email: zhongyou.li`at`cuanschutz.edu  
