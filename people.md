@@ -92,6 +92,16 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+![Kaylynn Garrett](/img/garrett.jpeg){: width="20%" align="right"}
+**Kaylynn Garrett**  
+*MAP Undergraduate Intern*  
+Metropolitan State University of Denver, Denver, CO    
+Email: kaylynn.garrett`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/garrett-cv.pdf">CV</a>&nbsp;
+<br />
+<br />
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
