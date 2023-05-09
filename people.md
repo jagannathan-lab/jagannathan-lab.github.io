@@ -92,6 +92,7 @@ Phone: (303) 724-1651
 <br />
 <br />   
 
+
 ![Kaylynn Garrett](/img/garrett.jpeg){: width="20%" align="right"}
 **Kaylynn Garrett**  
 *MAP Undergraduate Intern*  
