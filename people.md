@@ -82,17 +82,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Megan Pockalny](/img/pockalny.jpg){: width="20%" align="right"}
-**Megan Pockalny**  
-*MOLB Rotation Student*  
-B.S., University of California San Diego, La Jolla, CA    
-Email: megan.pockalny`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/pockalny-cv.pdf">CV</a>&nbsp;
-<br />
-<br />
-<br />
-
 ![Kaylynn Garrett](/img/garrett.jpeg){: width="20%" align="right"}
 **Kaylynn Garrett**  
 *MAP Undergraduate Intern*  
@@ -272,7 +261,14 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
     <td>Rotation student, Appel Lab</td>
   </tr>      
  
+  <tr>
+    <td>Megan Pockalny</td>
+    <td>B.S., University of California San Diego, La Jolla, CA</td>
+    <td>MOLB Rotation Student</td>
+    <td>Spring 2023</td>
+    <td>Graduate student, Taliaferro Lab</td>
+  </tr>   
 </table>
-
+      
 </body>
 </html>
