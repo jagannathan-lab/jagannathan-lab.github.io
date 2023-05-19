@@ -97,7 +97,8 @@ We welcome inquiries from enthusiastic scientists at all levels for the followin
 - Technicians/Professional Research Assistants  
 - Graduate rotation students
 - Postdoctoral Fellows  
-<br>Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for more information  
+<br>
+Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for more information  
 <br />
 
 ### Alumni
