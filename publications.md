@@ -6,13 +6,15 @@ layout: page
 
 ### Publications (<strong><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/sujatha.jagannathan.1/bibliography/46492045/public/?sort=date&direction=ascending" target="_blank" rel="noopener">PubMed</a></strong>)
 
-* Campbell AE*, Dyle MC*, Albanese R, Matheny T, Sudheendran K, Cortázar MA, Forman T, Fu R, Gillen AE, Caruthers MH, Floor SN, Calviello L, and <strong>Jagannathan S</strong>. Compromised nonsense-mediated RNA decay results in truncated RNA-binding protein production upon DUX4 expression. <em>Cell Reports (accepted)</em> 2023; <a href="https://www.biorxiv.org/content/10.1101/2021.06.28.450189v4" target="_blank" rel="noopener">bioRxiv</a> (<strong>*</strong>Equal Contribution)  
+(<strong>#</strong>Corresponding Author) 
 
-* Muñoz O, Lore M, <strong>Jagannathan S. </strong> The long and short of EJC-independent nonsense-mediated RNA decay. <em>Biochem Soc Trans. </em> 2023 May 5:BST20221131. doi: 10.1042/BST20221131. <a href="https://portlandpress.com/biochemsoctrans/article-abstract/doi/10.1042/BST20221131/233031/The-long-and-short-of-EJC-independent-nonsense?redirectedFrom=fulltext">Link</a>
+* Campbell AE*, Dyle MC*, Albanese R, Matheny T, Sudheendran K, Cortázar MA, Forman T, Fu R, Gillen AE, Caruthers MH, Floor SN, Calviello L, and <strong>Jagannathan S#. </strong> Compromised nonsense-mediated RNA decay results in truncated RNA-binding protein production upon DUX4 expression. <em>Cell Reports (accepted)</em> 2023; <a href="https://www.biorxiv.org/content/10.1101/2021.06.28.450189v4" target="_blank" rel="noopener">bioRxiv</a> (<strong>*</strong>Equal Contribution)  
 
-* Sherlock ME, Baquero Galvis L, Vicens Q, Kieft JS, <strong>Jagannathan S. </strong> Principles, Mechanisms, and Biological Implications of Translation Termination-Reinitiation. <em>RNA. </em> 2023 Apr 6:rna.079375.122. doi: 10.1261/rna.079375.122 <a href="https://rnajournal.cshlp.org/content/early/2023/04/06/rna.079375.122.long">Link</a>
+* Muñoz O, Lore M, <strong>Jagannathan S#. </strong> The long and short of EJC-independent nonsense-mediated RNA decay. <em>Biochem Soc Trans. </em> 2023 May 5:BST20221131. doi: 10.1042/BST20221131. <a href="https://portlandpress.com/biochemsoctrans/article-abstract/doi/10.1042/BST20221131/233031/The-long-and-short-of-EJC-independent-nonsense?redirectedFrom=fulltext">Link</a>
 
-* <strong>Jagannathan S </strong>. The evolution of DUX4 gene regulation and its implication for facioscapulohumeral muscular dystrophy. <em>Biochim Biophys Acta Mol Basis Dis. </em> 2022; May 1;1868(5):166367. <a href="https://www.sciencedirect.com/science/article/pii/S0925443922000308?via%3Dihub">Link</a> 
+* Sherlock ME#, Baquero Galvis L, Vicens Q, Kieft JS, <strong>Jagannathan S#. </strong> Principles, Mechanisms, and Biological Implications of Translation Termination-Reinitiation. <em>RNA. </em> 2023 Apr 6:rna.079375.122. doi: 10.1261/rna.079375.122 <a href="https://rnajournal.cshlp.org/content/early/2023/04/06/rna.079375.122.long">Link</a> (<strong>#</strong>Co-corresponding Author)  
+
+* <strong>Jagannathan S#. </strong> The evolution of DUX4 gene regulation and its implication for facioscapulohumeral muscular dystrophy. <em>Biochim Biophys Acta Mol Basis Dis. </em> 2022; May 1;1868(5):166367. <a href="https://www.sciencedirect.com/science/article/pii/S0925443922000308?via%3Dihub">Link</a> 
 
 * <strong>Jagannathan S* </strong>, de Greef JC*, Hayward LJ, Yokomori K, Gabellini D, Mul K, Sacconi S, Arjomand J, Kinoshita J, Harper SQ. Meeting report: the 2021 FSHD International Research Congress. <em>Skeletal Muscle. </em> 2022; Jan 17;12(1):1. <a href="https://skeletalmusclejournal.biomedcentral.com/articles/10.1186/s13395-022-00287-8">Link</a> 
 
@@ -21,7 +23,7 @@ layout: page
 * <strong>Jagannathan S</strong>, Ramachandran S, Rissland OA. Slow down to catch up. <em>Cell. </em> 2019; 178(4):774-776 <a href="https://www.sciencedirect.com/science/article/pii/S0092867419307925?dgcid=author">Link</a> 
 
 * Dyle MC, Kolakada D, Cortazar MA, <strong>Jagannathan S#</strong>. How to get away with nonsense: Mechanisms and consequences of escape from nonsense-mediated RNA decay. <em>Wiley Interdiscip Rev RNA. </em> 2019; 29:e1560 <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/wrna.1560">Link</a>
-<a href="https://rdcu.be/bMpJl" target="_blank" rel="noopener">Readcube</a> (<strong>#</strong>Corresponding Author) 
+<a href="https://rdcu.be/bMpJl" target="_blank" rel="noopener">Readcube</a> 
 
 * <strong>Jagannathan S</strong>, Ogata Y, Gafken P, Tapscott SJ, Bradley RK. Quantitative proteomics reveals key roles for post-transcriptional gene regulation in the molecular pathology of FSHD. <em>eLife. </em> 2019; 8:e41740 <a href="https://elifesciences.org/articles/41740">Link</a><em> 
 </em><a href="https://www.biorxiv.org/content/early/2018/11/23/417790" target="_blank" rel="noopener">bioRxiv</a>
