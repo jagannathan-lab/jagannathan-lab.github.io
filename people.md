@@ -92,6 +92,16 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+![Noorjihan Mohammed](/img/mohammed.jpg){: width="20%" align="right"}
+**Noorjihan Mohammed**  
+*RBI Summer Intern*  
+Carnegie Mellon University, Pittsburgh, PA      
+Email: noorjihan.mohammed`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/mohammed-cv.pdf">CV</a>&nbsp;
+<br />
+<br />
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
