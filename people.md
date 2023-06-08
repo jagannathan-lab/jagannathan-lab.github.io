@@ -89,8 +89,8 @@ Metropolitan State University, Denver, CO
 Email: kaylynn.garrett`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/garrett-cv.pdf">CV</a>&nbsp;
-<br />
-<br />
+<br />  
+<br />  
 
 ![Noorjihan Mohammed](/img/mohammed.jpg){: width="20%" align="right"}
 **Noorjihan Mohammed**  
