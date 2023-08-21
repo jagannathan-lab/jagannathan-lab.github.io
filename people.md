@@ -92,13 +92,13 @@ Phone: (303) 724-1651
 <br />  
 <br />  
 
-![Noorjihan Mohammed](/img/mohammed.jpg){: width="20%" align="right"}
-**Noorjihan Mohammed**  
-*RBI Summer Intern*  
-Carnegie Mellon University, Pittsburgh, PA      
-Email: noorjihan.mohammed`at`cuanschutz.edu  
+![Kelleen McEntee](/img/mcentee.jpeg){: width="20%" align="right"}
+**Kelleen McEntee**  
+*Professional Research Assistant*  
+CU Boulder, CO      
+Email: kelleen.mcentee`at`cuanschutz.edu  
 Phone: (303) 724-1651
-<a href="/docs/mohammed-cv.pdf">CV</a>&nbsp;
+<a href="/docs/mcentee-cv.pdf">CV</a>&nbsp;
 <br />
 <br />
 
@@ -279,6 +279,15 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>Spring 2023</td>
     <td>Graduate student, Taliaferro Lab</td>
   </tr>   
+  
+  <tr>
+    <td>Noorjihan Mohammed</td>
+    <td>Freshman, CMU</td>
+    <td>RBI Summer Intern</td>
+    <td>Summer 2023</td>
+    <td>Junior, Cornell University, Ithaca, NY</td>
+  </tr> 
+ 
 </table>
       
 </body>
