@@ -102,6 +102,17 @@ Phone: (303) 724-1651
 <br />
 <br />
 
+![Abhishek Deshpande](/img/deshpande.jpeg){: width="20%" align="right"}
+**Abhishek Deshpande**  
+*Rotation Student (MOLB)*  
+M.S., University of Illinois College of Medicine, Rockford, IL    
+Email: abhishekdilip.deshpande`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/deshpande-cv.pdf">CV</a>&nbsp;
+<br />
+<br /> 
+
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
