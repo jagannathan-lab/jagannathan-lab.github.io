@@ -102,7 +102,7 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Abhishek Deshpande](/img/deshpande.jpeg){: width="20%" align="right"}
+![Abhishek Deshpande](/img/deshpande.jpg){: width="20%" align="right"}
 **Abhishek Deshpande**  
 *Rotation Student (MOLB)*  
 M.S., University of Illinois College of Medicine, Rockford, IL    
