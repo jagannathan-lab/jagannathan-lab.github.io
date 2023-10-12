@@ -8,7 +8,7 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
-* Campbell AE*, Dyle MC*, Albanese R, Matheny T, Sudheendran K, Cortázar MA, Forman T, Fu R, Gillen AE, Caruthers MH, Floor SN, Calviello L, and <strong>Jagannathan S#. </strong> Compromised nonsense-mediated RNA decay results in truncated RNA-binding protein production upon DUX4 expression. <em>Cell Reports (accepted)</em> 2023; <a href="https://www.biorxiv.org/content/10.1101/2021.06.28.450189v4" target="_blank" rel="noopener">bioRxiv</a> (<strong>*</strong>Equal Contribution)  
+* Campbell AE*, Dyle MC*, Albanese R, Matheny T, Sudheendran K, Cortázar MA, Forman T, Fu R, Gillen AE, Caruthers MH, Floor SN, Calviello L, and <strong>Jagannathan S#. </strong> Compromised nonsense-mediated RNA decay results in truncated RNA-binding protein production upon DUX4 expression. <em>Cell Reports </em> 2023 Jun 27;42(6):112642; <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00653-8">Link</a> <a href="https://www.biorxiv.org/content/10.1101/2021.06.28.450189v4" target="_blank" rel="noopener">bioRxiv</a> (<strong>*</strong>Equal Contribution)  
 
 * Muñoz O, Lore M, <strong>Jagannathan S#. </strong> The long and short of EJC-independent nonsense-mediated RNA decay. <em>Biochem Soc Trans. </em> 2023 May 5:BST20221131. doi: 10.1042/BST20221131. <a href="https://portlandpress.com/biochemsoctrans/article-abstract/doi/10.1042/BST20221131/233031/The-long-and-short-of-EJC-independent-nonsense?redirectedFrom=fulltext">Link</a>
 
