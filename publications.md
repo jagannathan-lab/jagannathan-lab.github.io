@@ -8,9 +8,9 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
-* Amy E. Campbell, Jamshid Arjomand, Oliver D. King, Rabi Tawil, Sujatha Jagannathan#. A Targeted Approach for Evaluating DUX4-Regulated Proteins as Potential Serum Biomarkers for Facioscapulohumeral Muscular Dystrophy Using Immunoassay Proteomics. <em>J Neuromuscul Dis. </em> (accepted) <a href="https://www.medrxiv.org/content/10.1101/2022.07.25.22276982v2" target="_blank" rel="noopener">medRxiv</a>
+* Amy E. Campbell, Jamshid Arjomand, Oliver D. King, Rabi Tawil, <strong>Sujatha Jagannathan#.  </strong> A Targeted Approach for Evaluating DUX4-Regulated Proteins as Potential Serum Biomarkers for Facioscapulohumeral Muscular Dystrophy Using Immunoassay Proteomics. <em>J Neuromuscul Dis. </em> (accepted) <a href="https://www.medrxiv.org/content/10.1101/2022.07.25.22276982v2" target="_blank" rel="noopener">medRxiv</a>
 
-* Hamm DC, Paatela EM, Bennett SR, Wong CJ, Campbell AE, Wladyka CL, Smith AA, Jagannathan S, Hsieh AC, Tapscott SJ.  
+* Hamm DC, Paatela EM, Bennett SR, Wong CJ, Campbell AE, Wladyka CL, Smith AA, <strong>Jagannathan S </strong>, Hsieh AC, Tapscott SJ.  
 The transcription factor DUX4 orchestrates translational reprogramming by broadly suppressing translation efficiency and promoting expression of DUX4-induced mRNAs. <em>PLoS Biol. </em> 2023 Sep 25;21(9):e3002317. doi: 10.1371/journal.pbio.3002317. <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002317">Link</a>
 
 * Sherlock ME#, Baquero Galvis L, Vicens Q, Kieft JS, <strong>Jagannathan S#. </strong> Principles, Mechanisms, and Biological Implications of Translation Termination-Reinitiation. <em>RNA. </em> 2023 Jul;29(7):865-884. doi: 10.1261/rna.079375.122 <a href="https://rnajournal.cshlp.org/content/early/2023/04/06/rna.079375.122.long">Link</a> (<strong>#</strong>Co-corresponding Author)  
