@@ -8,11 +8,14 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
+* Hamm DC, Paatela EM, Bennett SR, Wong CJ, Campbell AE, Wladyka CL, Smith AA, Jagannathan S, Hsieh AC, Tapscott SJ.  
+The transcription factor DUX4 orchestrates translational reprogramming by broadly suppressing translation efficiency and promoting expression of DUX4-induced mRNAs. <em>PLoS Biol. </em> 2023 Sep 25;21(9):e3002317. doi: 10.1371/journal.pbio.3002317. <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002317">Link</a>
+
+* Sherlock ME#, Baquero Galvis L, Vicens Q, Kieft JS, <strong>Jagannathan S#. </strong> Principles, Mechanisms, and Biological Implications of Translation Termination-Reinitiation. <em>RNA. </em> 2023 Jul;29(7):865-884. doi: 10.1261/rna.079375.122 <a href="https://rnajournal.cshlp.org/content/early/2023/04/06/rna.079375.122.long">Link</a> (<strong>#</strong>Co-corresponding Author)  
+
+* Muñoz O, Lore M, <strong>Jagannathan S#. </strong> The long and short of EJC-independent nonsense-mediated RNA decay. <em>Biochem Soc Trans. </em> 2023 Jun 28;51(3):1121-1129. doi: 10.1042/BST20221131. <a href="https://portlandpress.com/biochemsoctrans/article-abstract/doi/10.1042/BST20221131/233031/The-long-and-short-of-EJC-independent-nonsense?redirectedFrom=fulltext">Link</a>
+
 * Campbell AE*, Dyle MC*, Albanese R, Matheny T, Sudheendran K, Cortázar MA, Forman T, Fu R, Gillen AE, Caruthers MH, Floor SN, Calviello L, and <strong>Jagannathan S#. </strong> Compromised nonsense-mediated RNA decay results in truncated RNA-binding protein production upon DUX4 expression. <em>Cell Reports </em> 2023 Jun 27;42(6):112642; <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00653-8">Link</a> <a href="https://www.biorxiv.org/content/10.1101/2021.06.28.450189v4" target="_blank" rel="noopener">bioRxiv</a> (<strong>*</strong>Equal Contribution)  
-
-* Muñoz O, Lore M, <strong>Jagannathan S#. </strong> The long and short of EJC-independent nonsense-mediated RNA decay. <em>Biochem Soc Trans. </em> 2023 May 5:BST20221131. doi: 10.1042/BST20221131. <a href="https://portlandpress.com/biochemsoctrans/article-abstract/doi/10.1042/BST20221131/233031/The-long-and-short-of-EJC-independent-nonsense?redirectedFrom=fulltext">Link</a>
-
-* Sherlock ME#, Baquero Galvis L, Vicens Q, Kieft JS, <strong>Jagannathan S#. </strong> Principles, Mechanisms, and Biological Implications of Translation Termination-Reinitiation. <em>RNA. </em> 2023 Apr 6:rna.079375.122. doi: 10.1261/rna.079375.122 <a href="https://rnajournal.cshlp.org/content/early/2023/04/06/rna.079375.122.long">Link</a> (<strong>#</strong>Co-corresponding Author)  
 
 * <strong>Jagannathan S#. </strong> The evolution of DUX4 gene regulation and its implication for facioscapulohumeral muscular dystrophy. <em>Biochim Biophys Acta Mol Basis Dis. </em> 2022; May 1;1868(5):166367. <a href="https://www.sciencedirect.com/science/article/pii/S0925443922000308?via%3Dihub">Link</a> 
 
