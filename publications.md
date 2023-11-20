@@ -8,6 +8,8 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
+* Kolakada D, Campbell AE, Baquero Galvis L, Li Z, Lore M, and <strong>Jagannathan S#. </strong> A system of reporters for comparative investigation of EJC-independent and EJC-enhanced nonsense-mediated mRNA decay. <a href="https://www.biorxiv.org/content/10.1101/2023.11.14.567061v1" target="_blank" rel="noopener">bioRxiv</a>  
+
 * Campbell AE, Arjomand J, King OD, Tawil R, <strong>Jagannathan S#.  </strong> A Targeted Approach for Evaluating DUX4-Regulated Proteins as Potential Serum Biomarkers for Facioscapulohumeral Muscular Dystrophy Using Immunoassay Proteomics. <em>J Neuromuscul Dis. </em> 2023;10(6):1031-1040. doi: 10.3233/JND-221636. <a href="https://content.iospress.com/articles/journal-of-neuromuscular-diseases/jnd221636">Link</a> <a href="https://www.medrxiv.org/content/10.1101/2022.07.25.22276982v2" target="_blank" rel="noopener">medRxiv</a>
 
 * Hamm DC, Paatela EM, Bennett SR, Wong CJ, Campbell AE, Wladyka CL, Smith AA, <strong>Jagannathan S </strong>, Hsieh AC, Tapscott SJ.  
