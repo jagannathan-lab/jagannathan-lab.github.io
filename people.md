@@ -102,13 +102,13 @@ Phone: (303) 724-1651
 <br />  
 <br />  
 
-![Abhishek Deshpande](/img/deshpande.jpg){: width="20%" align="right"}
-**Abhishek Deshpande**  
+![Gabriela Padilla](/img/padilla.jpg){: width="20%" align="right"}
+**Gabriela Padilla**  
 *Rotation Student (MOLB)*  
-M.S., University of Illinois College of Medicine, Rockford, IL    
-Email: abhishekdilip.deshpande`at`cuanschutz.edu  
+B.S., University of California San Diego, La Jolla, CA      
+Email: gabriela.padilla`at`cuanschutz.edu  
 Phone: (303) 724-1651
-<a href="/docs/deshpande-cv.pdf">CV</a>&nbsp;
+<a href="/docs/padilla-cv.pdf">CV</a>&nbsp;
 <br />
 <br /> 
 
@@ -298,7 +298,15 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>Summer 2023</td>
     <td>Junior, Cornell University, Ithaca, NY</td>
   </tr> 
- 
+  
+  <tr>
+    <td>Abhishek Deshpande</td>
+    <td>M.S., University of Illinois College of Medicine, Rockford, IL</td>
+    <td>MOLB Rotation Student</td>
+    <td>Fall 2023</td>
+    <td>Rotation student, XXX Lab</td>
+  </tr>   
+
 </table>
       
 </body>
