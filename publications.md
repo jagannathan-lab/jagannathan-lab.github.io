@@ -8,7 +8,7 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
-* Campbell AE, Arjomand J, King OD, Tawil R, <strong>Jagannathan S#.  </strong> A Targeted Approach for Evaluating DUX4-Regulated Proteins as Potential Serum Biomarkers for Facioscapulohumeral Muscular Dystrophy Using Immunoassay Proteomics. <em>J Neuromuscul Dis. </em> (accepted) <a href="https://www.medrxiv.org/content/10.1101/2022.07.25.22276982v2" target="_blank" rel="noopener">medRxiv</a>
+* Campbell AE, Arjomand J, King OD, Tawil R, <strong>Jagannathan S#.  </strong> A Targeted Approach for Evaluating DUX4-Regulated Proteins as Potential Serum Biomarkers for Facioscapulohumeral Muscular Dystrophy Using Immunoassay Proteomics. <em>J Neuromuscul Dis. </em> 2023;10(6):1031-1040. doi: 10.3233/JND-221636. <a href="https://content.iospress.com/articles/journal-of-neuromuscular-diseases/jnd221636">Link</a> <a href="https://www.medrxiv.org/content/10.1101/2022.07.25.22276982v2" target="_blank" rel="noopener">medRxiv</a>
 
 * Hamm DC, Paatela EM, Bennett SR, Wong CJ, Campbell AE, Wladyka CL, Smith AA, <strong>Jagannathan S </strong>, Hsieh AC, Tapscott SJ.  
 The transcription factor DUX4 orchestrates translational reprogramming by broadly suppressing translation efficiency and promoting expression of DUX4-induced mRNAs. <em>PLoS Biol. </em> 2023 Sep 25;21(9):e3002317. doi: 10.1371/journal.pbio.3002317. <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002317">Link</a>
