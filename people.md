@@ -60,17 +60,6 @@ Phone: (303) 724-1651
 <a href="/docs/li-cv.pdf">CV</a>&nbsp;  
 <br />
 
-![Mlana Lore](/img/lore.jpeg){: width="20%" align="right"}
-**Mlana Lore**  
-*Graduate Student (MOLB) & T32 Awardee*  
-B.S., Eckerd College, St Petersburg, FL  
-Email: mlana.lore`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/lore-cv.pdf">CV</a>&nbsp;
-<a href="http://twitter.com/lore_mlana" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
-<br />
-<br />
-
 ![Oscar Muñoz](/img/munoz.jpg){: width="20%" align="right"}
 **Oscar Muñoz**  
 *Graduate Student (MOLB) & T32 Awardee*  
@@ -104,7 +93,7 @@ Phone: (303) 724-1651
 
 ![Gabriela Padilla](/img/padilla.jpg){: width="20%" align="right"}
 **Gabriela Padilla**  
-*Rotation Student (MOLB)*  
+*Rotation Student (BSP)*  
 B.S., University of California San Diego, La Jolla, CA      
 Email: gabriela.padilla`at`cuanschutz.edu  
 Phone: (303) 724-1651
@@ -112,6 +101,15 @@ Phone: (303) 724-1651
 <br />
 <br /> 
 
+![Gregory Poterewicz](/img/poterewicz.jpg){: width="20%" align="right"}
+**Gregory Poterewicz**  
+*Rotation Student (MOLB)*  
+B.S., Stony Brook University, Stony Brook, NY        
+Email: gregory.poterewicz`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/poterewicz-cv.pdf">CV</a>&nbsp;
+<br />
+<br /> 
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
@@ -304,8 +302,16 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>M.S., University of Illinois College of Medicine, Rockford, IL</td>
     <td>MOLB Rotation Student</td>
     <td>Fall 2023</td>
-    <td>Rotation student, XXX Lab</td>
-  </tr>   
+    <td>Rotation student, Cittely Lab</td>
+  </tr>  
+
+  <tr>
+    <td>Mlana Lore</td>
+    <td>B.S., Eckerd College, St Petersburg, FL</td>
+    <td>MOLB Student</td>
+    <td>Aug 2021 - Dec 2023</td>
+    <td>Associate Scientist, Mosaic Biosciences</td>
+  </tr>  
 
 </table>
       
