@@ -98,8 +98,8 @@ B.S., University of California San Diego, La Jolla, CA
 Email: gabriela.padilla`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/padilla-cv.pdf">CV</a>&nbsp;
-<br />
-<br /> 
+<br />   
+<br />   
 
 ![Gregory Poterewicz](/img/poterewicz.jpg){: width="20%" align="right"}
 **Gregory Poterewicz**  
