@@ -84,7 +84,7 @@ Phone: (303) 724-1651
 ![Kelleen McEntee](/img/mcentee.jpeg){: width="20%" align="right"}
 **Kelleen McEntee**  
 *Professional Research Assistant*  
-CU Boulder, CO      
+B. A., University of Colorado, Boulder, CO      
 Email: kelleen.mcentee`at`cuanschutz.edu  
 Phone: (303) 724-1651
 <a href="/docs/mcentee-cv.pdf">CV</a>&nbsp;
