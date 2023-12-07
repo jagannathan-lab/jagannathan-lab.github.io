@@ -71,16 +71,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Kaylynn Garrett](/img/garrett.jpeg){: width="20%" align="right"}
-**Kaylynn Garrett**  
-*MAP Undergraduate Intern*  
-Metropolitan State University, Denver, CO    
-Email: kaylynn.garrett`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/garrett-cv.pdf">CV</a>&nbsp;
-<br />  
-<br />  
-
 ![Kelleen McEntee](/img/mcentee.jpeg){: width="20%" align="right"}
 **Kelleen McEntee**  
 *Professional Research Assistant*  
@@ -312,6 +302,14 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>Aug 2021 - Dec 2023</td>
     <td>Associate Scientist, Mosaic Biosciences</td>
   </tr>  
+
+  <tr>
+    <td>Kaylynn Garrett</td>
+    <td>Junior, Metropolitan State University, Denver, CO</td>
+    <td>MAP Undergraduate Intern</td>
+    <td>May 2023 - Dec 2023</td>
+    <td>Senior, Metropolitan State University, Denver, CO</td>
+  </tr> 
 
 </table>
       
