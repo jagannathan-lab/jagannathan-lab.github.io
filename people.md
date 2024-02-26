@@ -81,25 +81,6 @@ Phone: (303) 724-1651
 <br />  
 <br />  
 
-![Gabriela Padilla](/img/padilla.jpg){: width="20%" align="right"}
-**Gabriela Padilla**  
-*Rotation Student (BSP)*  
-B.S., University of California San Diego, La Jolla, CA      
-Email: gabriela.padilla`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/padilla-cv.pdf">CV</a>&nbsp;
-<br />   
-<br />   
-
-![Gregory Poterewicz](/img/poterewicz.jpg){: width="20%" align="right"}
-**Gregory Poterewicz**  
-*Rotation Student (MOLB)*  
-B.S., Stony Brook University, Stony Brook, NY        
-Email: gregory.poterewicz`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/poterewicz-cv.pdf">CV</a>&nbsp;
-<br />
-<br /> 
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
@@ -310,6 +291,22 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>May 2023 - Dec 2023</td>
     <td>Senior, Metropolitan State University, Denver, CO</td>
   </tr> 
+
+  <tr>
+    <td>Gabriela Padilla</td>
+    <td>B.S., University of California San Diego, La Jolla, CA  </td>
+    <td>MOLB Rotation Student</td>
+    <td>Winter 2023</td>
+    <td>Rotation student, XX Lab</td>
+  </tr>  
+
+  <tr>
+    <td>Gregory Poterewicz</td>
+    <td>B.S., Stony Brook University, Stony Brook, NY  </td>
+    <td>MOLB Rotation Student</td>
+    <td>Winter 2023</td>
+    <td>Rotation student, Forester Lab</td>
+  </tr>  
 
 </table>
       
