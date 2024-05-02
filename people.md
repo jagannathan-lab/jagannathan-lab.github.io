@@ -81,6 +81,17 @@ Phone: (303) 724-1651
 <br />  
 <br />  
 
+![Pragyan Singh](/img/pragyan.jpg){: width="20%" align="right"}
+**Pragyan Singh**  
+*Postdoctoral Fellow*  
+B.S., Calcutta University, India 
+M. S., Bangalore University, India    
+Ph. D., Jadavpur University, India     
+Email: pragyan.singh`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/pragyan-cv.pdf">CV</a>&nbsp;  
+<br />
+
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
