@@ -92,6 +92,15 @@ Phone: (303) 724-1651
 <a href="/docs/pragyan-cv.pdf">CV</a>&nbsp;  
 <br />
 
+![Angel Ausmus](/img/ausmus.jpg){: width="20%" align="right"}
+**Angel Ausmus**  
+*RGB Summer Intern*  
+Junior, University of Colorado, Denver, CO      
+Email: angel.ausmus`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/ausmus-cv.pdf">CV</a>&nbsp;
+<br />  
+<br /> 
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
