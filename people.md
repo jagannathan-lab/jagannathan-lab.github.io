@@ -96,7 +96,7 @@ Phone: (303) 724-1651
 **Angel Ausmus**  
 *RGB Summer Intern*  
 Junior, University of Colorado, Denver, CO      
-Email: angel.ausmus`at`cuanschutz.edu  
+Email: angel.ausmus`at`ucdenver.edu  
 Phone: (303) 724-1651
 <a href="/docs/ausmus-cv.pdf">CV</a>&nbsp;
 <br />  
