@@ -102,12 +102,12 @@ Phone: (303) 724-1651
 <br />  
 <br /> 
 
-![Gregory Poterewicz](/img/poterewicz.jpg){: width="20%" align="right"}
-**Greg Poterewicz**
+![Gregory Poterewicz](/img/poterewicz.jpg){: width="20%" align="right"}  
+**Greg Poterewicz**  
 *Graduate Student (MOLB)*  
-B.S., Stony Brook University, Stony Brook, NY
+B.S., Stony Brook University, Stony Brook, NY  
 Email: gregory.poterewicz`at`cuanschutz.edu  
-Phone: (303) 724-1651
+Phone: (303) 724-1651  
 <a href="/docs/poterewicz-cv.pdf">CV</a>&nbsp;
  
 ![Abhishek Deshpande](/img/deshpande.jpg){: width="20%" align="right"} 
