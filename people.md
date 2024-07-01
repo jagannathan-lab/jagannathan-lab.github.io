@@ -110,6 +110,7 @@ Email: gregory.poterewicz`at`cuanschutz.edu
 Phone: (303) 724-1651
 <a href="/docs/poterewicz-cv.pdf">CV</a>&nbsp;
 <br />  
+<br />  
  
 ![Abhishek Deshpande](/img/deshpande.jpg){: width="20%" align="right"}  
 **Abhishek Deshpande**   
