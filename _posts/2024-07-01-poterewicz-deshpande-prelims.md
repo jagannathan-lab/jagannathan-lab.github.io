@@ -11,5 +11,5 @@ Greg and Abhishek have both passed the MOLB preliminary exams and officially joi
 We celebrated with lab lunch (no pictures!) and are so excited to have them in the lab!
 <br>
 <br>
-<img align="left" src="/img/greg-abhishek2.jpg " style="width:200 !important;height:500px !important;" />
+<img align="left" src="/img/greg-abhishek2.jpg " style="width:300 !important;height:500px !important;" />
 
