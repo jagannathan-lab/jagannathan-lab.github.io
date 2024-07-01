@@ -102,6 +102,22 @@ Phone: (303) 724-1651
 <br />  
 <br /> 
 
+![Gregory Poterewicz](/img/poterewicz.jpg){: width="20%" align="right"}
+**Greg Poterewicz**
+*Graduate Student (MOLB)*  
+B.S., Stony Brook University, Stony Brook, NY
+Email: gregory.poterewicz`at`cuanschutz.edu  
+Phone: (303) 724-1651
+<a href="/docs/poterewicz-cv.pdf">CV</a>&nbsp;
+ 
+![Abhishek Deshpande](/img/deshpande.jpg){: width="20%" align="right"} 
+**Abhishek Deshpande** 
+*Graduate Student (MOLB)*   
+M.S., University of Illinois College of Medicine, Rockford, IL  
+Email: abhishek.deshpande`at`cuanschutz.edu   
+Phone: (303) 724-1651
+<a href="/docs/deshpande-cv.pdf">CV</a>&nbsp; 
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
@@ -289,14 +305,6 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
   </tr> 
   
   <tr>
-    <td>Abhishek Deshpande</td>
-    <td>M.S., University of Illinois College of Medicine, Rockford, IL</td>
-    <td>MOLB Rotation Student</td>
-    <td>Fall 2023</td>
-    <td>Rotation student, Cittely Lab</td>
-  </tr>  
-
-  <tr>
     <td>Mlana Lore</td>
     <td>B.S., Eckerd College, St Petersburg, FL</td>
     <td>MOLB Student</td>
@@ -318,14 +326,6 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>MOLB Rotation Student</td>
     <td>Winter 2023</td>
     <td>Rotation student, XX Lab</td>
-  </tr>  
-
-  <tr>
-    <td>Gregory Poterewicz</td>
-    <td>B.S., Stony Brook University, Stony Brook, NY  </td>
-    <td>MOLB Rotation Student</td>
-    <td>Winter 2023</td>
-    <td>Rotation student, Forester Lab</td>
   </tr>  
 
 </table>
