@@ -109,14 +109,18 @@ B.S., Stony Brook University, Stony Brook, NY
 Email: gregory.poterewicz`at`cuanschutz.edu  
 Phone: (303) 724-1651  
 <a href="/docs/poterewicz-cv.pdf">CV</a>&nbsp;
+<br />  
+<br /> 
  
-![Abhishek Deshpande](/img/deshpande.jpg){: width="20%" align="right"} 
-**Abhishek Deshpande** 
-*Graduate Student (MOLB)*   
-M.S., University of Illinois College of Medicine, Rockford, IL  
-Email: abhishek.deshpande`at`cuanschutz.edu   
-Phone: (303) 724-1651
+![Abhishek Deshpande](/img/deshpande.jpg){: width="20%" align="right"}  
+**Abhishek Deshpande**   
+*Graduate Student (MOLB)*    
+M.S., University of Illinois College of Medicine, Rockford, IL   
+Email: abhishek.deshpande`at`cuanschutz.edu    
+Phone: (303) 724-1651  
 <a href="/docs/deshpande-cv.pdf">CV</a>&nbsp; 
+<br />  
+<br /> 
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
