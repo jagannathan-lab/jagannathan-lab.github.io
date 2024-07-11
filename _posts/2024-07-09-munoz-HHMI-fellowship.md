@@ -6,7 +6,7 @@ image: /img/hhmi.png
 tags: [news, funding]  
 ---
 
-We are so thrilled for Oscar to have been named a [HHMI Gilliam fellow](https://www.hhmi.org/news/hhmi-names-50-gilliam-fellows-milestone-year?utm_campaign=gilliam-fellows&utm_source=outlook&utm_medium=email&utm_content=jh+gilliam&utm_term=2024). This fellowship will support Oscar's thesis work on understanding long UTR-mediated NMD as well as our joint efforts to improve student wellness on our campus. 
+Oscar and Suja have been selected for the 2024 cohort of the [HHMI Gilliam Fellows Program](https://www.hhmi.org/news/hhmi-names-50-gilliam-fellows-milestone-year?utm_campaign=gilliam-fellows&utm_source=outlook&utm_medium=email&utm_content=jh+gilliam&utm_term=2024) as a student-advisor pair. This fellowship will support Oscar's thesis work on understanding long UTR-mediated NMD as well as our joint efforts to improve student wellness on our campus. 
 
 We are grateful to HHMI for the support! 
 
