@@ -110,6 +110,7 @@ Email: gregory.poterewicz`at`cuanschutz.edu
 Phone: (303) 724-1651
 <a href="/docs/poterewicz-cv.pdf">CV</a>&nbsp;
 <br />
+<br />
  
 ![Abhishek Deshpande](/img/deshpande.jpg){: width="20%" align="right"}  
 **Abhishek Deshpande**   
@@ -118,6 +119,16 @@ M.S., University of Illinois College of Medicine, Rockford, IL
 Email: abhishek.deshpande`at`cuanschutz.edu    
 Phone: (303) 724-1651
 <a href="/docs/deshpande-cv.pdf">CV</a>&nbsp; 
+<br />  
+<br /> 
+
+![Nieve Yepez](/img/yepez.jpg){: width="20%" align="right"}  
+**Nieve Yepez**   
+*MAP Intern*    
+Rising Sophomore, Metropolitan State University, Denver, CO     
+Email: nieve.yepez`at`ucdenver.edu    
+Phone: (303) 724-1651
+<a href="/docs/yepez-cv.pdf">CV</a>&nbsp; 
 <br />  
 <br /> 
 
