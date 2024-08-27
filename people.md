@@ -116,7 +116,7 @@ Phone: (303) 724-1651
 **Abhishek Deshpande**   
 *Graduate Student (MOLB)*    
 M.S., University of Illinois College of Medicine, Rockford, IL   
-Email: abhishek.deshpande`at`cuanschutz.edu    
+Email: abhishekdilip.deshpande`at`cuanschutz.edu    
 Phone: (303) 724-1651
 <a href="/docs/deshpande-cv.pdf">CV</a>&nbsp; 
 <br />  
