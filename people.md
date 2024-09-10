@@ -111,7 +111,6 @@ Email: abhishekdilip.deshpande`at`cuanschutz.edu
 Phone: (303) 724-1651
 <a href="/docs/deshpande-cv.pdf">CV</a>&nbsp;  
 <br />  
-<br />  
 
 ![Nieve Yepez](/img/yepez.jpg){: width="20%" align="right"}  
 **Nieve Yepez**   
