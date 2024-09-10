@@ -20,8 +20,9 @@ Phone: (303) 724-3309
 
 ![Divya Kolakada](/img/kolakada.jpg){: width="20%" align="right"}
 **Divya Kolakada**  
-*Graduate student (MOLB/BSP) & AHA predoctoral fellow*  
+*Postdoctoral fellow*  
 B.S., Rollins College   
+Ph. D., University of Colorado, Anschutz Medical Campus  
 Email: divya.kolakada`at`ucdenver.edu  
 Phone: (303) 724-1651
 <a href="/docs/kolakada_resume.pdf">CV</a>&nbsp;
@@ -62,7 +63,7 @@ Phone: (303) 724-1651
 
 ![Oscar Muñoz](/img/munoz.jpg){: width="20%" align="right"}
 **Oscar Muñoz**  
-*Graduate Student (MOLB) & T32 Awardee*  
+*Graduate Student (MOLB) & HHMI Gilliam Fellow*  
 B.S., University of California San Diego, La Jolla, CA    
 Email: oscar.munoz`at`cuanschutz.edu  
 Phone: (303) 724-1651
@@ -92,19 +93,9 @@ Phone: (303) 724-1651
 <a href="/docs/pragyan-cv.pdf">CV</a>&nbsp;  
 <br />
 
-![Angel Ausmus](/img/ausmus.jpg){: width="20%" align="right"}
-**Angel Ausmus**  
-*RGB Summer Intern*  
-Junior, University of Colorado, Denver, CO      
-Email: angel.ausmus`at`ucdenver.edu  
-Phone: (303) 724-1651
-<a href="/docs/ausmus-cv.pdf">CV</a>&nbsp;
-<br />  
-<br /> 
-
 ![Gregory Poterewicz](/img/poterewicz.jpg){: width="20%" align="right"}  
 **Greg Poterewicz**  
-*Graduate Student (MOLB)*  
+*Graduate Student (MOLB) & T32 Awardee*  
 B.S., Stony Brook University, Stony Brook, NY  
 Email: gregory.poterewicz`at`cuanschutz.edu  
 Phone: (303) 724-1651
@@ -130,6 +121,25 @@ Phone: (303) 724-1651
 <a href="/docs/yepez-cv.pdf">CV</a>&nbsp; 
 <br />  
 <br /> 
+
+![Angel Ausmus](/img/ausmus.jpg){: width="20%" align="right"}
+**Angel Ausmus**  
+*RGB Summer Intern*  
+Junior, University of Colorado, Denver, CO      
+Email: angel.ausmus`at`ucdenver.edu  
+Phone: (303) 724-1651
+<a href="/docs/ausmus-cv.pdf">CV</a>&nbsp;
+<br />  
+<br /> 
+
+![Ellie Hasenohr](/img/hasenohr.jpeg){: width="20%" align="right"}  
+**Ellie Hasenohr**   
+*Rotation Student (MOLB)*    
+B.S., University of Vermont, Burlington, VT   
+Email: elaine.hasenohr`at`cuanschutz.edu    
+Phone: (303) 724-1651
+<a href="/docs/hasenohr-cv.pdf">CV</a>&nbsp; 
+<br />  
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
