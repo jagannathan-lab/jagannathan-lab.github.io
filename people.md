@@ -109,8 +109,9 @@ Phone: (303) 724-1651
 M.S., University of Illinois College of Medicine, Rockford, IL   
 Email: abhishekdilip.deshpande`at`cuanschutz.edu    
 Phone: (303) 724-1651
-<a href="/docs/deshpande-cv.pdf">CV</a>&nbsp; 
-<br />  
+<a href="/docs/deshpande-cv.pdf">CV</a>&nbsp;  
+<br />
+<br />
 
 ![Nieve Yepez](/img/yepez.jpg){: width="20%" align="right"}  
 **Nieve Yepez**   
@@ -348,7 +349,7 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>B.S., University of California San Diego, La Jolla, CA  </td>
     <td>MOLB Rotation Student</td>
     <td>Winter 2023</td>
-    <td>Rotation student, XX Lab</td>
+    <td>Rotation student, Roberson Lab</td>
   </tr>  
 
 </table>
