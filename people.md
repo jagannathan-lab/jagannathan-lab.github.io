@@ -110,8 +110,8 @@ M.S., University of Illinois College of Medicine, Rockford, IL
 Email: abhishekdilip.deshpande`at`cuanschutz.edu    
 Phone: (303) 724-1651
 <a href="/docs/deshpande-cv.pdf">CV</a>&nbsp;  
-<br />
-<br />
+<br />  
+<br />  
 
 ![Nieve Yepez](/img/yepez.jpg){: width="20%" align="right"}  
 **Nieve Yepez**   
@@ -120,6 +120,7 @@ Rising Sophomore, Metropolitan State University, Denver, CO
 Email: nieve.yepez`at`ucdenver.edu    
 Phone: (303) 724-1651
 <a href="/docs/yepez-cv.pdf">CV</a>&nbsp; 
+<br />  
 <br />  
 
 ![Angel Ausmus](/img/ausmus.jpg){: width="20%" align="right"}
@@ -130,7 +131,7 @@ Email: angel.ausmus`at`ucdenver.edu
 Phone: (303) 724-1651
 <a href="/docs/ausmus-cv.pdf">CV</a>&nbsp;
 <br />  
-<br /> 
+<br />  
 
 ![Ellie Hasenohr](/img/hasenohr.jpeg){: width="20%" align="right"}  
 **Ellie Hasenohr**   
