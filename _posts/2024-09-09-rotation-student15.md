@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome, Allie!
+title: Welcome, Ellie!
 subtitle: New rotation student
 image: /img/hasenohr.jpeg
 tags: [news, new-member]
