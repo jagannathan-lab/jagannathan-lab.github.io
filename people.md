@@ -123,7 +123,7 @@ Phone: (303) 724-1651
 
 ![Angel Ausmus](/img/ausmus.jpg){: width="20%" align="right"}
 **Angel Ausmus**  
-*RGB Summer Intern*  
+*Undergraduate Intern*  
 Junior, University of Colorado, Denver, CO      
 Email: angel.ausmus`at`ucdenver.edu  
 Phone: (303) 724-1651
@@ -131,13 +131,13 @@ Phone: (303) 724-1651
 <br />  
 <br />  
 
-![Ellie Hasenohr](/img/hasenohr.jpeg){: width="20%" align="right"}  
-**Ellie Hasenohr**   
+![Sierra Simmerman](/img/simmerman.jpeg){: width="20%" align="right"}  
+**Sierra Simmerman**   
 *Rotation Student (MOLB)*    
-B.S., University of Vermont, Burlington, VT   
-Email: elaine.hasenohr`at`cuanschutz.edu    
+B.S., University of Washington, Seattle, WA   
+Email: sierra.simmerman`at`cuanschutz.edu    
 Phone: (303) 724-1651
-<a href="/docs/hasenohr-cv.pdf">CV</a>&nbsp; 
+<a href="/docs/simmerman-cv.pdf">CV</a>&nbsp; 
 <br />  
 
 **You? Join us!**  
@@ -348,6 +348,14 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>MOLB Rotation Student</td>
     <td>Winter 2023</td>
     <td>Rotation student, Roberson Lab</td>
+  </tr>  
+
+  <tr>
+    <td>Ellie Hasenohr</td>
+    <td>B.S., University of Vermont, Burlington, VT  </td>
+    <td>MOLB Rotation Student</td>
+    <td>Fall 2024</td>
+    <td>Rotation student, Johnson Lab</td>
   </tr>  
 
 </table>
