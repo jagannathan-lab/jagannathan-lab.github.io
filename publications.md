@@ -8,7 +8,8 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
-* Cortázar MA, <strong>Jagannathan S#. </strong> SelectRepair Knockout: Efficient PTC-Free Gene Knockout Through Selectable Homology-Directed DNA Repair. Methods Mol Biol. 2025;2863:397-417. doi: 10.1007/978-1-0716-4176-7_23. <a href="https://link.springer.com/protocol/10.1007/978-1-0716-4176-7_23">Link</a>
+* Cortázar MA, <strong>Jagannathan S#. </strong> SelectRepair Knockout: Efficient PTC-Free Gene Knockout Through Selectable Homology-Directed DNA Repair. <em>Methods Mol Biol. </em> 
+ 2025;2863:397-417. doi: 10.1007/978-1-0716-4176-7_23. <a href="https://link.springer.com/protocol/10.1007/978-1-0716-4176-7_23">Link</a>
 
 * Kolakada D, Fu R, Biziaev N, Shuvalov A, Lore M, Campbell AE, Cortázar MA, Sajek MP, Hesselberth JR, Mukherjee N, Alkaeva E, <strong>Jagannathan S#. </strong> Peptidyl-tRNA hydrolysis rate influences the efficiency of nonsense-mediated mRNA decay. <a href="https://www.biorxiv.org/content/10.1101/2024.01.10.575080v5" target="_blank" rel="noopener">bioRxiv</a>
 
