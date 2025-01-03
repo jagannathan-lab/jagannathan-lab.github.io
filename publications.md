@@ -8,7 +8,9 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
-* Kolakada D, Fu R, Biziaev N, Shuvalov A, Lore M, Campbell AE, Cortázar MA, Sajek MP, Hesselberth JR, Mukherjee N, Alkaeva E, <strong>Jagannathan S#. </strong> Peptidyl-tRNA hydrolysis rate influences the efficiency of nonsense-mediated mRNA decay. <a href="https://www.biorxiv.org/content/10.1101/2024.01.10.575080v2" target="_blank" rel="noopener">bioRxiv</a>
+* Cortázar MA, <strong>Jagannathan S#. </strong> SelectRepair Knockout: Efficient PTC-Free Gene Knockout Through Selectable Homology-Directed DNA Repair. Methods Mol Biol. 2025;2863:397-417. doi: 10.1007/978-1-0716-4176-7_23. <a href="https://link.springer.com/protocol/10.1007/978-1-0716-4176-7_23">Link</a>
+
+* Kolakada D, Fu R, Biziaev N, Shuvalov A, Lore M, Campbell AE, Cortázar MA, Sajek MP, Hesselberth JR, Mukherjee N, Alkaeva E, <strong>Jagannathan S#. </strong> Peptidyl-tRNA hydrolysis rate influences the efficiency of nonsense-mediated mRNA decay. <a href="https://www.biorxiv.org/content/10.1101/2024.01.10.575080v5" target="_blank" rel="noopener">bioRxiv</a>
 
 * Kolakada D, Campbell AE, Baquero Galvis L, Li Z, Lore M, and <strong>Jagannathan S#. </strong> A system of reporters for comparative investigation of EJC-independent and EJC-enhanced nonsense-mediated mRNA decay. <em>Nucleic Acids Res. </em> 2024; gkae121, doi: 10.1093/nar/gkae121. <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae121/7611026">Link</a> <a href="https://www.biorxiv.org/content/10.1101/2023.11.14.567061v1" target="_blank" rel="noopener">bioRxiv</a>  
 
