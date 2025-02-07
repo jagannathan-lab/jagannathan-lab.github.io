@@ -18,18 +18,6 @@ Phone: (303) 724-3309
 <a href="http://twitter.com/RNA_biologist" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
 <br />
 
-![Divya Kolakada](/img/kolakada.jpg){: width="20%" align="right"}
-**Divya Kolakada**  
-*Postdoctoral fellow*  
-B.S., Rollins College   
-Ph. D., University of Colorado, Anschutz Medical Campus  
-Email: divya.kolakada`at`ucdenver.edu  
-Phone: (303) 724-1651
-<a href="/docs/kolakada_resume.pdf">CV</a>&nbsp;
-<a href="http://twitter.com/sciliator" target="new"><i class="fa fa-twitter fa-fw"></i></a>  
-<br />
-<br />
-
 ![Michael Cortázar](/img/cortazar.png){: width="20%" align="right"}
 **Michael Cortázar Osorio**  
 *American Heart Association Postdoctoral Fellow*  
@@ -84,7 +72,7 @@ Phone: (303) 724-1651
 
 ![Pragyan Singh](/img/pragyan.jpg){: width="20%" align="right"}
 **Pragyan Singh**  
-*Postdoctoral Fellow*  
+*FSHD Society Postdoctoral Fellow*  
 B.S., Calcutta University, India 
 M. S., Bangalore University, India    
 Ph. D., Jadavpur University, India     
@@ -357,8 +345,13 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>Fall 2024</td>
     <td>Rotation student, Johnson Lab</td>
   </tr>  
+  
+  <tr>
+    <td>Divya Kolakada</td>
+    <td>B.S., Rollins College </td>
+    <td>MOLB/BSP Ph. D. Student</td>
+    <td>July 2018 - Jan 2025</td>
+    <td>Gilead Sciences</td>
+  </tr>  
 
 </table>
-      
-</body>
-</html>
