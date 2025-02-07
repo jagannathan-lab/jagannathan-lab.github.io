@@ -11,6 +11,6 @@ Divya was the first graduate student to join the lab, and it is bittersweet to s
 
 We had a farewell celebration at the Stanley Marketplace and shared some gifts that we hope will remind her of all the good times we had as a lab!  
 <br>
-<img align="center" src="/img/divya-lastday-2" style="width:600px !important;height:400px !important;" />
+<img align="center" src="/img/divya-lastday-2.jpg" style="width:600px !important;height:400px !important;" />
 <br>
 <br>
