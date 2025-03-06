@@ -119,15 +119,6 @@ Phone: (303) 724-1651
 <br />  
 <br />  
 
-![Sierra Simmerman](/img/simmerman.jpeg){: width="20%" align="right"}  
-**Sierra Simmerman**   
-*Rotation Student (MOLB)*    
-B.S., University of Washington, Seattle, WA   
-Email: sierra.simmerman`at`cuanschutz.edu    
-Phone: (303) 724-1651
-<a href="/docs/simmerman-cv.pdf">CV</a>&nbsp; 
-<br />  
-
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
@@ -352,6 +343,14 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>MOLB/BSP Ph. D. Student</td>
     <td>July 2018 - Jan 2025</td>
     <td>Gilead Sciences</td>
+  </tr>  
+
+  <tr>
+    <td>Sierra Simmerman</td>
+    <td>B.S., University of Washington, Seattle, WA  </td>
+    <td>MOLB Rotation Student</td>
+    <td>Winter 2024</td>
+    <td>Rotation student, Breuss Lab</td>
   </tr>  
 
 </table>
