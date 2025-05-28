@@ -117,6 +117,7 @@ Email: angel.ausmus`at`ucdenver.edu
 Phone: (303) 724-1651
 <a href="/docs/ausmus-cv.pdf">CV</a>&nbsp;
 <br />  
+<br />  
 
 ![Yasmine Ackall](/img/ackall.jpg){: width="20%" align="right"}
 **Yasmine Ackall**  
