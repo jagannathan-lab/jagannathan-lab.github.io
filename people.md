@@ -39,16 +39,6 @@ Phone: (303) 724-1651
 <a href="/docs/campbell-cv.pdf">CV</a>&nbsp;  
 <br />
 
-![Zhongyou Li](/img/li.jpg){: width="20%" align="right"}
-**Zhongyou Li**  
-*Cystic Fibrosis Foundation Postdoctoral Fellow*  
-B.S. & M. S., National Yang-Ming University, Taipei, Taiwan   
-Ph. D., Dartmouth College, Hanover, NH    
-Email: zhongyou.li`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/li-cv.pdf">CV</a>&nbsp;  
-<br />
-
 ![Oscar Muñoz](/img/munoz.jpg){: width="20%" align="right"}
 **Oscar Muñoz**  
 *Graduate Student (MOLB) & HHMI Gilliam Fellow*  
@@ -361,6 +351,14 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>MOLB Rotation Student</td>
     <td>Winter 2024</td>
     <td>Rotation student, Breuss Lab</td>
+  </tr>  
+
+  <tr>
+    <td>Zhongyou Li</td>
+    <td>B.S. & M. S., National Yang-Ming University, Taipei, Taiwan; Ph. D., Dartmouth College, Hanover, NH   </td>
+    <td>Cystic Fibrosis Foundation Postdoctoral Fellow</td>
+    <td>May 2022 - June 2025</td>
+    <td>Industry Scientist, Taiwan</td>
   </tr>  
 
 </table>
