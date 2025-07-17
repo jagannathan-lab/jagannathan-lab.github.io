@@ -99,16 +99,6 @@ Phone: (303) 724-1651
 <a href="/docs/yepez-cv.pdf">CV</a>&nbsp; 
 <br />  
 
-![Angel Ausmus](/img/ausmus.jpg){: width="20%" align="right"}
-**Angel Ausmus**  
-*Undergraduate Intern*  
-Junior, University of Colorado, Denver, CO      
-Email: angel.ausmus`at`ucdenver.edu  
-Phone: (303) 724-1651
-<a href="/docs/ausmus-cv.pdf">CV</a>&nbsp;
-<br />  
-<br />  
-
 ![Yasmine Ackall](/img/ackall.jpg){: width="20%" align="right"}
 **Yasmine Ackall**  
 *GSIP Intern*  
@@ -358,7 +348,15 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>B.S. & M. S., National Yang-Ming University, Taipei, Taiwan; Ph. D., Dartmouth College, Hanover, NH   </td>
     <td>Cystic Fibrosis Foundation Postdoctoral Fellow</td>
     <td>May 2022 - June 2025</td>
-    <td>Industry Scientist, Taiwan</td>
+    <td>R&D Manager, Taiwan Bio</td>
+  </tr>  
+
+  <tr>
+    <td>Angel Ausmus</td>
+    <td>Junior, University of Colorado, Denver, CO   </td>
+    <td>Undergraduate Intern</td>
+    <td>May 2024 - June 2025</td>
+    <td>Intern, Welle Lab</td>
   </tr>  
 
 </table>
