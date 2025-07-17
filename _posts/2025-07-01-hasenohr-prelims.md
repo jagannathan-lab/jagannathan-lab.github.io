@@ -2,7 +2,7 @@
 layout: post  
 title: Ellie joins the lab!  
 subtitle:   
-image: /img/hasenohr.jpg 
+image: /img/hasenohr.jpeg 
 tags: [news, lab-party]  
 ---
 
