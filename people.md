@@ -342,7 +342,7 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>B.S., Rollins College </td>
     <td>MOLB/BSP Ph. D. Student</td>
     <td>July 2018 - Jan 2025</td>
-    <td>Gilead Sciences</td>
+    <td>Research Scientist, Gilead Sciences</td>
   </tr>  
 
   <tr>
