@@ -109,6 +109,15 @@ Phone: (303) 724-1651
 <br />  
 <br />  
 
+![Ellie Hasenohr](/img/hassanohr.jpg){: width="20%" align="right"}  
+**Ellie Hassanohr**   
+*Graduate Student (MOLB)*    
+B.S., University of Vermont, Burlington, VT   
+Email: elaine.hasenohr`at`cuanschutz.edu    
+Phone: (303) 724-1651
+<a href="/docs/hasenohr-cv.pdf">CV</a>&nbsp;  
+<br />  
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
