@@ -109,7 +109,7 @@ Phone: (303) 724-1651
 <br />  
 <br />  
 
-![Ellie Hasenohr](/img/hasenohr.jpg){: width="20%" align="right"}  
+![Ellie Hasenohr](/img/hasenohr.jpeg){: width="20%" align="right"}  
 **Ellie Hasenohr**   
 *Graduate Student (MOLB)*    
 B.S., University of Vermont, Burlington, VT   
