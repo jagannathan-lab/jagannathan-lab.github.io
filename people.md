@@ -90,26 +90,6 @@ Phone: (303) 724-1651
 <a href="/docs/deshpande-cv.pdf">CV</a>&nbsp;  
 <br />  
 
-![Nieve Yepez](/img/yepez.jpg){: width="20%" align="right"}  
-**Nieve Yepez**   
-*MAP Intern*    
-Rising Sophomore, Metropolitan State University, Denver, CO     
-Email: nieve.yepez`at`ucdenver.edu    
-Phone: (303) 724-1651
-<a href="/docs/yepez-cv.pdf">CV</a>&nbsp; 
-<br />  
-<br />
-
-![Yasmine Ackall](/img/ackall.jpg){: width="20%" align="right"}
-**Yasmine Ackall**  
-*GSIP Intern*  
-Sophomore, University of North Carolina, Chapel Hill, NC      
-Email: yasmine.ackall`at`ucdenver.edu  
-Phone: (303) 724-1651
-<a href="/docs/ackall-cv.pdf">CV</a>&nbsp;
-<br />  
-<br />  
-
 ![Ellie Hasenohr](/img/hasenohr.jpeg){: width="20%" align="right"}  
 **Ellie Hasenohr**   
 *Graduate Student (MOLB)*    
@@ -367,6 +347,22 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>Undergraduate Intern</td>
     <td>May 2024 - June 2025</td>
     <td>Intern, Welle Lab</td>
+  </tr>  
+
+  <tr>
+    <td>Nieve Yepez</td>
+    <td>Sophomore, Metropolitan State University, Denver, CO  </td>
+    <td>MAP Intern</td>
+    <td>May 2024 - Aug 2025</td>
+    <td>PATH-GREU Scholar</td>
+  </tr>  
+
+  <tr>
+    <td>Yasmine Ackall</td>
+    <td>Sophomore, University of North Carolina, Chapel Hill, NC  </td>
+    <td>GSIP Intern</td>
+    <td>June 2025 - Aug 2025</td>
+    <td>Junior, University of North Carolina, Chapel Hill, NC  </td>
   </tr>  
 
 </table>
