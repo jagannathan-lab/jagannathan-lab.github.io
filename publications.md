@@ -10,7 +10,7 @@ layout: page
 
 * Calhoun JD, Dawood M, Rowlands CF, Fayer S, Radford EJ, McEwen AE, Turnbull C, Spurdle AB, Starita LM, <strong>Jagannathan S#. </strong> Combining multiplexed functional data to improve variant classification. <em>ArXiv </em> [Preprint]. 2025 Mar 24:arXiv:2503.18810v1. <a href="https://arxiv.org/abs/2503.18810v1" target="_blank" rel="noopener">ArXiv</a>
   
-* Kolakada D, Fu R, Biziaev N, Shuvalov A, Lore M, Campbell AE, Cortázar MA, Sajek MP, Hesselberth JR, Mukherjee N, Alkaeva E, <strong>Jagannathan S#. </strong> Peptidyl-tRNA hydrolysis rate influences the efficiency of nonsense-mediated mRNA decay. <em>Cell Genomics </em> 2025 In Press; <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00138-7">Link</a> <a href="https://www.biorxiv.org/content/10.1101/2024.01.10.575080v5" target="_blank" rel="noopener">bioRxiv</a>
+* Kolakada D, Fu R, Biziaev N, Shuvalov A, Lore M, Campbell AE, Cortázar MA, Sajek MP, Hesselberth JR, Mukherjee N, Alkaeva E, <strong>Jagannathan S#. </strong> Peptidyl-tRNA hydrolysis rate influences the efficiency of nonsense-mediated mRNA decay. <em>Cell Genomics </em> 2025 Jul 9;5(7):100882. doi: 10.1016/j.xgen.2025.100882; <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00138-7">Link</a> <a href="https://www.biorxiv.org/content/10.1101/2024.01.10.575080v5" target="_blank" rel="noopener">bioRxiv</a>
 
 * Cortázar MA, <strong>Jagannathan S#. </strong> SelectRepair Knockout: Efficient PTC-Free Gene Knockout Through Selectable Homology-Directed DNA Repair. <em>Methods Mol Biol. </em> 
  2025;2863:397-417. doi: 10.1007/978-1-0716-4176-7_23. <a href="https://link.springer.com/protocol/10.1007/978-1-0716-4176-7_23">Link</a>
