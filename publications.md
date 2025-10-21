@@ -8,6 +8,8 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
+* McEntee KE, McCurdy BL, Larson A, McCourt EA, Kaufman ML, Campbell AE, Pearson CG, Demarest S, Taliaferrom JM, Hesselberth JR#, <strong>Jagannathan S#. </strong> Splice-switching antisense oligonucleotides correct cryptic exon inclusion and restore SDCCAG8 protein in Bardet-Biedl Syndrome. <em>BioRxiv </em> [Preprint]. 2025 Oct 15. doi: 10.1101/2025.10.15.682674 <a https://www.biorxiv.org/content/10.1101/2025.10.15.682674v1" target="_blank" rel="noopener">bioRxiv</a> (<strong>#</strong>Co-corresponding)
+
 * Calhoun JD, Dawood M, Rowlands CF, Fayer S, Radford EJ, McEwen AE, Turnbull C, Spurdle AB, Starita LM, <strong>Jagannathan S#. </strong> Combining multiplexed functional data to improve variant classification. <em>ArXiv </em> [Preprint]. 2025 Mar 24:arXiv:2503.18810v1. <a href="https://arxiv.org/abs/2503.18810v1" target="_blank" rel="noopener">ArXiv</a>
   
 * Kolakada D, Fu R, Biziaev N, Shuvalov A, Lore M, Campbell AE, Cortázar MA, Sajek MP, Hesselberth JR, Mukherjee N, Alkaeva E, <strong>Jagannathan S#. </strong> Peptidyl-tRNA hydrolysis rate influences the efficiency of nonsense-mediated mRNA decay. <em>Cell Genomics </em> 2025 Jul 9;5(7):100882. doi: 10.1016/j.xgen.2025.100882. <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00138-7">Link</a> <a href="https://www.biorxiv.org/content/10.1101/2024.01.10.575080v5" target="_blank" rel="noopener">bioRxiv</a>
