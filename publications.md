@@ -8,7 +8,7 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
-* McEntee KE, McCurdy BL, Larson A, McCourt EA, Kaufman ML, Campbell AE, Pearson CG, Demarest S, Taliaferrom JM, Hesselberth JR#, <strong>Jagannathan S#. </strong> Splice-switching antisense oligonucleotides correct cryptic exon inclusion and restore SDCCAG8 protein in Bardet-Biedl Syndrome. <em>BioRxiv </em> [Preprint]. 2025 Oct 15. doi: 10.1101/2025.10.15.682674 <a https://www.biorxiv.org/content/10.1101/2025.10.15.682674v1" target="_blank" rel="noopener">bioRxiv</a> (<strong>#</strong>Co-corresponding)
+* McEntee KE, McCurdy BL, Larson A, McCourt EA, Kaufman ML, Campbell AE, Pearson CG, Demarest S, Taliaferrom JM, Hesselberth JR#, <strong>Jagannathan S#. </strong> Splice-switching antisense oligonucleotides correct cryptic exon inclusion and restore SDCCAG8 protein in Bardet-Biedl Syndrome. <em>BioRxiv </em> [Preprint]. 2025 Oct 15. doi: 10.1101/2025.10.15.682674 <a href="https://www.biorxiv.org/content/10.1101/2025.10.15.682674v1" target="_blank" rel="noopener">bioRxiv</a> (<strong>#</strong>Co-corresponding)
 
 * Calhoun JD, Dawood M, Rowlands CF, Fayer S, Radford EJ, McEwen AE, Turnbull C, Spurdle AB, Starita LM, <strong>Jagannathan S#. </strong> Combining multiplexed functional data to improve variant classification. <em>ArXiv </em> [Preprint]. 2025 Mar 24:arXiv:2503.18810v1. <a href="https://arxiv.org/abs/2503.18810v1" target="_blank" rel="noopener">ArXiv</a>
   
