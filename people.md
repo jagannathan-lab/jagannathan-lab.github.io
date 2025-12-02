@@ -99,7 +99,7 @@ Phone: (303) 724-1651
 <a href="/docs/hasenohr-cv.pdf">CV</a>&nbsp;  
 <br />  
 
-![Nieve Yepez](/img/yepez.jpeg){: width="20%" align="right"}  
+![Nieve Yepez](/img/yepez.jpg){: width="20%" align="right"}  
 **Nieve Yepez**  
 *Rotation student, GREU Pathway Program*    
 Junior, Metropolitan State University of Denver, Denver, CO   
