@@ -99,6 +99,33 @@ Phone: (303) 724-1651
 <a href="/docs/hasenohr-cv.pdf">CV</a>&nbsp;  
 <br />  
 
+![Nieve Yepez](/img/yepez.jpeg){: width="20%" align="right"}  
+**Nieve Yepez**  
+*Rotation student, GREU Pathway Program*    
+Junior, Metropolitan State University of Denver, Denver, CO   
+Email: nieve.yepez`at`cuanschutz.edu    
+Phone: (303) 724-1651
+<a href="/docs/yepez-cv.pdf">CV</a>&nbsp;  
+<br />  
+
+![Nicole Hansen](/img/hansen.jpeg){: width="20%" align="right"}  
+**Nicole Hansen**   
+*HMGGP Rotation student*    
+B.S., University of Vermont, Burlington, VT   
+Email: nicole.hansen`at`cuanschutz.edu    
+Phone: (303) 724-1651
+<a href="/docs/hansen-cv.pdf">CV</a>&nbsp;  
+<br />  
+
+![James McGrath](/img/mcgrath.jpg){: width="20%" align="right"}  
+**James McGrath**   
+*MAP intern*    
+Freshman, Metropolitan State University of Denver, Denver, CO   
+Email: james.mcgrath`at`cuanschutz.edu    
+Phone: (303) 724-1651
+<a href="/docs/mcgrath-cv.pdf">CV</a>&nbsp;  
+<br />  
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
