@@ -8,6 +8,10 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
+* Cortázar MA, Schmidt J, Egab I, Coban-Akdemir Z, <strong>Jagannathan S#. </strong>. Genomic stop codon scanning reveals quantitative principles of nonsense-mediated mRNA decay. [Preprint]. 2025 Dec. 2025.12.20.695734; doi: 10.64898/2025.12.20.695734
+
+* Xu J, Schmidt J, Bozkurt-Yozgatli T, Egab I, Mestroni L, Taylor M, Posey JE, Gibbs RA, Boerwinkle E, de Vries P, Morrison A, Yi SS, Shaw CA, Carvalho CMB, Lupski JR, <strong>Jagannathan S#</strong>, Timucin E#, & Coban-Akdemir Z#. (2025). Phase Separation Contributes to Pathogenicity for Nonsense Mediated Decay-Escaping Variant Alleles. [Preprint]. 2025 Dec. doi:10.64898/2025.12.01.25341387 <a href="https://www.medrxiv.org/content/10.64898/2025.12.01.25341387v1" target="_blank" rel="noopener">medRxiv</a>  (<strong>#</strong>Co-corresponding)
+
 * McEntee KE, McCurdy BL, Larson A, McCourt EA, Kaufman ML, Campbell AE, Pearson CG, Demarest S, Taliaferrom JM, Hesselberth JR#, <strong>Jagannathan S#. </strong> Splice-switching antisense oligonucleotides correct cryptic exon inclusion and restore SDCCAG8 protein in Bardet-Biedl Syndrome. <em>BioRxiv </em> [Preprint]. 2025 Oct 15. doi: 10.1101/2025.10.15.682674 <a href="https://www.biorxiv.org/content/10.1101/2025.10.15.682674v1" target="_blank" rel="noopener">bioRxiv</a> (<strong>#</strong>Co-corresponding)
 
 * Calhoun JD, Dawood M, Rowlands CF, Fayer S, Radford EJ, McEwen AE, Turnbull C, Spurdle AB, Starita LM, <strong>Jagannathan S#. </strong> Combining multiplexed functional data to improve variant classification. <em>ArXiv </em> [Preprint]. 2025 Mar 24:arXiv:2503.18810v1. <a href="https://arxiv.org/abs/2503.18810v1" target="_blank" rel="noopener">ArXiv</a>
