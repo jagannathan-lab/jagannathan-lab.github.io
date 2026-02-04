@@ -99,15 +99,6 @@ Phone: (303) 724-1651
 <a href="/docs/hasenohr-cv.pdf">CV</a>&nbsp;  
 <br />  
 
-![Nieve Yepez](/img/yepez.jpg){: width="20%" align="right"}  
-**Nieve Yepez**  
-*Rotation student, GREU Pathway Program*    
-Junior, Metropolitan State University of Denver, Denver, CO   
-Email: nieve.yepez`at`cuanschutz.edu    
-Phone: (303) 724-1651
-<a href="/docs/yepez-cv.pdf">CV</a>&nbsp;  
-<br />  
-
 ![Nicole Hansen](/img/hansen.jpeg){: width="20%" align="right"}  
 **Nicole Hansen**   
 *HMGGP Rotation student*    
@@ -379,8 +370,8 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
   <tr>
     <td>Nieve Yepez</td>
     <td>Sophomore, Metropolitan State University, Denver, CO  </td>
-    <td>MAP Intern</td>
-    <td>May 2024 - Aug 2025</td>
+    <td>MAP Intern; PATH-GREU rotation student</td>
+    <td>May 2024 - Aug 2025; Nov 2025 - Jan 2025</td>
     <td>PATH-GREU Scholar</td>
   </tr>  
 
