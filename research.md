@@ -15,8 +15,9 @@ Our lab studies how cells detect and degrade aberrant RNAs—and what happens wh
 * How does variable NMD sensitivity influence cellular phenotypes?
 * What is the role of loss of NMD in facioscapulohumeral muscular dystrophy ([FSHD](https://www.mda.org/disease/facioscapulohumeral-muscular-dystrophy))?
 * How can we leverage these insights to improve clinical variant interpretation and develop therapies for rare diseases?
+
 <br>
-<img align="left" src="/img/research-overview_edit.png" style="width:720px !important;height:320px !important;" />
+<img align="center" src="/img/research-overview_edit.png" style="width:720px !important;height:320px !important;" />
 <br> 
 <br> 
 
