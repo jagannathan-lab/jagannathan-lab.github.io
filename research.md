@@ -16,8 +16,6 @@ Our lab studies how cells detect and degrade aberrant RNAs—and what happens wh
 * What is the role of loss of NMD in facioscapulohumeral muscular dystrophy ([FSHD](https://www.mda.org/disease/facioscapulohumeral-muscular-dystrophy))?
 * How can we leverage these insights to improve clinical variant interpretation and develop therapies for rare diseases?
 
-<br>
-
 ### Our Systems and tools  
 We study RNA surveillance across biological scales, from individual transcripts to population-level analyses. Our experimental systems include human cell lines, patient-derived fibroblasts, and primary muscle cells, allowing us to connect molecular mechanisms to disease-relevant contexts. We also mine large-scale human genetic databases to understand how RNA quality control shapes the landscape of genetic variation.
 <br> 
