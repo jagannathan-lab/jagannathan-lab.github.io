@@ -21,6 +21,7 @@ Our lab studies how cells detect and degrade aberrant RNAs—and what happens wh
 <br> 
 
 <br> 
+
 ### Our Systems and tools  
 We study RNA surveillance across biological scales, from individual transcripts to population-level analyses. Our experimental systems include human cell lines, patient-derived fibroblasts, and primary muscle cells, allowing us to connect molecular mechanisms to disease-relevant contexts. We also mine large-scale human genetic databases to understand how RNA quality control shapes the landscape of genetic variation.
 <br> 
