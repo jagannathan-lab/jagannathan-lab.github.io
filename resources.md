@@ -12,7 +12,7 @@ layout: page
 [Slack](www.slack.com) | [Quartzy](https://app.quartzy.com/) | [Benchling](https://benchling.com) | 
 
 **Data analysis and visualization**  
-[Visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/) | [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | [R for Data Science](http://r4ds.had.co.nz/) | [R cheatsheets](https://www.rstudio.com/resources/cheatsheets/) | [Make ALL the graphs: Dataviz Project](http://datavizproject.com/) | [Aesthetics of a figure](https://www.gabrielaplucinska.com/) | [ColorBrewer](http://colorbrewer2.org/)
+[Visual introduction to probability and statistics](https://seeing-theory.brown.edu/) | [Introduction to Statistical Learning](https://www.statlearning.com/) | [R for Data Science](https://r4ds.hadley.nz/) | [R cheatsheets](https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html) | [Make ALL the graphs: Dataviz Project](http://datavizproject.com/) | [Aesthetics of a figure](https://www.gabrielaplucinska.com/) | [ColorBrewer](http://colorbrewer2.org/)
 
 **Paper writing (& reading)**  
 [Grammarly](https://www.grammarly.com/) | [Hemingway Editor](http://www.hemingwayapp.com/) | [The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing) | [How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper) | [Paperpile](https://paperpile.com/app)
