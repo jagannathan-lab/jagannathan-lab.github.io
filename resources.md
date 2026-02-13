@@ -5,8 +5,11 @@ layout: page
 
 ### Resources
 
-**Lab protocols, reagents, code and data**  
-[Lab Slack](https://jagannathan-lab.slack.com) | [Lab Quartzy](https://app.quartzy.com/groups/196489/) | [Lab Benchling](https://benchling.com/organizations/jagannathan-lab/projects) | [Lab Github Repository](https://github.com/jagannathan-lab) | [Lab plasmids on Addgene](https://www.addgene.org/Sujatha_Jagannathan/)
+**Reagents, code and data**  
+[Lab Github Repository](https://github.com/jagannathan-lab) | [Lab plasmids on Addgene](https://www.addgene.org/Sujatha_Jagannathan/)
+
+**Lab management tools**
+[Slack](www.slack.com) | [Quartzy](https://app.quartzy.com/) | [Benchling](https://benchling.com) | 
 
 **Data analysis and visualization**  
 [Visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/) | [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | [R for Data Science](http://r4ds.had.co.nz/) | [R cheatsheets](https://www.rstudio.com/resources/cheatsheets/) | [Make ALL the graphs: Dataviz Project](http://datavizproject.com/) | [Aesthetics of a figure](https://www.gabrielaplucinska.com/) | [ColorBrewer](http://colorbrewer2.org/)
