@@ -21,7 +21,7 @@ layout: page
 [bioRxiv](https://www.biorxiv.org/) | [protocols.io](https://www.protocols.io/) | [figshare](https://figshare.com/) | [slideshare](https://www.slideshare.net/) | [Addgene](https://www.addgene.org)
 
 **Productivity and time-management tools**  
-[Batched Inbox](https://try.batchedinbox.com/) | [SelfControl App](https://selfcontrolapp.com/)  
+[Batched Inbox](https://try.batchedinbox.com/) | [SelfControl App](https://selfcontrolapp.com/)  | [Todoist](https://www.todoist.com/)
 
 **CU resources**  
 [CU Ombuds office](https://www.ucdenver.edu/offices/ombudsoffice) | [Office of Diversity and Inclusion](https://www.cuanschutz.edu/offices/access-engagement) | [Report discrimination](https://www.cuanschutz.edu/police/report-a-concern) | [CARE TEAM](https://www.cuanschutz.edu/student/support/care-team) | [CU Student Support Referral](https://cm.maxient.com/reportingform.php?UnivofColoradoDenver&layout_id=26) | [CU Career Development Office](https://www.cuanschutz.edu/offices/career-development) | [CU Postdoc Association](https://www.cuanschutz.edu/services/postdoc-association) | [Project Bridge Colorado](http://www.ucdenver.edu/faculty-staff/postdoctoral/ucdpostdoctoralassociation/outreach/projectbridge/Pages/projectbridge.aspx) 
