@@ -8,7 +8,7 @@ layout: page
 **Reagents, code and data**  
 [Lab Github Repository](https://github.com/jagannathan-lab) | [Lab plasmids on Addgene](https://www.addgene.org/Sujatha_Jagannathan/)
 
-**Lab management tools**
+**Lab management tools**   
 [Slack](www.slack.com) | [Quartzy](https://app.quartzy.com/) | [Benchling](https://benchling.com) | 
 
 **Data analysis and visualization**  
