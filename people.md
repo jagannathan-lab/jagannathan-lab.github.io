@@ -99,15 +99,6 @@ Phone: (303) 724-1651
 <a href="/docs/hasenohr-cv.pdf">CV</a>&nbsp;  
 <br />  
 
-![Nicole Hansen](/img/hansen.jpeg){: width="20%" align="right"}  
-**Nicole Hansen**   
-*HMGGP Rotation student*    
-B.S., University of Vermont, Burlington, VT   
-Email: nicole.hansen`at`cuanschutz.edu    
-Phone: (303) 724-1651
-<a href="/docs/hansen-cv.pdf">CV</a>&nbsp;  
-<br />  
-
 ![James McGrath](/img/mcgrath.jpg){: width="20%" align="right"}  
 **James McGrath**   
 *MAP intern*    
@@ -381,6 +372,14 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>GSIP Intern</td>
     <td>June 2025 - Aug 2025</td>
     <td>Junior, University of North Carolina, Chapel Hill, NC  </td>
+  </tr>  
+
+  <tr>
+    <td>Nicole Hansen</td>
+    <td>B.S., University of Vermont, Burlington, VT   </td>
+    <td>HMGGP Rotation student</td>
+    <td>Winter 2025</td>
+    <td>Rotation Student, Watts Lab  </td>
   </tr>  
 
 </table>
