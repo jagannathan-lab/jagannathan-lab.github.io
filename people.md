@@ -108,6 +108,15 @@ Phone: (303) 724-1651
 <a href="/docs/mcgrath-cv.pdf">CV</a>&nbsp;  
 <br />  
 
+![Xinrui Wei](/img/wei.jpeg){: width="20%" align="right"}  
+**Xinrui Wei**   
+*MOLB Rotation Student*    
+B.S., University of Maryland, College Park, MD       
+Email: xinrui.wei`at`cuanschutz.edu    
+Phone: (303) 724-1651
+<a href="/docs/wei-cv.pdf">CV</a>&nbsp;  
+<br />  
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
