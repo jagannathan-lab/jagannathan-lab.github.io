@@ -114,8 +114,8 @@ Phone: (303) 724-1651
 B.S., University of Maryland, College Park, MD       
 Email: xinrui.wei`at`cuanschutz.edu    
 Phone: (303) 724-1651
-<a href="/docs/wei-cv.pdf">CV</a>&nbsp;  
-<br />  
+<a href="/docs/wei-cv.pdf">CV</a>&nbsp;     
+<br />     
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
