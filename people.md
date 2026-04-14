@@ -117,6 +117,16 @@ Phone: (303) 724-1651
 <a href="/docs/wei-cv.pdf">CV</a>&nbsp;     
 <br />     
 
+![Enmma Pearce](/img/pearce.jpg){: width="20%" align="right"}  
+**Emma Pearce**   
+*Genomics Intern*    
+B.S., Oregon State University, Corvallis, OR       
+Email: emma.pearce`at`cuanschutz.edu    
+Phone: (303) 724-1651
+<a href="/docs/pearce_cv.pdf">CV</a>&nbsp;     
+<br />     
+
+
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
 - Technicians/Professional Research Assistants  
