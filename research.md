@@ -3,9 +3,9 @@ layout: page
 ---
 |
 
-<iframe width="420" height="315"
-src="https://youtu.be/MbpVX5I5DHE">
-</iframe>
+<div class="container">
+  <iframe width="560" src="https://youtu.be/MbpVX5I5DHE"></iframe>
+</div>
 
 ### Overview  
 Our lab studies how cells detect and degrade aberrant RNAs, and what happens when this surveillance fails. We combine computational biology, functional genomics, and biochemistry to uncover the rules governing RNA quality control, with implications for genetic disease diagnosis and therapy.
