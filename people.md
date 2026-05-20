@@ -106,16 +106,7 @@ Freshman, Metropolitan State University of Denver, Denver, CO
 Email: james.mcgrath`at`cuanschutz.edu    
 Phone: (303) 724-1651
 <a href="/docs/mcgrath-cv.pdf">CV</a>&nbsp;  
-<br />  
-
-![Xinrui Wei](/img/wei.jpeg){: width="20%" align="right"}  
-**Xinrui Wei**   
-*MOLB Rotation Student*    
-B.S., University of Maryland, College Park, MD       
-Email: xinrui.wei`at`cuanschutz.edu    
-Phone: (303) 724-1651
-<a href="/docs/wei-cv.pdf">CV</a>&nbsp;     
-<br />     
+<br />   
 
 ![Enmma Pearce](/img/pearce.jpg){: width="20%" align="right"}  
 **Emma Pearce**   
@@ -401,4 +392,13 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>Rotation Student, Watts Lab  </td>
   </tr>  
 
+  <tr>
+    <td>Xinrui Wei</td>
+    <td>B.S., University of Maryland, College Park, MD </td>
+    <td>MOLB Rotation student</td>
+    <td>Spring 2026</td>
+    <td>Graduate Student, MOLB  </td>
+  </tr> 
+    
+<br />    
 </table>
