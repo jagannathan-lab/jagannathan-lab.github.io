@@ -9,6 +9,6 @@ After three wonderful and productive years in the lab as a PRA, Kelly McEntee, w
 
 We had a lab hike, a farewell lunch at Carmella's and shared some gifts that we hope she will enjoy!
 <br>
-<img align="center" src="/img/kelly-lastday.jpg" style="width:560px !important;height:340px !important;" />
+<img align="center" src="/img/kelly-lastday.jpeg" style="width:560px !important;height:340px !important;" />
 <br>
 <br>
