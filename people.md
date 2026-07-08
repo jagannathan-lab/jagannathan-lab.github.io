@@ -108,7 +108,7 @@ Phone: (303) 724-1651
 <br />     
 
 ![Nicole Hansen](/img/hansen.jpeg){: width="20%" align="right"}  
-**Nicole Hansenr**   
+**Nicole Hansen**   
 *Graduate Student (HMGGP)*    
 B.S., University of Vermont, Burlington, VT   
 Email: nicole.hansen`at`cuanschutz.edu    
