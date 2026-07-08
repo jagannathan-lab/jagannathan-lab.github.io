@@ -50,16 +50,6 @@ Phone: (303) 724-1651
 <br />
 <br />
 
-![Kelleen McEntee](/img/mcentee.jpeg){: width="20%" align="right"}
-**Kelleen McEntee**  
-*Professional Research Assistant*  
-B. A., University of Colorado, Boulder, CO      
-Email: kelleen.mcentee`at`cuanschutz.edu  
-Phone: (303) 724-1651
-<a href="/docs/mcentee-cv.pdf">CV</a>&nbsp;
-<br />  
-<br />  
-
 ![Pragyan Singh](/img/pragyan.jpg){: width="20%" align="right"}
 **Pragyan Singh**  
 *FSHD Society Postdoctoral Fellow*  
@@ -116,6 +106,15 @@ Email: emma.pearce`at`cuanschutz.edu
 Phone: (303) 724-1651
 <a href="/docs/pearce_cv.pdf">CV</a>&nbsp;     
 <br />     
+
+![Nicole Hansen](/img/hansen.jpeg){: width="20%" align="right"}  
+**Nicole Hansenr**   
+*Graduate Student (HMGGP)*    
+B.S., University of Vermont, Burlington, VT   
+Email: nicole.hansen`at`cuanschutz.edu    
+Phone: (303) 724-1651
+<a href="/docs/hansen-cv.pdf">CV</a>&nbsp;  
+<br />  
 
 
 **You? Join us!**  
@@ -399,6 +398,16 @@ Please see our [Join us](https://jagannathan-lab.github.io/joinus/) page for mor
     <td>Spring 2026</td>
     <td>Graduate Student, MOLB  </td>
   </tr> 
-    
+  
+  <tr>
+    <td>Kelleen McEntee</td>
+    <td>B. A., University of Colorado, Boulder, CO </td>
+    <td>Professional Research Assistant</td>
+    <td>Aug 2023 - June 2026</td>
+    <td>Graduate Student, MOLB  </td>
+  </tr> 
+
+<br />  
+<br />  
 <br />    
 </table>
