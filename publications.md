@@ -8,6 +8,8 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
+* Egab Ι, Schmidt J, Cortázar Μ, Xu J, Orchard P, Dawood M, Bozkurt-Yozgatli T, Koh J, Mestroni L, Taylor M, Yi S, Calame D, Posey JE, Gibbs RA, Boerwinkle E, Reiner AP, de Vries PS, Morrison AC, Shaw CA, Lupski JR, Carvalho CMB, Montgomery S, <strong>Jagannathan S#, </strong> Coban-Akdemir Z#, NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium. “Unveiling the Hidden Rules: Enhancing NMD Prediction for Protein-Truncating Variants”. [Preprint]. 2026 July. doi: 10.64898/2026.06.26.734884 <a href="https://www.biorxiv.org/content/10.64898/2026.06.26.734884v1" target="_blank" rel="noopener">bioRxiv</a> (<strong>#</strong>Co-corresponding)
+
 * Cortázar MA, Schmidt J, Egab I, Coban-Akdemir Z, <strong>Jagannathan S#. </strong> Genomic stop codon scanning reveals quantitative principles of nonsense-mediated mRNA decay. [Preprint]. 2025 Dec. doi: 10.64898/2025.12.20.695734 <a href="https://www.biorxiv.org/content/10.64898/2025.12.20.695734v1" target="_blank" rel="noopener">bioRxiv</a>
 
 * Xu J, Schmidt J, Bozkurt-Yozgatli T, Egab I, Mestroni L, Taylor M, Posey JE, Gibbs RA, Boerwinkle E, de Vries P, Morrison A, Yi SS, Shaw CA, Carvalho CMB, Lupski JR, <strong>Jagannathan S#</strong>, Timucin E#, & Coban-Akdemir Z#. Phase Separation Contributes to Pathogenicity for Nonsense Mediated Decay-Escaping Variant Alleles. [Preprint]. 2025 Dec. doi:10.64898/2025.12.01.25341387 <a href="https://www.medrxiv.org/content/10.64898/2025.12.01.25341387v1" target="_blank" rel="noopener">medRxiv</a>  (<strong>#</strong>Co-corresponding)
