@@ -8,6 +8,8 @@ layout: page
 
 (<strong>#</strong>Corresponding Author) 
 
+* Nakamura Y, Nguyen T, Mor N, Dominissini D, Tang I, Torio CJ, Thulaseedharan H, Zhou RY, Zhang W, Skourti-Stathaki K, Douville J, Mignon L, Dung A, Freier S, Watt A, <strong>Jagannathan S, </strong> Crooke ST, Gleeson JG. "ASXL3 truncating patient variants mediate transcriptional gain-of-function and are antisense oligonucleotide-responsive". [Preprint]. 2026 July. doi: 10.64898/2026.07.20.26358515 <a href="https://www.medrxiv.org/content/10.64898/2026.07.20.26358515v1" target="_blank" rel="noopener">medRxiv</a>
+
 * Egab Ι, Schmidt J, Cortázar Μ, Xu J, Orchard P, Dawood M, Bozkurt-Yozgatli T, Koh J, Mestroni L, Taylor M, Yi S, Calame D, Posey JE, Gibbs RA, Boerwinkle E, Reiner AP, de Vries PS, Morrison AC, Shaw CA, Lupski JR, Carvalho CMB, Montgomery S, <strong>Jagannathan S#, </strong> Coban-Akdemir Z#, NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium. “Unveiling the Hidden Rules: Enhancing NMD Prediction for Protein-Truncating Variants”. [Preprint]. 2026 July. doi: 10.64898/2026.06.26.734884 <a href="https://www.biorxiv.org/content/10.64898/2026.06.26.734884v1" target="_blank" rel="noopener">bioRxiv</a> (<strong>#</strong>Co-corresponding)
 
 * Cortázar MA, Schmidt J, Egab I, Coban-Akdemir Z, <strong>Jagannathan S#. </strong> Genomic stop codon scanning reveals quantitative principles of nonsense-mediated mRNA decay. [Preprint]. 2025 Dec. doi: 10.64898/2025.12.20.695734 <a href="https://www.biorxiv.org/content/10.64898/2025.12.20.695734v1" target="_blank" rel="noopener">bioRxiv</a>
