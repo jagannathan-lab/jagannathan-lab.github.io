@@ -116,6 +116,16 @@ Phone: (303) 724-1651
 <a href="/docs/hansen-cv.pdf">CV</a>&nbsp;  
 <br />  
 
+![Elizabeth Spear](/img/spear.jpeg){: width="20%" align="right"}  
+**Elizabeth Spear**   
+*Postdoctoral Fellow*    
+B.S., Metropolitan State University of Denver, Denver, CO
+Ph. D., University of Colorado Anschutz Medical Campus, Aurora, CO
+Email: elizabeth.spear`at`cuanschutz.edu    
+Phone: (303) 724-1651
+<a href="/docs/spear_cv.pdf">CV</a>&nbsp;  
+<br />  
+
 
 **You? Join us!**  
 We welcome inquiries from enthusiastic scientists at all levels for the following positions:
