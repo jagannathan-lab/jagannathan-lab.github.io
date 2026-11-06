@@ -6,7 +6,7 @@ layout: page
 
 ### Publications (<strong><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/sujatha.jagannathan.1/bibliography/46492045/public/?sort=date&direction=ascending" target="_blank" rel="noopener">PubMed</a></strong>)
 
-(<strong>#</strong>Corresponding Author); (<strong>Bolded</strong>Lab member) 
+(<strong>#</strong>Corresponding Author); (<strong>Bolded</strong> Lab member) 
 
 * Nakamura Y, Nguyen T, Mor N, Dominissini D, Tang I, Torio CJ, Thulaseedharan H, Zhou RY, Zhang W, Skourti-Stathaki K, Douville J, Mignon L, Dung A, Freier S, Watt A, <strong>Jagannathan S, </strong> Crooke ST, Gleeson JG. "ASXL3 truncating patient variants mediate transcriptional gain-of-function and are antisense oligonucleotide-responsive". [Preprint]. 2026 July. doi: 10.64898/2026.07.20.26358515 <a href="https://www.medrxiv.org/content/10.64898/2026.07.20.26358515v1" target="_blank" rel="noopener">medRxiv</a>
 
@@ -35,7 +35,7 @@ The transcription factor DUX4 orchestrates translational reprogramming by broadl
 
 * <strong>Muñoz O, Lore M, Jagannathan S#. </strong> The long and short of EJC-independent nonsense-mediated RNA decay. <em>Biochem Soc Trans. </em> 2023 Jun 28;51(3):1121-1129. doi: 10.1042/BST20221131. <a href="https://portlandpress.com/biochemsoctrans/article-abstract/doi/10.1042/BST20221131/233031/The-long-and-short-of-EJC-independent-nonsense?redirectedFrom=fulltext">Link</a>
 
-* <strong>Campbell AE*, Dyle MC*,</strong> Albanese R, Matheny T, Sudheendran K, <strong>Cortázar MA, Forman T,<s/trong> Fu R, Gillen AE, Caruthers MH, Floor SN, Calviello L, and <strong>Jagannathan S#. </strong> Compromised nonsense-mediated RNA decay results in truncated RNA-binding protein production upon DUX4 expression. <em>Cell Reports </em> 2023 Jun 27;42(6):112642; <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00653-8">Link</a> <a href="https://www.biorxiv.org/content/10.1101/2021.06.28.450189v4" target="_blank" rel="noopener">bioRxiv</a> (<strong>*</strong>Equal Contribution)  
+* <strong>Campbell AE*, Dyle MC*,</strong> Albanese R, Matheny T, Sudheendran K, <strong>Cortázar MA, Forman T,<s/trong> Fu R, Gillen AE, Caruthers MH, Floor SN, Calviello L, and Jagannathan S#. </strong> Compromised nonsense-mediated RNA decay results in truncated RNA-binding protein production upon DUX4 expression. <em>Cell Reports </em> 2023 Jun 27;42(6):112642; <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00653-8">Link</a> <a href="https://www.biorxiv.org/content/10.1101/2021.06.28.450189v4" target="_blank" rel="noopener">bioRxiv</a> (<strong>*</strong>Equal Contribution)  
 
 * <strong>Jagannathan S#. </strong> The evolution of DUX4 gene regulation and its implication for facioscapulohumeral muscular dystrophy. <em>Biochim Biophys Acta Mol Basis Dis. </em> 2022; May 1;1868(5):166367. <a href="https://www.sciencedirect.com/science/article/pii/S0925443922000308?via%3Dihub">Link</a> 
 
