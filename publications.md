@@ -8,6 +8,8 @@ layout: page
 
 (<strong>#</strong>Corresponding Author); (<strong>Bolded</strong> Lab member) 
 
+* Albanese R, <strong>Campbell AE,</strong> Bonfanti M, Ali AS, James CT, Graziadei A, Tasca G, Riva A, Krijgsveld J, <strong>Jagannathan S,</strong> Calviello L. "Accelerating discovery and integration from RNA to Protein with R2T2P". [Preprint]. Nov 2026. doi: https://doi.org/10.64898/2026.11.05.764226 <a href="https://www.biorxiv.org/content/10.64898/2026.11.05.764226v1" target="_blank" rel="noopener">bioRxiv</a>
+
 * Nakamura Y, Nguyen T, Mor N, Dominissini D, Tang I, Torio CJ, Thulaseedharan H, Zhou RY, Zhang W, Skourti-Stathaki K, Douville J, Mignon L, Dung A, Freier S, Watt A, <strong>Jagannathan S, </strong> Crooke ST, Gleeson JG. "ASXL3 truncating patient variants mediate transcriptional gain-of-function and are antisense oligonucleotide-responsive". [Preprint]. 2026 July. doi: 10.64898/2026.07.20.26358515 <a href="https://www.medrxiv.org/content/10.64898/2026.07.20.26358515v1" target="_blank" rel="noopener">medRxiv</a>
 
 * Egab Ι, Schmidt J, <strong>Cortázar Μ,</strong> Xu J, Orchard P, Dawood M, Bozkurt-Yozgatli T, Koh J, Mestroni L, Taylor M, Yi S, Calame D, Posey JE, Gibbs RA, Boerwinkle E, Reiner AP, de Vries PS, Morrison AC, Shaw CA, Lupski JR, Carvalho CMB, Montgomery S, <strong>Jagannathan S#, </strong> Coban-Akdemir Z#, NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium. “Unveiling the Hidden Rules: Enhancing NMD Prediction for Protein-Truncating Variants”. [Preprint]. 2026 July. doi: 10.64898/2026.06.26.734884 <a href="https://www.biorxiv.org/content/10.64898/2026.06.26.734884v1" target="_blank" rel="noopener">bioRxiv</a> (<strong>#</strong>Co-corresponding)
